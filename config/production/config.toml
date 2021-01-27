@@ -114,4 +114,4 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   BookTranslatedOnly = true
 
   # Google Tag Manager
-  # googleTagManagerId = "GTM-M4F8PQZ"
+  googleTagManagerId = "GTM-M4F8PQZ"
