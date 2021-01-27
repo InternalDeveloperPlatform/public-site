@@ -7,8 +7,6 @@ name: CI for Staging
 on:
   push:
     branches: [ staging ]
-  pull_request:
-    branches: [ staging ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
