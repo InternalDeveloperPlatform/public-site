@@ -6,7 +6,7 @@ name: CI for Staging
 # events but only for the master branch
 on:
   push:
-    branches: [ staging ]
+    branches: [ main ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -29,4 +29,4 @@ jobs:
       with:
         humanitec-token: ${{ secrets.HUMANITEC_TOKEN }}
         organization: internaldeveloperplatform
-        additional-docker-arguments: --build-arg env=staging
+        additional-docker-arguments: --build-arg env=production
