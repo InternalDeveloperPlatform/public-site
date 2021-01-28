@@ -4,7 +4,7 @@ This repository holds the source code for the public community page [Internal De
 
 ## How to contribute
 
-We are using Heroku to generate a static site from the md-files in this repository. In order to contribute, clone this repository and make your changes. Make sure to test your changes locally (see next section) before submitting a pull request. Once you are happy with your contribution, submit a pull request against the `main` branch (or the `staging` branch if your changes are more experimental).
+We are using Hugo to generate a static site from the md-files in this repository. In order to contribute, clone this repository and make your changes. Make sure to test your changes locally (see next section) before submitting a pull request. Once you are happy with your contribution, submit a pull request against the `main` branch (or the `staging` branch if your changes are more experimental).
 
 ## Test the site locally
 
