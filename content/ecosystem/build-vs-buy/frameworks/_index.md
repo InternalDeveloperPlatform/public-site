@@ -15,5 +15,5 @@ Using frameworks is the quickest and most state-of-the-art way to build your Int
 --- | ---
 [Backstage]({{< relref "backstage" >}}) | A platform for building developer portals
 [Gimlet]({{< relref "gimlet" >}}) | A modular workflow for Kubernetes
-[Humanitec]({{< relref "humanitec" >}}) | YThe fastest way to build your Internal Developer Platform (IDP)
+[Humanitec]({{< relref "humanitec" >}}) | The fastest way to build your Internal Developer Platform (IDP)
 [Upbound]({{< relref "upbound" >}}) | Universal cloud APIs and consoles for your team
