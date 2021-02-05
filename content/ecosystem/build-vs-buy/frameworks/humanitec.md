@@ -1,6 +1,7 @@
 +++
 title="Humanitec"
 url="/frameworks/humanitec"
+weight=21
 +++
 
 # Humanitec
