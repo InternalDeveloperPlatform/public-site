@@ -17,5 +17,6 @@ There are a number of great DevOps consultancies out there that can help you to 
 [Container Solutions]({{< relref "container-solutions" >}}) |
 [Eficode]({{< relref "eficode" >}}) |
 [EqualExperts]({{< relref "equalexperts" >}}) |
+[Expert Thinking]({{< relref "expert-thinking" >}}) |
 [Polarsquad]({{< relref "polarsquad" >}}) |
 [Tektit Consulting]({{< relref "tektit" >}}) |
