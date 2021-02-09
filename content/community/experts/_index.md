@@ -13,5 +13,5 @@ There are a number of experts if it comes to Internal Developer Platforms (IDP).
 
 **Expert** |
 --- |
-
-**Coming soon**
+[Alan Barr]({{< relref "alan_barr" >}}) |
+[James Whinn]({{< relref "james_whinn" >}}) |
