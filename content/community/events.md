@@ -20,7 +20,7 @@ _Community events are a great way to connect with other developers, to exchange 
 
 Group | Event name | Venue | Date and Time
 --- | --- | --- | ---
-Internal Developer Platform Meetup (ATX) | [How to make your developers self-serving with an Internal Developer Platform](https://www.meetup.com/internal-developer-platform-meetup-atx/events/276305015/) | Online Meetup | March 4th, 7pm CST
+Internal Developer Platform Meetup (ATX) | [How to make your developers self-serving with an Internal Developer Platform](https://www.meetup.com/internal-developer-platform-meetup-atx/events/276305015/) | Online Meetup | March 4th, 12pm CT / 10am PT
 
 Got an upcoming event you'd like to promote? Let us know.
 
