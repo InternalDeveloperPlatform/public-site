@@ -10,7 +10,7 @@ weight=10
 
 _Internal Developer Platfoms_ is our central hub for the global community of engineers and architects. It provides a space for developers and engineers to discuss best practices and war stories around their Internal Developer Platforms and tooling setups. Join to exchange notes and ideas, find new opportunities, and build better developer tooling. Sign up to your local Internal Developer Platform (IDP) Meetup or join our upcoming online events and webinars.
 
-[Join 500+ members on r/IDP](https://www.reddit.com/r/internaldeveloperplatform)
+[Join 500+ members on r/IDP](https://www.reddit.com/r/internaldevplatforms)
 
 ## Our Community Mission
 
