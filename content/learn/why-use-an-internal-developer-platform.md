@@ -34,7 +34,7 @@ The largest study conducted yet on the quantitative impact of Internal Developer
 
 | Impact  | Before | After |
 | :--- | :--- | :--- |
-| Waiting times due to blocked environments decreased by 90% | 4 hrs/ wk/dev | 24 months/ wk/dev |
+| Waiting times due to blocked environments decreased by 90% | 4 hrs/ wk/dev | 24 minutes/ wk/dev |
 | Average Deployment Frequency ( up 4X) | 1.5/week | 6/week |
 | Visibility and transparency across teams, services, and environments decreases transactional communication | 15 min in daily scrum | Direct reaction |
 | Onboarding time for new developers to deliver set up in hours | 30 hours | 4 hours |
