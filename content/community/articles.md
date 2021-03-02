@@ -8,7 +8,10 @@ weight=30
 
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
-- [In this blog-post Jason Warner, their CTO, explains why and how Github build their IDP.](https://humanitec.com/blog/jason-warner-why-github-built-their-own-internal-developer-platform)
+- [Learn more about the joy of internal tools from Slack.](https://slack.engineering/the-joy-of-internal-tools/)
+- [In this blog article, Jorge Fatta from Auth0 explains how to unleash engineering potential.](https://auth0.com/blog/auth0-internal-dev-tools-unleashing-engineering-potential/)
+- [Stuart Corbishley explains how to build internal tooling to improve your team's shared knowledge.](https://www.offerzen.com/blog/how-to-internal-tooling-improve-shared-knowledge)
+- [In this blog post Jason Warner, their CTO, explains why and how Github build their IDP.](https://humanitec.com/blog/jason-warner-why-github-built-their-own-internal-developer-platform)
 - [The Hellofresh engineering team explains why an IDP makes sense and how to get yours.](https://engineering.hellofresh.com/advocating-for-a-product-mindset-within-platform-teams-and-how-we-do-it-at-hellotech-part-1-fc1fbf8ae015)
 - [Chris Stephenson dissecting DevOp and why Internal Developer Platforms are a necessary consequence.](https://humanitec.com/blog/the-rise-of-internal-developer-platforms)
 - [The folks of Equal Experts who have build plenty of IDPs share their insights on how to build.](https://digital-platform.playbook.ee/)
