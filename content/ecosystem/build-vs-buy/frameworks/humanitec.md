@@ -12,14 +12,13 @@ weight=21
 
 **Website:**[humanitec.com](https://humanitec.com/)
 
-**Docs:** [docs.humanitec.com](http://docs.humanitec.com/)
+**Docs:** [docs.humanitec.com](https://docs.humanitec.com/)
 
 ### Core Component Support
 
 - [x] Application Configuration Management
 - [x] Infrastructure Orchestration
 - [x] Environment Management
-- [x] Infrastructure Orchestration
 - [x] Deployment Automation
 - [x] Role Based Access Control
 
@@ -37,9 +36,9 @@ weight=21
 - **Integration concept:** API based, External Drivers
 - **Setup time first app:** 4 hours
 - **Source:** closed
-- **Total Cost of Ownership:** The vendor doesn't publish prices on the website but people report a cost of around 20-30% of a self-built setup. 
-- **Adoption:** Market-leader for IDPs, production-grade, widely adopted. 
+- **Total Cost of Ownership:** The vendor doesn't publish prices on the website but people report a cost of around 20-30% of a self-built setup.
+- **Adoption:** Market-leader for IDPs, production-grade, widely adopted.
 
-{{< button href="https//humanitec.com" target="_blank" >}}
+{{< button href="https://humanitec.com" target="_blank" >}}
 -> Humanitec
 {{< /button >}}  
