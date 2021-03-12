@@ -1,7 +1,6 @@
 +++
 title="DevOpsBox"
 url="/frameworks/devopsbox"
-weight=21
 +++
 
 # DevOpsBox
@@ -19,17 +18,20 @@ weight=21
 - [x] Application Configuration Management
 - [x] Infrastructure Orchestration
 - [x] Environment Management
-- [x] Build Automation
 - [x] Deployment Automation
 - [x] Role-Based Access Control
-- [x] Platform single sign-on
-- [x] Cloud landing zone
 
 ### Interfaces
 
 - [X] API
 - [ ] UI (User Interface)
 - [x] CLI (Command Line Interface)
+
+### Additional Components
+
+- [x] Build Automation
+- [x] Platform single sign-on
+- [x] Cloud landing zone
 
 ### Details
 
