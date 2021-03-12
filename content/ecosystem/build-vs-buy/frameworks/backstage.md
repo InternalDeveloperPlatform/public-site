@@ -18,7 +18,6 @@ url="/frameworks/backstage"
 - [x] Application Configuration Management
 - [x] Infrastructure Orchestration
 - [x] Environment Management (except dynamic environment provisioning)
-- [x] Infrastructure Orchestration
 - [x] Deployment Automation
 - [x] Role Based Access Control
 

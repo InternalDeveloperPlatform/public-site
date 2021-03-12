@@ -18,7 +18,6 @@ url="/frameworks/gimlet"
 - [ ] Application Configuration Management
 - [x] Infrastructure Orchestration
 - [x] Environment Management (but not dynamic, based on Helm charts)
-- [x] Infrastructure Orchestration
 - [x] Deployment Automation (GitOps only)
 - [ ] Role Based Access Control
 
