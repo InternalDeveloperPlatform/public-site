@@ -18,9 +18,7 @@ _Community events are a great way to connect with other developers, to exchange 
 
 ## Upcoming events
 
-Group | Event name | Venue | Date and Time
---- | --- | --- | ---
-Internal Developer Platform Meetup (ATX) | [How to make your developers self-serving with an Internal Developer Platform](https://www.meetup.com/internal-developer-platform-meetup-atx/events/276305015/) | Online Meetup | March 4th, 12pm CT / 10am PT
+Please check the meetup groups for online events.
 
 Got an upcoming event you'd like to promote? Let us know.
 
@@ -44,6 +42,7 @@ Got an upcoming event you'd like to promote? Let us know.
 
 ### Australia
 
+- [Platform Engineers Brisbane](https://www.meetup.com/de-DE/pebrisbane/)
 - [Platform Engineers Syndey](https://www.meetup.com/de-DE/Sydney-PE/)
 
 ## Start your own
