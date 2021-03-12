@@ -28,7 +28,7 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [Understand how IDPs help you scale DevOps.](https://eboxsupport.com/the-3-keys-to-scaling-enterprise-devops-use/)
 - [Nick Daigler on the Rise of Platform Engineering.](https://softwareengineeringdaily.com/2020/02/13/setting-the-stage-for-platform-engineering/)
 - [Cezary Olborski about quality of infrastructure configuration](https://cezaryolborski.medium.com/what-does-it-mean-to-have-a-good-configuration-for-your-infrastructure-4bdf0b433a7e)
-- [In this post, Maciej Raszplewicz shows how important are tests in the infrastructure configuration](https://dev.to/mraszplewicz/testing-in-infrastructure-as-code-and-why-terraform-may-not-be-the-best-option-3k2i)
+- [In this post, Maciej Raszplewicz shows how to write tests in the Infrastructure as Code world](https://dev.to/mraszplewicz/testing-in-infrastructure-as-code-and-why-terraform-may-not-be-the-best-option-3k2i)
 - [Great technical post about difficulties with making own role-based access control](https://raszpel.medium.com/my-perfect-aws-and-kubernetes-role-based-access-control-and-the-reality-dce92de91abe)
 - [How NoOps/IDP can help to solve the core IT problems](https://cezaryolborski.medium.com/how-we-want-to-help-to-solve-the-four-core-it-problems-by-introducing-the-noops-platform-166abce9b6d3)
 - [Problems with DevOps Engineer role definition](https://cezaryolborski.medium.com/devops-engineer-do-you-know-who-you-want-to-hire-5e14b8707a57)
