@@ -9,7 +9,7 @@ weight=10
 
 _When should you consider building your own Internal Developer Platform (IDP)? Are there shortcuts you can take?_
 
-Internal Developer Platforms (IDPs) always have to be tailored to the needs of the specific company. In a real sense, it's not possible to buy a ready-made IDP off-the-shelf. They always have to be customized to your specific delivery needs. There are two approaches teams take when they want to get an Internal Developer Platform:
+Internal Developer Platforms (IDPs) always have to be tailored to the needs of the specific company. In a real sense, it's not possible to buy a ready-made IDP off-the-shelf. They always have to be customized to your specific delivery needs. There are two approaches teams take when they want to get an Internal Developer Platform. You might want to check out [this article](https://humanitec.com/blog/build-vs-buy-an-internal-developer-platform) to learn more about how to best take the decision build vs. buy.
 
 ## Off-the-shelf frameworks for building Internal Developer Platforms (IDPs)
 
@@ -26,5 +26,3 @@ Another approach is building your Internal Developer Platform from scratch using
 {{< button relref="build-it-yourself" >}}
 -> Build an Internal Developer Platform (IDP) yourself
 {{< /button >}}
-
-You might want to check out [this article](https://humanitec.com/blog/build-vs-buy-an-internal-developer-platform) to learn more about how to best take the decision build vs. buy.
