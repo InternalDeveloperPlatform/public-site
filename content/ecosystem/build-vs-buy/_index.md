@@ -26,3 +26,5 @@ Another approach is building your Internal Developer Platform from scratch using
 {{< button relref="build-it-yourself" >}}
 -> Build an Internal Developer Platform (IDP) yourself
 {{< /button >}}
+
+You might want to check out [this article](https://humanitec.com/blog/build-vs-buy-an-internal-developer-platform) to learn more about how to best take the decision build vs. buy.
