@@ -18,23 +18,32 @@ _Community events are a great way to connect with other developers, to exchange 
 
 ## Upcoming events
 
-Group | Event name | Venue | Date and Time
---- | --- | --- | ---
-Internal Developer Platform Meetup (ATX) | [How to make your developers self-serving with an Internal Developer Platform](https://www.meetup.com/internal-developer-platform-meetup-atx/events/276305015/) | Online Meetup | March 4th, 12pm CT / 10am PT
+Please check the meetup groups for online events.
 
 Got an upcoming event you'd like to promote? Let us know.
 
 ## Find a local IDP group
 
-Our local communities
+### Europe
 
-- [IDP User group SF & Bay area](https://www.meetup.com/en-AU/internal-developer-platforms-meetup-sf-bay-area/)
-- [IDP User group Austin](https://www.meetup.com/internal-developer-platform-meetup-atx)
-- IDP User group NYC (coming soon)
-- [Berlin devs and drinks](https://www.meetup.com/en-AU/Berlin-Devs-Drinks)
-- IDP user group London (coming soon)
-- IDP user group Stockholm (coming soon)
-- IDP user group Austin (coming soon)
+- [Platform Engineers Amsterdam](https://www.meetup.com/de-DE/platform-engineers-amsterdam/)
+- [Platform Engineers Berlin](https://www.meetup.com/de-DE/platform-engineers-berlin/)
+- [Platform Engineers Copenhagen](https://www.meetup.com/de-DE/platform-engineers-copenhagen/)
+- [Platform Engineers Dublin](https://www.meetup.com/de-DE/platform-engineers-dublin/)
+- [Platform Engineers London](https://www.meetup.com/de-DE/platform-engineers-london/)
+- [Platform Engineers Munich](https://www.meetup.com/de-DE/platform-engineers-munich/)
+- [Platform Engineers Stockholm](https://www.meetup.com/de-DE/platform-engineers-stockholm/)
+
+### United States
+
+- [Platform Engineers ATX](https://www.meetup.com/de-DE/platform-engineers-atx-online/)
+– [Platform Engineers NYC](https://www.meetup.com/de-DE/platform-engineers-nyc/)
+- [Platform Engineers SF & Bay Area](https://www.meetup.com/de-DE/platform-engineers-sf/)
+
+### Australia
+
+- [Platform Engineers Brisbane](https://www.meetup.com/de-DE/pebrisbane/)
+- [Platform Engineers Syndey](https://www.meetup.com/de-DE/Sydney-PE/)
 
 ## Start your own
 
