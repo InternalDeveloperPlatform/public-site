@@ -18,11 +18,8 @@ At Ambassador, we agonize over how to optimize the [cloud-native developer exper
 ## Resources
 
 * [Create your free cloud account](https://app.getambassador.io/auth/realms/production/protocol/openid-connect/auth?client_id=ambassador&redirect_uri=https%3A%2F%2Fapp.getambassador.io%2F.ambassador%2Foauth2%2Fredirection-endpoint&response_type=code&scope=email+openid+profile&state=658bab1b44b8b694da334193b388604a395a30104658f2b548ae7277e78b39bf%3Ahttps%3A%2F%2Fapp.getambassador.io%2Fcloud%2Fpreview)
-
 * [Get started with Telepresence](https://www.getambassador.io/docs/latest/telepresence/quick-start/)
-
 * [Get started with Edge Stack](https://www.getambassador.io/docs/latest/tutorials/getting-started/)
-
 * [Check out the blog](https://blog.getambassador.io/)
 
 {{< button href="https://getambassador.io/" target="_blank" >}}
