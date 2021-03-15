@@ -13,6 +13,7 @@ There are a number of tools teams are using when building their own Internal Dev
 
 **Tool** | **Claim**
 --- | ---
+[Ambassador Labs]({{< relref "ambassador-labs" >}}) | Ship software faster on Kubernetes.
 [Argo CD]({{< relref "argo-cd" >}}) | Declarative GitOps CD for Kubernetes
 [Flux CD]({{< relref "flux-cd" >}}) | Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 [Helm]({{< relref "helm" >}}) | The package manager for Kubernetes
