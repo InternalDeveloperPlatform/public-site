@@ -21,12 +21,12 @@ There are a number of typical challenges when it comes to Environment Management
 - Not being able to create new environments when needed can have a significant impact on your speed of delivery. An example is when shared environments are blocked for days or even weeks because one team needs to test a hotfix that needs to go to `production` asap, or because QA is testing a new feature that is hard and time-consuming to test. While these environments are blocked, other teams are not able to test their own new services or features. Be aware that this is not an infrequent problem (as in the cases mentioned) but happens every single day on a lesser basis.
 
 In general, infrastructure, application configurations, and the real environments are often managed in silos from both, a technical as well as an organizational point of view. The following picture illustrates this:
-{{< figure src="/_assets/images/environment-management-before.png" caption="Infrastructure, application configurations, and environments are typically managed in silos" alt="environment-management-before.png" >}}
+{{< figure link="/_assets/images/environment-management-before.png" src="/_assets/images/environment-management-before.png" caption="Infrastructure, application configurations, and environments are typically managed in silos" alt="environment-management-before.png" >}}
 
 ## Typical approach with an Internal Developer Platform
 
 An Internal Developer Platform typically connects infrastructure (see also [Infrastructure Orchestration]({{< relref "infrastructure-orchestration" >}})), application configurations (see also [Application Configuration Management]({{< relref "application-configuration-management" >}})), and the management of environments. The following picture illustrates this.
-{{< figure src="/_assets/images/environment-management-after.png" caption="Internal Developer Platforms tie together infrastructure, application configurations, and environments to boost the developer experience" alt="environment-management-after.png" >}}
+{{< figure link="/_assets/images/environment-management-after.png" src="/_assets/images/environment-management-after.png" caption="Internal Developer Platforms tie together infrastructure, application configurations, and environments to boost the developer experience" alt="environment-management-after.png" >}}
 
 There are a number of different elements in how Internal Developer Platforms support Environment Management:
 

@@ -20,7 +20,7 @@ The Ops team primarily runs and configures the IDP. Teams running IDPs concentra
 
 IDPs integrate into existing workflows which usually remain a git-push deploy workflow but add further automation. The entire deployment process is now at the disposal of the developer. She can request resources, spin up fully provisioned environments, rollback, deploy and set deployment automation ruling autonomously.
 
-{{< figure caption="A modern developer needs three panes of glass: the IDE to code, git to merge and an IDP to ship." src="/_assets/images/3_panes_of_glass.png" alt="3_panes_of_glass.png" >}}
+{{< figure caption="A modern developer needs three panes of glass: the IDE to code, git to merge and an IDP to ship." link="/_assets/images/3_panes_of_glass.png" src="/_assets/images/3_panes_of_glass.png" alt="3_panes_of_glass.png" >}}
 
 ### Five core components
 
