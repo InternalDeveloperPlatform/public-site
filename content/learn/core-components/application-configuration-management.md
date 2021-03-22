@@ -32,5 +32,5 @@ There are a number of different elements in how Internal Developer Platforms imp
 - **Secrets Management:** Managing secrets comes with a lot of challenges especially in the everyday life of developer teams. There are still too many secrets checked into (maybe even publicly available) repositories; often accidentally. An Internal Developer Platform should support your DevOps team as well as your developers in managing secrets in a convenient and secure way.
 
 The following two pictures illustrate a typical approach to Application Configuration Management _without_ and _with_ an Internal Developer Platform.
-{{< figure src="/_assets/images/app_config_mgmt_before.png" caption="Application Configuration Management _without_ an Internal Developer Platform" alt="app_config_mgmt_before.png" >}}  
-{{< figure src="/_assets/images/app_config_mgmt_after.png" caption="Application Configuration Management _with_ an Internal Developer Platform" alt="app_config_mgmt_after.png" >}}
+{{< figure link="/_assets/images/app_config_mgmt_before.png" src="/_assets/images/app_config_mgmt_before.png" caption="Application Configuration Management _without_ an Internal Developer Platform" alt="app_config_mgmt_before.png" >}}  
+{{< figure link="/_assets/images/app_config_mgmt_after.png" src="/_assets/images/app_config_mgmt_after.png" caption="Application Configuration Management _with_ an Internal Developer Platform" alt="app_config_mgmt_after.png" >}}

@@ -20,7 +20,7 @@ The Ops team primarily runs and configures the IDP. Teams running IDPs concentra
 
 IDPs integrate into existing workflows which usually remain a git-push deploy workflow but add further automation. The entire deployment process is now at the disposal of the developer. She can request resources, spin up fully provisioned environments, rollback, deploy and set deployment automation ruling autonomously.
 
-{{< figure caption="A modern developer needs three panes of glass: the IDE to code, git to merge and an IDP to ship." src="/_assets/images/3_panes_of_glass.png" alt="3_panes_of_glass.png" >}}
+{{< figure caption="A modern developer needs three panes of glass: the IDE to code, git to merge and an IDP to ship." link="/_assets/images/3_panes_of_glass.png" src="/_assets/images/3_panes_of_glass.png" alt="3_panes_of_glass.png" >}}
 
 ### Five core components
 
@@ -52,7 +52,7 @@ IDPs integrate with all the existing tech and tooling a team has in place alread
 
 Before a developer deploys an environment she specifies the type of environment, which tells the IDP what resources should be set to which state. She selects the images (workloads) she requires in the application, applies changes to the base-line configurations (if necessary), and initiates a deployment. The IDP will now take the changes to the baseline configurations and create a manifest. It will use the functionality of Infrastructure Orchestration and set the right resources into the right state (let's say the application requires a namespace in GKE, a Postgres database, and a certain DNS setting to run). It will then inject the environment variables into the container and serve the running environment to the developer.
 
-{{< figure caption="How an Internal Developer Platform automates under the hood" src="/_assets/images/idp_under_the_hood.png" alt="idp_under_the_hood.png" >}}
+{{< figure caption="How an Internal Developer Platform automates under the hood" link="/_assets/images/idp_under_the_hood.png" src="/_assets/images/idp_under_the_hood.png" alt="idp_under_the_hood.png" >}}
 
 ### Why is it called an Internal Developer Platform?
 
