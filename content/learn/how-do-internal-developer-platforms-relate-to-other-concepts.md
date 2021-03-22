@@ -36,11 +36,11 @@ The process can be managed by a range of tools. Many CI tools claim to also do C
 
 GitOps is a way of using Git as a way to manage delivery. Scripts for application configuration management are stored in repositories. Changes to those scripts are versioned in the same way you would version changes to application code. The code in the repositories is then executed by tools like Flux, Argo, or Weaveworks. GitOps works well in combination with IDPs, in some cases, it's even used as the primary delivery method. The traditional approach takes unstructured scripts and syncs them with the cluster, which can cause problems and makes the setup harder to debug and maintain.
 
-{{< figure caption="GitOps approach" src="/_assets/images/gitops.png" alt="gitops.png" >}}
+{{< figure caption="GitOps approach" src="/_assets/images/gitops.png" link="/_assets/images/gitops.png" alt="gitops.png" >}}
 
 An IDP takes a different route. It creates the manifests for every deployment from applying the changes developers make through the UI/CLI or API to the baseline config templates defined by the operations team. If used with GitOps those created scripts are now synced back to a repo from which they are being executed by a GitOps execution tool.
 
-{{< figure caption="IDP and GitOps" src="/_assets/images/idp-and-gitops.png" alt="idp-and-gitops.png" >}}
+{{< figure caption="IDP and GitOps" src="/_assets/images/idp-and-gitops.png" link="/_assets/images/idp-and-gitops.png" alt="idp-and-gitops.png" >}}
 
 This approach solves most of the dominant problems with GitOps around versioning and maintainability. This concept was first described by Ádám Sándor, a Cloud Native architect at Container Solutions:
 
