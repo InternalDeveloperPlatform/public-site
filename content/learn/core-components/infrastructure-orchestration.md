@@ -13,7 +13,7 @@ TLDR; Internal Developer Platforms (IDPs) need to integrate with your existing i
 An Internal Developer Platform needs to integrate well with your existing infrastructure and it needs to be able to orchestrate your existing and future infrastructure. This is especially important when you cannot begin establishing an Internal Developer Platform green field, but need to put it into an existing setup. An Internal Developer Platform typically integrates with your existing CI pipelines on the one side and your hardware infrastructure (e.g., Kubernetes clusters, databases, file storage) on the other side. This is also one of the big differences compared to a PaaS (Platform-as-a-Service) that typically also includes all the infrastructure (very often based on proprietary technology stacks).
 
 The following picture provides a good overview of the typical integration points of an Internal Developer Platform:
-{{< figure link="/_assets/images/infrastructure-orchestration.png"" src="/_assets/images/infrastructure-orchestration.png" caption="Typical integration points of an Internal Developer Platform" alt="Typical integration points of an Internal Developer Platform" >}}
+{{< figure link="/_assets/images/infrastructure-orchestration.png" src="/_assets/images/infrastructure-orchestration.png" caption="Typical integration points of an Internal Developer Platform" alt="Typical integration points of an Internal Developer Platform" >}}
 
 ## Integration points
 
