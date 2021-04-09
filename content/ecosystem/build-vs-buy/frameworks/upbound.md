@@ -18,7 +18,7 @@ url="/frameworks/upbound"
 - [ ] Application Configuration Management
 - [x] Infrastructure Orchestration
 - [x] Environment Management
-- [ ] Deployment Automation
+- [ ] Deployment Management
 - [ ] Role Based Access Control
 
 ### Interfaces

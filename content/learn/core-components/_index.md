@@ -14,5 +14,5 @@ An Internal Developer Platform (IDP) - whether it’s a home-made internal solut
 [**Application Configuration Management**]({{< relref "application-configuration-management" >}}) | Manage application configuration in a scalable and reliable way
 [**Infrastructure Orchestration**]({{< relref "infrastructure-orchestration" >}}) | Integrate with your existing and future infrastructure
 [**Environment Management**]({{< relref "environment-management" >}}) | Enable developers to create new environments whenever needed
-[**Deployment Automation**]({{< relref "deployment-automation" >}}) | Implement a Continuous Delivery or even Continuous Deployment (CD) approach
+[**Deployment Management**]({{< relref "deployment-management" >}}) | Implement a Continuous Delivery or even Continuous Deployment (CD) approach
 [**Role-Based Access Control**]({{< relref "role-based-access-control" >}}) | Manage who can do what in a scalable way

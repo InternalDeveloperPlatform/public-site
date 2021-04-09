@@ -18,7 +18,7 @@ url="/frameworks/humanitec"
 - [x] Application Configuration Management
 - [x] Infrastructure Orchestration
 - [x] Environment Management
-- [x] Deployment Automation
+- [x] Deployment Management
 - [x] Role Based Access Control
 
 ### Interfaces

@@ -24,7 +24,7 @@ IDPs integrate into existing workflows which usually remain a git-push deploy wo
 
 ### Five core components
 
-Although variations exist, a fully-fledged IDP is made out of five core components. Two features are exclusively used by the Ops, DevOps or Platform team: [_Infrastructure Orchestration_]({{< relref "infrastructure-orchestration" >}}) and [_Role Based Action Control (RBAC)_]({{< relref "role-based-access-control" >}}). [_Application Configuration Management_]({{< relref "application-configuration-management" >}}) is used by the Ops team to set baseline-templates but also used in day-to-day activity by the application development team. Developers use the functionalities [_Deployment Automation_]({{< relref "deployment-automation" >}}) and [_Environment Management_]({{< relref "environment-management" >}}).  
+Although variations exist, a fully-fledged IDP is made out of five core components. Two features are exclusively used by the Ops, DevOps or Platform team: [_Infrastructure Orchestration_]({{< relref "infrastructure-orchestration" >}}) and [_Role Based Action Control (RBAC)_]({{< relref "role-based-access-control" >}}). [_Application Configuration Management_]({{< relref "application-configuration-management" >}}) is used by the Ops team to set baseline-templates but also used in day-to-day activity by the application development team. Developers use the functionalities [_Deployment Management_]({{< relref "deployment-management" >}}) and [_Environment Management_]({{< relref "environment-management" >}}).  
 
 {{< button relref="core-components" >}}
 -> Core Components
