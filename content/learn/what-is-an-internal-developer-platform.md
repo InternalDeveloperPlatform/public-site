@@ -14,7 +14,7 @@ TLDR; Internal Developer Platforms (IDPs) are configured by Ops teams and used b
 
 ### How Internal Developer Platforms are used by Ops, DevOps, or Platform teams
 
-The Ops team primarily runs and configures the IDP. Teams running IDPs concentrate on infrastructure, service level agreements, and workflow-optimization and configure the IDP to abstract away any recurring or repetitive tasks, such as spinning up resources or environments for developers. The Ops team also sets baseline templates for configuration and avoids unstructured scripting to prevent excessive maintenance time. See below for all building blogs that Ops usually operates.
+The Ops team primarily runs and configures the IDP. Teams running IDPs concentrate on infrastructure, service level agreements, and workflow-optimization and configure the IDP to abstract away any recurring or repetitive tasks, such as spinning up resources or environments for developers. The Ops team also sets baseline templates for configuration and avoids unstructured scripting to prevent excessive maintenance time. See below for all building blocks that Ops usually operates.
 
 ### How Internal Developer Platforms are used by application developers
 
