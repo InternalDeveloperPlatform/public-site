@@ -32,3 +32,4 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [Great technical post about difficulties with making own role-based access control](https://raszpel.medium.com/my-perfect-aws-and-kubernetes-role-based-access-control-and-the-reality-dce92de91abe)
 - [How NoOps/IDP can help to solve the core IT problems](https://cezaryolborski.medium.com/how-we-want-to-help-to-solve-the-four-core-it-problems-by-introducing-the-noops-platform-166abce9b6d3)
 - [Problems with DevOps Engineer role definition](https://cezaryolborski.medium.com/devops-engineer-do-you-know-who-you-want-to-hire-5e14b8707a57)
+- [Enter the Abattoir - Building a la carte gitops tooling ](https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3)
