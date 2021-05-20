@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.80.0-ext as build
+FROM klakegg/hugo:0.83.1-ext as build
 
 ARG env=staging
 

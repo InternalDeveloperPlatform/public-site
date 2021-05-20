@@ -3,7 +3,7 @@ title="James Whinn"
 url="/experts/james_whinn"
 +++
 
-{{< figure src="/_assets/images/james_whinn.jpeg" alt="James Whinn" >}}
+{{< figure src="/_assets/images/james_whinn.jpg" alt="James Whinn" >}}
 
 **James Whinn**, CTO of [Expert Thinking](https://expert-thinking.co.uk), is an industry certified expert with comprehensive experience helping organisations succeed in their digital transformations. With exposure to such a wide range of sectors, including highly regulated industries such as finance and pharmaceuticals, James is well rehearsed in the common pitfalls facing companies when it comes to adopting cloud-native technologies and how to overcome them.
 
