@@ -44,6 +44,6 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 
 - [The Joy of Internal Tools](https://slack.engineering/the-joy-of-internal-tools/) Learn more about the joy of internal tools from Slack. _Greg Pelly & Mark Christian (Slack)_
 
-## Other resources
+## Other Resources
 
 - [The Equal Experts Digital Platform playbook](https://digital-platform.playbook.ee/) The folks of Equal Experts who have build plenty of IDPs share their insights on how to build.
