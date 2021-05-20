@@ -10,7 +10,7 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 
 ## 2021
 
-- [Enter the Abattoir - Building a la carte gitops tooling ](https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3) _Stefan Kolesnikowicz_
+- [Enter the Abattoir - Building a la carte gitops tooling](https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3) _Stefan Kolesnikowicz_
 - [How we want to help to solve the four core IT problems by introducing the NoOps platform](https://cezaryolborski.medium.com/how-we-want-to-help-to-solve-the-four-core-it-problems-by-introducing-the-noops-platform-166abce9b6d3) How NoOps/IDP can help to solve the core IT problems _Cezary Olborski_
 - [DevOps Engineer — Do you know who you want to hire?](https://cezaryolborski.medium.com/devops-engineer-do-you-know-who-you-want-to-hire-5e14b8707a57) Problems with DevOps Engineer role definition _Cezary Olborski_
 - [Testing in Infrastructure as Code and why Terraform may not be the best option](https://dev.to/mraszplewicz/testing-in-infrastructure-as-code-and-why-terraform-may-not-be-the-best-option-3k2i) In this article, Maciej Raszplewicz shows how to write tests in the Infrastructure as Code world _Maciej Raszplewicz_
@@ -47,4 +47,3 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 ## Other resources
 
 - [The Equal Experts Digital Platform playbook](https://digital-platform.playbook.ee/) The folks of Equal Experts who have build plenty of IDPs share their insights on how to build.
-
