@@ -6,7 +6,7 @@ weight=20
 
 # Why use an Internal Developer Platform (IDP)?
 
-_Internal Developer Platforms (IDPs) have a tremendously positive impact on the velocity and happiness of teams. They increase maintainability, relieve pressure on Ops and make developers self-serving._
+_Internal Developer Platforms (IDPs) have a tremendously positive impact on the velocity and happiness of teams. They increase maintainability, relieve pressure on Ops and enable developer self-service._
 
 {{< hint info >}}
 TLDR;  IDPs increase the ownership level in the application development team. They have a measurable impact on the productivity of the Ops team and its core KPIs such as mean time to repair (**MTTR**) and **Change Failure Rate**. For application developers, IDPs **drive deployment frequency** and reduce **lead time** among other factors. 

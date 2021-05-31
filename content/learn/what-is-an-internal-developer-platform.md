@@ -6,7 +6,7 @@ weight=10
 
 # What is an Internal Developer Platform (IDP)?
 
-_An Internal Developer Platform (IDP) is a layer on top of the tech and tooling an engineering team has in place already. It helps ops teams structure their setup and make developers self-serving._
+_An Internal Developer Platform (IDP) is a layer on top of the tech and tooling an engineering team has in place already. It helps Ops teams structure their setup and enable developer self-service._
 
 {{< hint info >}}
 TLDR; Internal Developer Platforms (IDPs) are configured by Ops teams and used by developers. Ops teams specify what resources start up with what environment or at what request. They also set base-line templates for application configurations and govern permissions. This helps them to automate recurring tasks such as spinning up environments and resources and makes their setup easier to maintain by enforcing standards. Developer teams gain autonomy by changing configurations, deploying, spinning up fully provisioned environments, and rollback. IDPs can be built or bought.
