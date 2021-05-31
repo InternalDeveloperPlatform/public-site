@@ -7,7 +7,7 @@ weight=30
 # Environment Management
 
 {{< hint info >}}
-TLDR; Internal Developer Platforms (IDPs) make developers self-serving when it comes to creating new environments on demand. This removes a lot of bottlenecks and enables faster delivery. Each new environment is provisioned as defined by the DevOps team.
+TLDR; Internal Developer Platforms (IDPs) allow developers to self-serve new environments on demand. This removes a lot of bottlenecks and enables faster delivery. Each new environment is provisioned as defined by the DevOps team.
 {{< /hint >}}
 
 From a developer perspective, Environment Management is one of the most interesting components of an Internal Developer Platform. In many existing setups, setting up a new environment typically involves waiting for someone else (most likely the DevOps team) to create and configure the new environment. This is annoying for everybody involved and also costly. An Internal Developer Platform eliminates all the required manual steps and enables self-service for the developer (or other people in your team): spin up a new environment whenever needed.
