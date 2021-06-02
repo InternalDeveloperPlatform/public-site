@@ -114,4 +114,4 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   BookTranslatedOnly = true
 
   # Add image for Open Graph
-  images = ["static/logo.png"]
+  images = ["logo.png"]
