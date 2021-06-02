@@ -112,3 +112,6 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly = true
+
+  # Add image for Open Graph
+  images = ["full_logo.png"]
