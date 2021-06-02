@@ -115,3 +115,6 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
   # Google Tag Manager
   googleTagManagerId = "GTM-M4F8PQZ"
+
+  # Add image for Open Graph
+  images = ["full_logo.png"]
