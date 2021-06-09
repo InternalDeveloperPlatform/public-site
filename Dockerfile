@@ -6,8 +6,8 @@ COPY ./ /site
 WORKDIR /site
 RUN hugo --environment $env
 
-#Copy static files to Nginx
-FROM nginx:alpine
-COPY --from=build /site/public /usr/share/nginx/html
+#Copy static files to Apache
+FROM httpd:2.4-alpine
+COPY --from=build /site/public /usr/local/apache2/htdocs/
 
-WORKDIR /usr/share/nginx/html
+WORKDIR /usr/local/apache2/htdocs/
