@@ -6,8 +6,10 @@ COPY ./ /site
 WORKDIR /site
 RUN hugo --environment $env
 
-#Copy static files to Apache
+# Copy static files to Apache
 FROM httpd:2.4-alpine
 COPY --from=build /site/public /usr/local/apache2/htdocs/
+# Copy Apache config
+COPY /config/apache/httpd.conf /usr/local/apache2/conf/
 
 WORKDIR /usr/local/apache2/htdocs/
