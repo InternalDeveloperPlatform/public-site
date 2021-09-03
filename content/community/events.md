@@ -26,24 +26,24 @@ Got an upcoming event you'd like to promote? Let us know.
 
 ### Europe
 
-- [Platform Engineers Amsterdam](https://www.meetup.com/de-DE/platform-engineers-amsterdam/)
-- [Platform Engineers Berlin](https://www.meetup.com/de-DE/platform-engineers-berlin/)
-- [Platform Engineers Copenhagen](https://www.meetup.com/de-DE/platform-engineers-copenhagen/)
-- [Platform Engineers Dublin](https://www.meetup.com/de-DE/platform-engineers-dublin/)
-- [Platform Engineers London](https://www.meetup.com/de-DE/platform-engineers-london/)
-- [Platform Engineers Munich](https://www.meetup.com/de-DE/platform-engineers-munich/)
-- [Platform Engineers Stockholm](https://www.meetup.com/de-DE/platform-engineers-stockholm/)
+- [Platform Engineers Amsterdam](https://www.meetup.com/platform-engineers-amsterdam/)
+- [Platform Engineers Berlin](https://www.meetup.com/platform-engineers-berlin/)
+- [Platform Engineers Copenhagen](https://www.meetup.com/platform-engineers-copenhagen/)
+- [Platform Engineers Dublin](https://www.meetup.com/platform-engineers-dublin/)
+- [Platform Engineers London](https://www.meetup.com/platform-engineers-london/)
+- [Platform Engineers Munich](https://www.meetup.com/platform-engineers-munich/)
+- [Platform Engineers Stockholm](https://www.meetup.com/platform-engineers-stockholm/)
 
 ### United States
 
-- [Platform Engineers ATX](https://www.meetup.com/de-DE/platform-engineers-atx-online/)
-– [Platform Engineers NYC](https://www.meetup.com/de-DE/platform-engineers-nyc/)
-- [Platform Engineers SF & Bay Area](https://www.meetup.com/de-DE/platform-engineers-sf/)
+- [Platform Engineers ATX](https://www.meetup.com/platform-engineers-atx-online/)
+– [Platform Engineers NYC](https://www.meetup.com/platform-engineers-nyc/)
+- [Platform Engineers SF & Bay Area](https://www.meetup.com/platform-engineers-sf/)
 
 ### Australia
 
-- [Platform Engineers Brisbane](https://www.meetup.com/de-DE/pebrisbane/)
-- [Platform Engineers Syndey](https://www.meetup.com/de-DE/Sydney-PE/)
+- [Platform Engineers Brisbane](https://www.meetup.com/pebrisbane/)
+- [Platform Engineers Sydney](https://www.meetup.com/Sydney-PE/)
 
 ## Start your own
 
