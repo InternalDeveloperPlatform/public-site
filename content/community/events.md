@@ -26,13 +26,13 @@ Got an upcoming event you'd like to promote? Let us know.
 
 ### Europe
 
-- [Platform Engineers Amsterdam](https://www.meetup.com/de-DE/platform-engineers-amsterdam/)
-- [Platform Engineers Berlin](https://www.meetup.com/de-DE/platform-engineers-berlin/)
-- [Platform Engineers Copenhagen](https://www.meetup.com/de-DE/platform-engineers-copenhagen/)
+- [Platform Engineers Amsterdam](https://www.meetup.com/platform-engineers-amsterdam/)
+- [Platform Engineers Berlin](https://www.meetup.com/platform-engineers-berlin/)
+- [Platform Engineers Copenhagen](https://www.meetup.com/platform-engineers-copenhagen/)
 - [Platform Engineers Dublin](https://www.meetup.com/platform-engineers-dublin/)
 - [Platform Engineers London](https://www.meetup.com/platform-engineers-london/)
-- [Platform Engineers Munich](https://www.meetup.com/de-DE/platform-engineers-munich/)
-- [Platform Engineers Stockholm](https://www.meetup.com/de-DE/platform-engineers-stockholm/)
+- [Platform Engineers Munich](https://www.meetup.com/platform-engineers-munich/)
+- [Platform Engineers Stockholm](https://www.meetup.com/platform-engineers-stockholm/)
 
 ### United States
 
