@@ -8,9 +8,9 @@ weight=10
 
 ## Join a Global Community
 
-_Internal Developer Platfoms_ is our central hub for the global community of engineers and architects. It provides a space for developers and engineers to discuss best practices and war stories around their Internal Developer Platforms and tooling setups. Join to exchange notes and ideas, find new opportunities, and build better developer tooling. Sign up to your local Internal Developer Platform (IDP) Meetup or join our upcoming online events and webinars.
+_InternalDeveloperPlatform.org_ is the central hub for our global community of engineers and platform nerds. It provides a space for developers to discuss best practices and war stories around their Internal Developer Platforms and tooling setups. Join our Platform Engineering slack channel to meet other platform engineers, find jobs in the industry and attend our community events.
 
-[Join 500+ members on r/IDP](https://www.reddit.com/r/internaldevplatforms)
+[Join our growing Slack community](https://join.slack.com/t/platformengin-b0m7058/shared_invite/zt-viqjsv9g-JrJJa8jo8jSi0GrtDqk_2A)
 
 ## Our Community Mission
 
