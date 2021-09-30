@@ -34,11 +34,13 @@ Got an upcoming event you'd like to promote? Let us know.
 - [Platform Engineers Munich](https://www.meetup.com/platform-engineers-munich/)
 - [Platform Engineers Stockholm](https://www.meetup.com/platform-engineers-stockholm/)
 
-### United States
+### North America
 
 - [Platform Engineers ATX](https://www.meetup.com/platform-engineers-atx-online/)
 – [Platform Engineers NYC](https://www.meetup.com/platform-engineers-nyc/)
+- [Platform Engineers Seattle](https://www.meetup.com/platform-engineers-seattle/)
 - [Platform Engineers SF & Bay Area](https://www.meetup.com/platform-engineers-sf/)
+- [Platform Engineers Toronto](https://www.meetup.com/platform-engineers-toronto/)
 
 ### Australia
 
