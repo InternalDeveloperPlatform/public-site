@@ -5,17 +5,19 @@ url="/frameworks/gimlet"
 
 # Gimlet
 
-**Claim:** A modular workflow for Kubernetes
+**Claim:** Kubernetes made simpler for cluster admins, developers and managers
 
-**Focus:** Gimlet helps teams build artificial cloud providers that developers can operate by themselves. It does not provide a full Internal Developer Platform as it lacks Application Configuration Management.
+**Focus:** Gimlet is a set of tools that will get you an application operations platform on top of Kubernetes.
+
+It is built on the de-fact tools of the ecosystem - Helm and Flux - and provides you with a golden-path, a set of best-practices, so you can focus on your task at hand. Without having to navigate the vast options the cloud native ecosystem offers you.
 
 **Website:** [gimlet.io](https://gimlet.io/)
 
-**Docs:** [https://gimlet.io/gimlet-cli/getting-started/](https://gimlet.io/gimlet-cli/getting-started/)
+**Docs:** [https://gimlet.io/docs](https://gimlet.io/docs)
 
 ### Core Component Support
 
-- [ ] Application Configuration Management
+- [x] Application Configuration Management
 - [x] Infrastructure Orchestration
 - [x] Environment Management (but not dynamic, based on Helm charts)
 - [x] Deployment Management (GitOps only)
@@ -24,7 +26,7 @@ url="/frameworks/gimlet"
 ### Interfaces
 
 - [x] API
-- [ ] UI (User Interface)
+- [x] UI (User Interface)
 - [x] CLI (Command Line Interface)
 
 ### Details
@@ -33,9 +35,9 @@ url="/frameworks/gimlet"
 - **Self-hosted:** yes
 - **Orchestrator:** Kubernetes
 - **Integration-Concept:** Yml
-- **Setup time per app:** 5 hours
+- **Setup time per app:** 1 hour
 - **Source:** open
-- **Total Cost of Ownership:** Open-source. Tell us if you know the cost.
+- **Total Cost of Ownership:** Open-source.
 - **Adoption:** Early days, adopt for limited, non-production purposes. 
 
 {{< button href="https://gimlet.io/" target="_blank" >}}
