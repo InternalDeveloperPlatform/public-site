@@ -1,1 +1,2 @@
 config/apache/.ht*
+.hugo_build.lock

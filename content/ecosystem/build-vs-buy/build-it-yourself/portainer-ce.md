@@ -1,9 +1,9 @@
 +++
-title="Portainer Community Edition"
+title="Portainer"
 url="/diy/portainer-ce" 
 +++
 
-# Portainer
+# Portainer Community Edition
 
 [Portainer](https://portainer.io) is an [open source](https://github.com/portainer/portainer) tool that lets users set-up, configure, and govern a container management portal that helps them get more value from Kubernetes sooner, with the skills the team already has. Manage any orchestrator, in the cloud, on prem, or at the edge, in a single interface.
 
