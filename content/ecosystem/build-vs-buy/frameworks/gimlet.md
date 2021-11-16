@@ -9,7 +9,7 @@ url="/frameworks/gimlet"
 
 **Focus:** Gimlet is a set of tools that will get you an application operations platform on top of Kubernetes.
 
-It is built on the de-fact tools of the ecosystem - Helm and Flux - and provides you with a golden-path, a set of best-practices, so you can focus on your task at hand. Without having to navigate the vast options the cloud native ecosystem offers you.
+It is built on the de-facto tools of the ecosystem - Helm and Flux - and provides you with a golden-path, a set of best-practices, so you can focus on your task at hand. Without having to navigate the vast options the cloud native ecosystem offers you.
 
 **Website:** [gimlet.io](https://gimlet.io/)
 
