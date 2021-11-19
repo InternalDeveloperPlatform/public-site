@@ -2,7 +2,7 @@ name: CI for Staging
 
 on:
   push:
-    branches: [ main ]
+    branches: [ staging ]
 
 jobs:
   build:
