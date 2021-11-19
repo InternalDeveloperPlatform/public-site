@@ -12,6 +12,7 @@ _Internal Developer Platforms (IDPs) are a new category of tools. This means, th
 --- |
 [Aiven]({{< relref "aiven" >}}) |
 [AWS RDS]({{< relref "aws-rds" >}}) |
+[Azure SQL]({{< relref "azure-sql" >}}) |
 [Google CloudSQL]({{< relref "google-cloudsql" >}}) |
 [MongoDB]({{< relref "mongodb" >}}) |
 [PostgreSQL]({{< relref "postgresql" >}}) |
