@@ -15,11 +15,11 @@ url="/frameworks/backstage"
 
 ### Core Component Support
 
-- [] Application Configuration Management
-- [] Infrastructure Orchestration
-- [] Environment Management (except dynamic environment provisioning)
-- [] Deployment Management
-- [] Role Based Access Control
+[x] Application Configuration Management
+[x] Infrastructure Orchestration
+[x] Environment Management (except dynamic environment provisioning)
+[x] Deployment Management
+[x] Role Based Access Control
 
 ### Interfaces
 
