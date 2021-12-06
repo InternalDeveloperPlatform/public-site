@@ -19,6 +19,8 @@ There are a number of tools teams are using when building their own Internal Dev
 [Helm]({{< relref "helm" >}}) | The package manager for Kubernetes
 [Jenkins]({{< relref "jenkins" >}}) | Build great things at any scale
 [Portainer CE]({{< relref "portainer-ce" >}}) | Self-service containers on Kubernetes.
+[Kubevela]({{< relref "kubevela" >}}) | Make shipping applications more enjoyable
+[Portainer CE]({{< relref "portainer-ce" >}}) | Self-service containers on Kubernetes.
 [Pulumi]({{< relref "pulumi" >}}) | Modern Infrastructure as Code
 [Terraform]({{< relref "terraform-by-hashicorp" >}}) | Write, Plan, Apply
 
