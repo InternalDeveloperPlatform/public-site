@@ -7,7 +7,8 @@ url="/diy/kubevela"
 
 **Claim:** Make shipping applications more enjoyable.
 
-**Focus:** KubeVela introduced the open application model - programmatically describing the state of an application by encompassing the application configuration and the infrastructure configuration in a higher-level API. This approach keeps the environment specific elements of configurations (for example specific dependencies and resources) separated from the environment agnostic elements (such as the general architecture of workloads). Shifting to the open application model makes it necessary to restructure the entire config setup. Kubevela can be used as one of many components to orchestrate deployments.
+**Focus:** KubeVela introduced the open application model - programmatically describing the state of an application by encompassing the application configuration and the infrastructure configuration in a higher-level API. This approach keeps the environment specific elements of configurations (for example specific dependencies and resources) separated from the environment agnostic elements (such as the general architecture of workloads).Kubevela can be used as one of many components to orchestrate deployments. 
+Shifting to the open application model makes it necessary to restructure the entire config setup.
 
 Website: https://kubevela.io/
 

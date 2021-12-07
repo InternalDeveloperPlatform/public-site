@@ -7,7 +7,7 @@ url="/frameworks/upbound"
 
 **Claim:** Universal cloud APIs and consoles for your team
 
-**Focus:** Upbound helps teams build artificial cloud providers that developers can operate themselves. 
+**Focus:** Upbound offers a UI layer to manage several Crossplane modules. Upbound itself deals only with infrastructure orchestration. The dynamic composition of configurations or automated workflows are not covered by the product. Upbound only works for developers who want to unify everything against Crossplane, a task that usually isn’t feasible if you have for example already existing IaC modules in place. Some developers may find the system redundant if they’re building a platform and have to build a more overarching UI layer. 
 
 **Website:** [upbound.io](https://upbound.io/)
 
