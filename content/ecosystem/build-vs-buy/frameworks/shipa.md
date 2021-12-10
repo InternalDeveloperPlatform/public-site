@@ -82,6 +82,6 @@ Shipa promises multiple features, including:
 
 Shipa also highlights various use cases, claiming that the framework’s extensibility allows developers to use the platform for multiple projects. Their top three use cases for Shipa are cited as:
 
-- bstraction: Shipa may help developers build an abstraction layer on top of different Kubernetes clusters and cloud nodes by abstracting away cumbersome infrastructure decisions. Ideally, this would ease the operations burden on platform engineering teams that are already stretched thin.
+- Abstraction: Shipa may help developers build an abstraction layer on top of different Kubernetes clusters and cloud nodes by abstracting away cumbersome infrastructure decisions. Ideally, this would ease the operations burden on platform engineering teams that are already stretched thin.
 - Policies and Governance: Shipa works to create and enforce policies by focusing on the applications (rather than the clusters) surrounding Kubernetes Role-Based Access Control (RBAC), networking, security scanning, and more. With this approach, developers can bind their frameworks to different clusters to enforce various levels of control for each application. 
 - Mid-Cluster Deployments: Shipa promises detailed policy configuration to manage multiple clusters because the framework is cluster-agnostic. This is intended to broaden the scope of platforms to observe the whole rather than cluster-specific configuration.
