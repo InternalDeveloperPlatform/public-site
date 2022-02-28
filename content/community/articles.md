@@ -8,6 +8,10 @@ weight=30
 
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
+## 2022
+
+- [DevOps MUST Build Internal Developer Platform (IDP)](https://youtu.be/j5i00z3QXyU) _Viktor Farcic_
+
 ## 2021
 
 - [Enter the Abattoir - Building a la carte gitops tooling](https://achievers.engineering/enter-the-abattoir-ee5e2019f0b3) _Stefan Kolesnikowicz_
