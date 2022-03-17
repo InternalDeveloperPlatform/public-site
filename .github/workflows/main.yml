@@ -20,4 +20,3 @@ jobs:
           humanitec-token: ${{ secrets.HUMANITEC_TOKEN }}
           organization: internaldeveloperplatform
           additional-docker-arguments: --build-arg env=production
-          image-name: public-site-caws
