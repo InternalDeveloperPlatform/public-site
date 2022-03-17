@@ -2,21 +2,22 @@ name: CI for Staging
 
 on:
   push:
-    branches: [ staging ]
+    branches: [staging]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository and submodules
-      uses: actions/checkout@v2
-      with:
-        submodules: recursive
-      
-    - name: Build and Push to Humanitec
-      uses: humanitec/build-push-to-humanitec@v1
-      with:
-        humanitec-token: ${{ secrets.HUMANITEC_TOKEN }}
-        organization: internaldeveloperplatform
-        additional-docker-arguments: --build-arg env=staging
+      - name: Checkout repository and submodules
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+
+      - name: Build and Push to Humanitec
+        uses: humanitec/build-push-to-humanitec@v1
+        with:
+          humanitec-token: ${{ secrets.HUMANITEC_TOKEN }}
+          organization: internaldeveloperplatform
+          additional-docker-arguments: --build-arg env=staging
+          image-name: public-site-caws
