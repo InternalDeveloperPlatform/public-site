@@ -8,14 +8,14 @@ We are using Hugo to generate a static site from the md-files in this repository
 
 ## Test the site locally
 
-Make sure that you have Hugo installed. If not then please follow the instructions [here](https://gohugo.io/getting-started/installing/). Check out the repository and make sure that you also check out the required submodules.
+Make sure that you have Hugo installed. If not then please follow the instructions [here](https://gohugo.io/getting-started/installing/). Check out the repository and make sure that you also check out the required submodules:
 
-````
+```
 git submodule update --init --recursive
-````
+```
 
-Then run the following command in the ROOT of the repository.
+Then run the following command in the ROOT of the repository:
 
-````
+```
 hugo serve --environment staging
-`````
+```
