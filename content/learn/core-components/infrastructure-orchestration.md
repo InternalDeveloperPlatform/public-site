@@ -29,7 +29,7 @@ Computer clusters (e.g., Kubernetes clusters) are an important element to run yo
 
 ### Image registries
 
-An Internal Developer Platform needs access to the images used in your applications. In general, there are two different approaches of how this integration is implemented: the Internal Developer Platform can either provide a build-in image registry (in which case the CI pipeline integration will push new images to this registry) or use the fact that your image registry is already connected to your clusters (in which case it can trigger the deployment process directly via the cluster API). Which approach is better for you really depends on your specific technical setup. If your image registry is well established and includes a lot of security and vulnerability scans already, you might want to stick with it. If you go for a streamlined user experience, a built-in image registry might be more relevant to you.
+An Internal Developer Platform needs access to the images used in your applications. In general, there are two different approaches of how this integration is implemented: the Internal Developer Platform can either provide a built-in image registry (in which case the CI pipeline integration will push new images to this registry) or use the fact that your image registry is already connected to your clusters (in which case it can trigger the deployment process directly via the cluster API). Which approach is better for you really depends on your specific technical setup. If your image registry is well established and includes a lot of security and vulnerability scans already, you might want to stick with it. If you go for a streamlined user experience, a built-in image registry might be more relevant to you.
 
 ### DNS
 
