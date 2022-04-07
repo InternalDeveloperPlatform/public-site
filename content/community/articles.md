@@ -11,6 +11,7 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 ## 2022
 
 - [DevOps MUST Build Internal Developer Platform (IDP)](https://youtu.be/j5i00z3QXyU) _Viktor Farcic_
+- [Applying Product Thinking to Slack’s Internal Compute Platform](https://slack.engineering/applying-product-thinking-to-slacks-internal-compute-platform/) _Javier Turegano_
 
 ## 2021
 
