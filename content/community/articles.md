@@ -9,7 +9,9 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2022
-
+- [The Six Stages of Internal Development Platforms](https://devopsdirective.com/posts/2022/04/stages-of-internal-development-platforms/) _Sid Palas_
+- [What is platform engineering?](https://platformengineering.org/blog/what-is-platform-engineering) _Luca Galante_
+- [Why putting a pane of glass on a pile of sh*t doesn’t solve your problem](https://platformengineering.org/blog/why-putting-a-pane-of-glass-on-a-pile-of-shit-doesnt-solve-your-problem) _Lee Ditiangkin_
 - [DevOps MUST Build Internal Developer Platform (IDP)](https://youtu.be/j5i00z3QXyU) _Viktor Farcic_
 - [Applying Product Thinking to Slack’s Internal Compute Platform](https://slack.engineering/applying-product-thinking-to-slacks-internal-compute-platform/) _Javier Turegano_
 

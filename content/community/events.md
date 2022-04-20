@@ -27,6 +27,7 @@ Got an upcoming event you'd like to promote? Let us know.
 ### Europe
 
 - [Platform Engineers Amsterdam](https://www.meetup.com/platform-engineers-amsterdam/)
+- [Platform Engineers Barcelona](https://www.meetup.com/platform-engineers-barcelona/)
 - [Platform Engineers Berlin](https://www.meetup.com/platform-engineers-berlin/)
 - [Platform Engineers Copenhagen](https://www.meetup.com/platform-engineers-copenhagen/)
 - [Platform Engineers Dublin](https://www.meetup.com/platform-engineers-dublin/)
@@ -37,15 +38,22 @@ Got an upcoming event you'd like to promote? Let us know.
 ### North America
 
 - [Platform Engineers ATX](https://www.meetup.com/platform-engineers-atx-online/)
-– [Platform Engineers NYC](https://www.meetup.com/platform-engineers-nyc/)
+- [Platform Engineers Dallas](https://www.meetup.com/platform-engineers-dallas/)
+- [Platform Engineers Denver](https://www.meetup.com/platform-engineers-denver/)
+- [Platform Engineers Los Angeles](https://www.meetup.com/platform-engineers-los-angeles/)
+- [Platform Engineers NYC](https://www.meetup.com/platform-engineers-nyc/)
 - [Platform Engineers Seattle](https://www.meetup.com/platform-engineers-seattle/)
 - [Platform Engineers SF & Bay Area](https://www.meetup.com/platform-engineers-sf/)
 - [Platform Engineers Toronto](https://www.meetup.com/platform-engineers-toronto/)
+- [Platform Engineers Vancouver](https://www.meetup.com/platform-engineers-vancouver/)
 
 ### Australia
 
 - [Platform Engineers Brisbane](https://www.meetup.com/pebrisbane/)
 - [Platform Engineers Sydney](https://www.meetup.com/Sydney-PE/)
+
+### Global
+- [PlatformCon](https://platformcon.com/)
 
 ## Start your own
 
