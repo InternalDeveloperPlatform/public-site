@@ -19,3 +19,4 @@ Using frameworks is the quickest and most state-of-the-art way to build your Int
 [Upbound]({{< relref "upbound" >}}) | Universal cloud APIs and consoles for your team
 [DevOpsBox]({{< relref "devopsbox" >}}) | The first full cloud-native NoOps platform
 [Shipa]({{< relref "shipa" >}}) | Application As Code (AaC)
+[WayScript]({{< relref "wayscript" >}}) | An Internal Developer Platform (IDP) that enables scalable, single click development environments.
