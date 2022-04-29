@@ -69,5 +69,9 @@ Who Are We?
 ---------------------
 We are a technical team of software engineers who developed the platform we all wanted in our previous development roles. We come from backgrounds in application design, internal tooling, DevOps, and SecOps.
 
-Key Features
+Core Features of WayScript
 --------------------- 
+-   Single Click Developer Environments -- Integrate your systems and get single click environments with your integrations & requirements built in. This is based in Docker. 
+-   Built in SSO and User Identifcation -- Connect to your SSO provider (Auth0, Okta, Google Workspace) and get built in permission control and user management. [Developers can programatically recognize users without needing to build in database/access control](https://wsxdocs.wayscript.com/building-tools/sdk/example-identify-requester-to-protected-endpoints).
+- Self-hosted, air-gapped, SOC-2 Type-2 Compliant.
+- Developers can work on their local machines with their preferred IDEs, Gitrepos, etc. Seamlessly connect to WayScript via the terminal. 
