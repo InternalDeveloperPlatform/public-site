@@ -3,7 +3,7 @@ title="Mia-Platform"
 url="/frameworks/mia-platform"
 +++
 
-# Shipa
+# Mia-Platform
 
 **Claim:** Don't wast time to setup your platform, just push the code!
 
@@ -16,10 +16,10 @@ url="/frameworks/mia-platform"
 ### Core Component Support
 | 5 Core Components | Support |
 | --- | ----------- |
-| Application Configuration Management | - |
-| Infrastructure Orchestration | - |
-| Environment Management | - |
-| Deployment Management | - |
+| Application Configuration Management | ✓ |
+| Infrastructure Orchestration | ✓ |
+| Environment Management | ✓ |
+| Deployment Management | ✓ |
 | Role Based Access Control | ✓ |
 
 

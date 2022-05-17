@@ -13,10 +13,10 @@ Using frameworks is the quickest and most state-of-the-art way to build your Int
 
 **Framework** | **Claim**
 --- | ---
+[Mia-Platform]({{< relref "mia-platform" >}}) | The simplest way to develop and operate modern applications on Kubernetes
 [Humanitec]({{< relref "humanitec" >}}) | The fastest way to build your Internal Developer Platform (IDP)
 [Backstage]({{< relref "backstage" >}}) | A platform for building developer portals
 [Gimlet]({{< relref "gimlet" >}}) | A modular workflow for Kubernetes
 [Upbound]({{< relref "upbound" >}}) | Universal cloud APIs and consoles for your team
 [DevOpsBox]({{< relref "devopsbox" >}}) | The first full cloud-native NoOps platform
 [Shipa]({{< relref "shipa" >}}) | Application As Code (AaC)
-[Mia-Platform]({{< relref "mia-platform" >}}) | The simplest way to develop and operate modern applications on Kubernetes
