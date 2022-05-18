@@ -9,7 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2022
-- [5 tips for implementing an Internal Developer Portal in your company](https://blog.mia-platform.eu/en/5-tips-for-implementing-internal-developer-portal-in-your-company) _Paolo Martinoli_
+- [5 tips for implementing an Internal Developer Portal in your company](https://blog.mia-platform.eu/en/5-tips-for-implementing-internal-developer-portal-in-your-company) _Paolo Martinoli, Technical Writer @Mia-Platform_
 - [The Six Stages of Internal Development Platforms](https://devopsdirective.com/posts/2022/04/stages-of-internal-development-platforms/) _Sid Palas_
 - [What is platform engineering?](https://platformengineering.org/blog/what-is-platform-engineering) _Luca Galante_
 - [Why putting a pane of glass on a pile of sh*t doesn’t solve your problem](https://platformengineering.org/blog/why-putting-a-pane-of-glass-on-a-pile-of-shit-doesnt-solve-your-problem) _Lee Ditiangkin_
