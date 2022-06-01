@@ -5,11 +5,11 @@ url="/frameworks/mia-platform"
 
 # Mia-Platform
 
-**Claim:** Don't waste time to setup your platform, just push the code!
+**Claim:** Turn your company into a Digital Platform
 
 **Focus:** Mia-Platform brings to the market the first solution for the end-to-end creation of cloud-native digital platforms.
 
-Mia-Platform is a Developer Hub that manages the end-to-end life cycle of cloud native applications and simplifies the life of Dev and Ops. We also provide a marketplace full of plug-n-play components to accelerate the construction of your own digital platform. 
+Mia-Platform is a Developer Hub that manages the end-to-end life cycle of cloud native applications and simplifies the life of Dev and Ops. We also provide a marketplace full of plug-n-play components to accelerate the construction of your own digital platform.
 
 **Website:** [mia-platform.eu](https://mia-platform.eu/)
 
@@ -41,9 +41,9 @@ Mia-Platform is a Developer Hub that manages the end-to-end life cycle of cloud 
 | Self-hosted | Both self-hosted and in Cloud |
 | Orchestrator | Kubernetes |
 | Integration Concept | YAML, API |
-| Setup time first app | 24 hours |
+| Setup time first app | 4h on cloud, 24h self-hosted |
 | Source | Closed |
-| Supported cloud providers | IBM, AWS, GCP, Azure, Oracle |
+| Supported cloud providers | GKE, AWS, Azure, Oracle, IBM |
 | Type of Licenses | PaaS, Bring your own infrastructure (BYOI), Pure license |
 | Adoption | Market-leader for IDP, widely adopted |
 
@@ -71,7 +71,7 @@ In 2021, Gartner has recognized Mia-Platform as a Cool Vendor for Software Engin
 
 
 **Core Features of Mia-Platform**
-Among its products, Mia-Platform Console is the core solution: it is a platform builder that industrializes development processes, accelerates the creation of microservices architectures, and improves the developer experience (DevEx). 
+Among its products, Mia-Platform Console is the core solution: it is a platform builder that industrializes development processes, accelerates the creation of microservices architectures, and improves the developer experience (DevX). 
 
 The Mia-Platform Marketplace provides the Console with multiple ready-to-use components and add-ons that strongly accelerate and facilitate development. 
 
