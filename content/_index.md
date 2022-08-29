@@ -11,7 +11,7 @@ _Everything the WWW has around Internal Developer Platforms in one curated space
 
 While self-built IDPs have been around in elite teams for around 5 years, they’re now going mainstream in 2021, embraced by huge enterprises like Spotify, Airbnb, and Zalando.  
 
-{{< tweet 851935087532945409>}}
+{{< tweet user="kelseyhightower" id="851935087532945409">}}
 
 {{< button relref="learn/what-is-an-internal-developer-platform" >}}
 -> What is an Internal Developer Platform (IDP)
