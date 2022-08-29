@@ -21,3 +21,4 @@ Using frameworks is the quickest and most state-of-the-art way to build your Int
 | [Mia-Platform]({{< relref "mia-platform" >}}) | The simplest way to develop and operate modern applications on Kubernetes |
 | [Port]({{< relref "port" >}})                 | A self service Developer Portal Builder                                   |
 | [Shipa]({{< relref "shipa" >}})               | Application As Code (AaC)                                                 |
+| [dyrectorio]({{< relref "dyrectorio" >}})     | Deployment and configuration management without specialists               |
