@@ -13,7 +13,7 @@ Internal Developer Platforms (IDPs) always have to be tailored to the needs of t
 
 ## Off-the-shelf frameworks for building Internal Developer Platforms (IDPs)
 
-The easiest way to get started is by using an existing off-the-shelf framework as starting point. Obviously, you still have to connect it to your infrastructure, configure it, and maybe even enhance it to incoroporate that one very unique piece of infrastructure in your setup. However, depending on which framework you are choosing, many or even all of the [5 Core Components]({{< relref "core-components" >}}) are readily available. The best frameworks offer a state-of-the-art user interface (UI), a command-line interface (CLI), and an API to match all personal preferences in your teams. Don't forget: it's all about the developer experience.
+The easiest way to get started is by using an existing off-the-shelf framework as starting point. Obviously, you still have to connect it to your infrastructure, configure it, and maybe even enhance it to incorporate that one very unique piece of infrastructure in your setup. However, depending on which framework you are choosing, many or even all of the [5 Core Components]({{< relref "core-components" >}}) are readily available. The best frameworks offer a state-of-the-art user interface (UI), a command-line interface (CLI), and an API to match all personal preferences in your teams. Don't forget: it's all about the developer experience.
 
 {{< button relref="frameworks" >}}
 -> Buy an Internal Developer Platform (IDP)
