@@ -20,7 +20,7 @@ The biggest impact of an IDP is one that is hard to grasp in data: self-service 
 
 The quantitative impact of an IDP highly depends on the organizational setup and the size of the engineering organization.
 While smaller teams won’t experience a lack of standardization and related pain points, enterprise organizations with hundreds or even thousands of developers deploying 1000 times per week, will benefit greatly from building and adopting an IDP.
-The most reliable framework to calculate the impact of an IDP we have seen so far, is the following table, initially published by humanitec.com [https://humanitec.com].
+The most reliable framework to calculate the impact of an IDP we have seen so far, is the following table, initially published by [humanitec.com](https://humanitec.com).
 It comes up with a list of procedures performed per 100 deployments and the corresponding amount of hours that are most likely wasted without a properly working IDP. You can do this calculation on your own and replace the values by those upon your own experience:
 
 | Procedure | Frequency (%of deployments) | Dev Time in hours (including waiting and errors) | Ops Time in hours<br>(including waiting and errors) |
