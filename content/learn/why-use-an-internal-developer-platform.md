@@ -4,45 +4,46 @@ url="/why-build-an-internal-developer-platform"
 weight=20
 +++
 
-# Why use an Internal Developer Platform (IDP)?
+# Why build and use an Internal Developer Platform (IDP)?
 
-_Internal Developer Platforms (IDPs) have a tremendously positive impact on the velocity and happiness of teams. They increase maintainability, relieve pressure on Ops and enable developer self-service._
+_Internal Developer Platforms (IDPs) have a tremendously positive impact on the velocity and happiness of teams. They enable developer self-service while keeping  cognitive load low. They enhance developer productivity, improve developer experience, reduce manual ops, lower costs and maintenance overhead. On an organizational level, IDPs drive standardization by design, leading to a much more maintainable and scalable setup. IDPs establish a clear separation of concerns between platform teams that set the standards and developers who are enabled to follow golden paths._
 
 {{< hint info >}}
-TLDR;  IDPs increase the ownership level in the application development team. They have a measurable impact on the productivity of the Ops team and its core KPIs such as mean time to repair (**MTTR**) and **Change Failure Rate**. For application developers, IDPs **drive deployment frequency** and reduce **lead time** among other factors. 
+TLDR;  TLDR; IDPs enforce standardization by design, increase developer productivity and improve developer experience. IDPs have a measurable impact on the productivity of the engineering organization and its core DevOps metrics, such as mean time to recovery **(MTTR)** and **Change Failure Rate**. For application developers, IDPs drive **deployment frequency** and reduce **lead time**, among other factors. 
 {{< /hint >}}
 
 ## Qualitative
 
-The biggest impact of an IDP is one that is hard to grasp in data: self-responsibility. IDPs allow developers to take services and apps from idea to production without ever needing to involve operations. This drives the ownership level as teams are now responsible for the configuration, deployment, or roll-back process. Increased visibility allows teams to collaborate better and more frictionless. IDPs significantly increase creativity by allowing developers to just spin up services or sub-sets to play around and experiment. A straightforward use-case is multi-cloud which is almost impossible to properly handle without an IDP.
+The biggest impact of an IDP is one that is hard to grasp in data: self-service and responsibility. IDPs allow developers to take services and apps from idea to production without ever needing to involve operations. This drives the ownership level as teams are now responsible for the configuration, deployment, or roll-back process. Increased visibility allows teams to collaborate better and frictionlessly. IDPs significantly increase creativity by allowing developers to just spin up services or subsets of workloads to play around and experiment. A straightforward use case is a multi-cloud delivery setup, which is almost impossible to properly handle without an IDP.
 
 ## Quantitative
 
-The largest study conducted yet on the quantitative impact of Internal Developer Platforms, has been performed by the IDP-framework Humanitec. This study ([summarized here](https://humanitec.com/blog/impact-of-internal-developer-platforms)) surveyed 53 teams that built an Internal Developer Platform from scratch and the entire client base of Humanitec (the company is unfortunately not revealing the total numbers but it should be somewhere in the 3-digit range). Although on the edge of significance the numbers reveal interesting trends. Most interestingly: 96% of the teams using IDPs say they couldn't imagine working without one ever again. Interestingly enough those changes are almost linear. If your team's MTTR is 12 hours today it's reduced to around 5.52 hours. If it's 6 hours (which was the survey pre-IDP average) you'll end up with 1.3 hours six months after introducing an Internal Developer Platform.
+The quantitative impact of an IDP highly depends on the organizational setup and the size of the engineering organization.
+While smaller teams won’t experience a lack of standardization and related pain points, enterprise organizations with hundreds or even thousands of developers deploying 1000 times per week, will benefit greatly from building and adopting an IDP.
+The most reliable framework to calculate the impact of an IDP we have seen so far, is the following table, initially published by [humanitec.com](https://humanitec.com).
+It comes up with a list of procedures performed per 100 deployments and the corresponding amount of hours that are most likely wasted without a properly working IDP. You can do this calculation on your own and replace the values by those upon your own experience:
 
-### Impact on your Ops/Platform/DevOps team
+| Procedure | Frequency (%of deployments) | Dev Time in hours (including waiting and errors) | Ops Time in hours<br>(including waiting and errors) |
+|---|---|---|---|
+| Add/update app configurations (e.g. env variables) | 5%* | 1h* | 1h* |
+| Add services and dependencies | 1%* | 16h* | 8h* |
+| Add/update resources | 0.38%* | 8h* | 24h* |
+| Refactor & document architecture | 0.28%* | 40h* | 8h* |
+| Waiting due to blocked environment | 0,5%* | 15h* | 0h* |
+| Spinning up environment | 0,33%* | 24h* | 24h* |
+| Onboarding devs, retrain & swap teams | 1%* | 80h* | 16h* |
+| Roll back failed deployment | 1,75% | 10* | 20* |
+| Debugging, error tracing | 4.40% | 10* | 10* |
+| Waiting for other teams | 6.30% | 16* | 16* |
 
-| Impact | Before | After |
-| :--- | :--- | :--- |
-| How many developers served by one Ops FTE | 8 devs | 15 devs |
-| Time/week spend maintaining scripts/integrations per FTE | 8 hours | 1.6 hours |
-| Mean time to repair | 6 hours | 1.3 hours |
-| Change Failure Rate | 15% | 4% |
-| Average time onboarding a new team member to delivery setup | 2 weeks | 2 days |
-
-### Impact on your application development team
-
-| Impact  | Before | After |
-| :--- | :--- | :--- |
-| Waiting times due to blocked environments decreased by 90% | 4 hrs/ wk/dev | 24 minutes/ wk/dev |
-| Average Deployment Frequency ( up 4X) | 1.5/week | 6/week |
-| Visibility and transparency across teams, services, and environments decreases transactional communication | 15 min in daily scrum | Direct reaction |
-| Onboarding time for new developers to deliver set up in hours | 30 hours | 4 hours |
-| Lead time | 13 days | 4 days |
-
+*per 100 deployments
 ### What other publications are available?
 
 The only document we are currently aware of that is at least talking about the impact of IDPs is a summary of Equal Experts that you can find here:
+
+{{< button href="https://www.gartner.com/document/4017457" target="_blank" >}}
+-> A Software Engineering Leader’s Guide to Improving Developer Experience (by Gartner, behind paywall)
+{{< /button >}}
 
 {{< button href="https://digital-platform.playbook.ee/introduction/benefits-of-a-digital-platform" target="_blank" >}}
 -> Benefits of a Digital Platform (by DigitalExperts)
