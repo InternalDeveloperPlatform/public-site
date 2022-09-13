@@ -18,5 +18,7 @@ There are a number of great DevOps consultancies out there that can help you to 
 [Eficode]({{< relref "eficode" >}}) |
 [EqualExperts]({{< relref "equalexperts" >}}) |
 [Expert Thinking]({{< relref "expert-thinking" >}}) |
+[Hallatek]({{< relref "hallatek" >}}) |
 [Polarsquad]({{< relref "polarsquad" >}}) |
 [Tektit Consulting]({{< relref "tektit" >}}) |
+
