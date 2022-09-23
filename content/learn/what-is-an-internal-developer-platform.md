@@ -6,15 +6,15 @@ weight=10
 
 # What is an Internal Developer Platform (IDP)?
 
-_An Internal Developer Platform (IDP) is a layer on top of the tech and tooling an engineering team has in place already. It helps Ops teams structure their setup and enable developer self-service._
+_An Internal Developer Platform (IDP) is built by a platform team to build golden paths and enable developer self-service. An IDP consists of many different techs and tools, glued together in a way that lowers cognitive load on developers without abstracting away context and underlying technologies. Following best practices, platform teams treat their platform as a product and build it based on user research, maintain and continuously improve it._
 
 {{< hint info >}}
 TLDR; Internal Developer Platforms (IDPs) are configured by Ops teams and used by developers. Ops teams specify what resources start up with what environment or at what request. They also set base-line templates for application configurations and govern permissions. This helps them to automate recurring tasks such as spinning up environments and resources and makes their setup easier to maintain by enforcing standards. Developer teams gain autonomy by changing configurations, deploying, spinning up fully provisioned environments, and rollback. IDPs can be built or bought.
 {{< /hint >}}
 
-### How Internal Developer Platforms are used by Ops, DevOps, or Platform teams
+### How Internal Developer Platforms are used by Platform, Ops or DevOps teams
 
-The Ops team primarily runs and configures the IDP. Teams running IDPs concentrate on infrastructure, service level agreements, and workflow-optimization and configure the IDP to abstract away any recurring or repetitive tasks, such as spinning up resources or environments for developers. The Ops team also sets baseline templates for configuration and avoids unstructured scripting to prevent excessive maintenance time. See below for all building blocks that Ops usually operates.
+The platform team primarily builds, runs, configures and maintains the IDP. Teams building and running IDPs concentrate on standardization by design, infrastructure, service level agreements, workflow-optimization and configure the IDP to automate recurring or repetitive tasks, such as spinning up resources or environments for developers. The platform team also sets the baseline for dynamic configuration management  to avoid unstructured scripting which would lead to excessive maintenance time. See below for all building blocks that the platform team usually operates.
 
 ### How Internal Developer Platforms are used by application developers
 
@@ -24,35 +24,37 @@ IDPs integrate into existing workflows which usually remain a git-push deploy wo
 
 ### Five core components
 
-Although variations exist, a fully-fledged IDP is made out of five core components. Two features are exclusively used by the Ops, DevOps or Platform team: [_Infrastructure Orchestration_]({{< relref "infrastructure-orchestration" >}}) and [_Role Based Action Control (RBAC)_]({{< relref "role-based-access-control" >}}). [_Application Configuration Management_]({{< relref "application-configuration-management" >}}) is used by the Ops team to set baseline-templates but also used in day-to-day activity by the application development team. Developers use the functionalities [_Deployment Management_]({{< relref "deployment-management" >}}) and [_Environment Management_]({{< relref "environment-management" >}}).  
+Although variations exist, a fully-fledged IDP is made out of five core components. 
+
+#### Separation of concerns
+
+Two features are exclusively used by the Ops, DevOps or Platform team: [_Infrastructure Orchestration_]({{< relref "infrastructure-orchestration" >}}) and [_Role Based Action Control (RBAC)_]({{< relref "role-based-access-control" >}}). [_Application Configuration Management_]({{< relref "application-configuration-management" >}}) is used by the platform team to set baseline-templates but also used in day-to-day activity by the application development team. Developers use the functionalities [_Deployment Management_]({{< relref "deployment-management" >}}) and [_Environment Management_]({{< relref "environment-management" >}}).  
 
 {{< button relref="core-components" >}}
 -> Core Components
 {{< /button >}}
 
-### UI, API, or CLI?
+### Developer portal, service catalog, UI, API, or CLI?
 
-All of the above-mentioned building blocks are centered around an API. Depending on the maturity of the IDP, an User Interface (UI) or Command Line Interface (CLI) can be built around the API. While many IDPs are CLI based, only a few provide a complementary UI. We also found that teams with the full set (UI, CLI, and API) show the highest satisfaction with the product. 
+All of the above-mentioned building blocks are centered around a platform API or a Platform Orchestrator. 
+Depending on the maturity of the IDP, it provides several interfaces and access points.
+That can be a CLI, different kind of User Interfaces (UIs) or a developer portal with a service catalog to unify the developer experience.
+Or how Gartner puts it:
+_“***Internal developer portals*** serve as the interface through which developers can discover and access ***internal developer platform*** capabilities.”_ 
+
+Source: A Software Engineering Leader’s Guide to Improving Developer Experience by Manjunath Bhat, Research VP, Software Engineering Practice at Gartner. ([Full report behind paywall](https://www.gartner.com/document/4017457))
+
 
 ### Integrating with all existing tech and tools
 
-IDPs integrate with all the existing tech and tooling a team has in place already. They integrate mainly through APIs to prevent introducing yet more scripts running in clusters which would increase the security risk and increases maintenance overhead.
-  
-**On the cluster side,** modern IDPs are (in 95% of all cases) built on Kubernetes with containers as workloads. Ops teams usually assign fixed clusters to the platform and assign them to environment types. If a developer requests a new environment, the platform can now set up a namespace in the assigned cluster and take care of updating configurations.
-  
-**IDPs closely integrate with CI setups** by fetching built images needed to update environments or create new ones. **External resources** such as databases, DNS, and others are connected through resource drivers that signal the success or failure of updating/creating a resource back to the IDP's API. Those drivers can be Infrastructure as Code (IaC) scripts or simple little services.
+IDPs consist of all the existing tech and tooling a team has in place already. They integrate mainly through APIs to prevent introducing yet more scripts running in clusters which would increase the security risk and increase maintenance overhead.
+On the cluster side, modern IDPs are (in 95% of all cases) built on Kubernetes with containers as workloads. Platform teams usually assign fixed clusters to the platform and assign them to environment types. If a developer requests a new environment, the platform can now set up a namespace in the assigned cluster and take care of updating configurations.
+As being part of the IDP, CI setups fetch built images needed to update environments or create new ones. External resources such as databases, DNS, and others are connected through resource drivers that signal the success or failure of updating/creating a resource back to the IDP’s API. Those drivers can be Infrastructure as Code (IaC) scripts or simple little services.
+Ops tools such as monitoring, chaos engineering, GitOps tools can be plugged into the different workflows of an IDP at the team’s convenience. We’ve compiled a long list of all tools we see commonly used within IDPs.
 
-**Ops tools** such as monitoring, chaos engineering, GitOps tools can be plugged into the different workflows of an IDP at the team's convenience. We've compiled a long list of all tools we see commonly used with IDPs.
-
-{{< button relref="integrations" >}}
--> Integrations
+{{< button relref="platform-tooling" >}}
+-> Platform tooling
 {{< /button >}}
-
-### What happens under the hood?
-
-Before a developer deploys an environment they specify the type of environment, which tells the IDP what resources should be set to which state. They select the images (workloads) they require in the application, apply changes to the base-line configurations (if necessary), and initiate a deployment. The IDP will now take the changes to the baseline configurations and create a manifest. It will use the functionality of Infrastructure Orchestration and set the right resources into the right state (let's say the application requires a namespace in GKE, a Postgres database, and a certain DNS setting to run). It will then inject the environment variables into the container and serve the running environment to the developer.
-
-{{< figure caption="How an Internal Developer Platform automates under the hood" link="/_assets/images/idp_under_the_hood.png" src="/_assets/images/idp_under_the_hood.png" alt="idp_under_the_hood.png" >}}
 
 ### Why is it called an Internal Developer Platform?
 
