@@ -10,7 +10,7 @@ weight=10
 
 _InternalDeveloperPlatform.org_ is the central hub for our global community of engineers and platform nerds. It provides a space for developers to discuss best practices and war stories around their Internal Developer Platforms and tooling setups. Join our Platform Engineering slack channel to meet other platform engineers, find jobs in the industry and attend our community events.
 
-[Join our growing Slack community](https://join.slack.com/t/platformengin-b0m7058/shared_invite/zt-viqjsv9g-JrJJa8jo8jSi0GrtDqk_2A)
+[Join our growing Slack community](https://bit.ly/39z3ZRE)
 
 ## Our Community Mission
 
@@ -23,4 +23,4 @@ _InternalDeveloperPlatform.org_ is the central hub for our global community of e
 
 {{< button relref="events" >}}
 -> Events
-{{< /button >}}  
+{{< /button >}}
