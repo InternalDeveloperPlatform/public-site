@@ -51,6 +51,6 @@ Many teams integrate other operational tools such as monitoring, chaos engineeri
 
 Learn more about integrations in this section:
 
-{{< button relref="integrations" >}}
--> Integrations
+{{< button relref="platform-tooling" >}}
+-> Platform tooling
 {{< /button >}}
