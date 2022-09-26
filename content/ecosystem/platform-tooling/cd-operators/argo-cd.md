@@ -1,6 +1,6 @@
 +++
 title="Argo CD"
-aliases="[/diy/argo-cd]"
+aliases="/diy/argo-cd"
 url="cd-operators/argo-cd"
 +++
 

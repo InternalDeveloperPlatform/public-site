@@ -1,6 +1,6 @@
 +++
 title="Jenkins"
-aliases="[/diy/jenkins]"
+aliases="/diy/jenkins"
 url="/cd-operators/jenkins"
 +++
 

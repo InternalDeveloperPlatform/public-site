@@ -1,7 +1,7 @@
 +++
 title="DevOpsBox"
-aliases="[/frameworks/devopsbox]"
-url="/paas/devopsbox"
+aliases="/frameworks/devopsbox/"
+url="/paas-devops-platforms/devopsbox"
 +++
 
 # DevOpsBox

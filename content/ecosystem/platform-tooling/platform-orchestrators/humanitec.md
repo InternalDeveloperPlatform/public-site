@@ -1,6 +1,6 @@
 +++
 title="Humanitec"
-aliases="[/frameworks/humanitec]"
+aliases="/frameworks/humanitec/"
 url="/platform-orchestrators/humanitec"
 +++
 

@@ -1,6 +1,6 @@
 +++
 title="Flux CD"
-aliases="[/diy/flux-cd]"
+aliases="/diy/flux-cd"
 url="/cd-operators/flux-cd"
 +++
 

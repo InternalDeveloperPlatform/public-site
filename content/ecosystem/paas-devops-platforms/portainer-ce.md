@@ -1,6 +1,6 @@
 +++
 title="Portainer"
-aliases="[/diy/portainer-ce]"
+aliases="/diy/portainer-ce"
 url="/paas-devops-platforms/portainer-cd" 
 +++
 

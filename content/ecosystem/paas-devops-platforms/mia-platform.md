@@ -1,7 +1,7 @@
 +++
 title="Mia-Platform"
-aliases="[/frameworks/mia-platform]"
-url="/paas/mia-platform"
+aliases="/frameworks/mia-platform"
+url="/paas-devops-platforms/mia-platform"
 +++
 
 # Mia-Platform

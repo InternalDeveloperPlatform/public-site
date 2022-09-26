@@ -1,7 +1,7 @@
 +++
 title="Platform tooling to build your IDP"
 url="/platform-tooling"
-aliases="[/frameworks]"
+aliases="/frameworks/, /build-vs-buy/, /diy/, /ecosystem/integrations/"
 bookCollapseSection=true
 weight="10"
 +++

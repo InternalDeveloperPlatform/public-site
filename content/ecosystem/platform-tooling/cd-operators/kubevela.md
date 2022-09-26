@@ -1,6 +1,6 @@
 +++
 title="Kubevela"
-aliases="[/diy/kubevela]"
+aliases="/diy/kubevela"
 url="/cd-operators/kubevela"
 +++
 
