@@ -7,11 +7,10 @@ weight=50
 # Role-Based Access Control
 
 {{< hint info >}}
-TLDR; Internal Developer Platforms (IDPs) allow the DevOps team to manage access on a granular level. This can limit access to `production` to a small number of trusted people while allowing every engineer to create new `development` environments as needed.
+TLDR; Internal Developer Platforms (IDPs) allow the Platform/DevOps team to manage access on a granular level. This can limit access to `production` to a small number of trusted people while allowing every engineer to create new `development` environments as needed.
 {{< /hint >}}
 
-A lot of different people across an IT organization are using an Internal Developer Platform to get their daily work done more efficiently; from the DevOps team that is setting up the infrastructure to the product manager testing a new feature in a realistic environment to the engineer responsible for releasing new features to production. With many different people in various roles using an Internal Developer Platform, managing access and permissions is an important aspect of an Internal Developer Platform.
-
+A lot of different people across an IT organization are using an Internal Developer Platform to get their daily work done more efficiently; from the platform or Ops team team that is setting up the infrastructure to the product manager testing a new feature in a realistic environment to the engineer responsible for releasing new features to production. With many different people in various roles using an Internal Developer Platform, managing access and permissions is an important aspect of an Internal Developer Platform.
 This section provides an overview over the most important functionality of an Internal Developer Platform regarding access control:
 
 ## Granular control - on an enterprise level
