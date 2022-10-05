@@ -16,5 +16,6 @@ If you don't want to build an IDP on your own, if you don't have the capacity to
 | -------------------------------------------- |
 | [DevOpsBox]({{< relref "devopsbox" >}})      |
 | [dyrector.io]({{< relref "dyrectorio" >}})   |
+| [Gimlet]({{< relref "gimlet" >}})   |
 | [MiaPlatform]({{< relref "mia-platform" >}}) |
 | [Portainer]({{< relref "portainer-ce" >}})   |

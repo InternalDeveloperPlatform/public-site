@@ -1,6 +1,7 @@
 +++
 title="dyrector.io"
-url="/frameworks/dyrectorio"
+aliases="/frameworks/dyrectorio"
+url="/paas-devops-platforms/dyrectorio"
 +++
 
 # dyrector.io

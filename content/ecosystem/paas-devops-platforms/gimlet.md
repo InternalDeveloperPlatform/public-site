@@ -1,6 +1,7 @@
 +++
 title="Gimlet"
-url="/frameworks/gimlet"
+aliases="/frameworks/gimlet"
+url="/paas-devops-platforms/gimlet"
 +++
 
 # Gimlet
