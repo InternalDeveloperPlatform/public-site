@@ -18,3 +18,4 @@ If you don't want to build an IDP on your own, if you don't have the capacity to
 | [dyrector.io]({{< relref "dyrectorio" >}})   |
 | [MiaPlatform]({{< relref "mia-platform" >}}) |
 | [Portainer]({{< relref "portainer-ce" >}})   |
+| [Coherence]({{< relref "coherence" >}})   |
