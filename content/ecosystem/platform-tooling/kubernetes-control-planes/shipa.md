@@ -6,7 +6,7 @@ url="/kubernetes-control-planes/shipa"
 
 # Shipa
 
-**Claim:** Application As Code (AaC). Move Fast. Keep It Consistent.
+**Claim:** It’s all about the application
 
 **Focus:** Shipa is a Kubernetes control plane that keeps the configuration at an abstraction level that allows the user to deploy any Kubernetes cluster with the same experience. Shipa is opinionated, requires YAML files as part of the repos to set Kubernetes and connect to the CI pipelines, but doesn’t provide the dynamic creation of new workloads, environments, or environments without further scripting. Shipa makes sense for developers who want an abstraction on top of Kubernetes for governance reasons, but it may not be suitable as a component to build an IDP. 
 
