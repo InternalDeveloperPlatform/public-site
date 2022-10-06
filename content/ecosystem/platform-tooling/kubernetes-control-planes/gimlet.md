@@ -1,6 +1,6 @@
 +++
 title="Gimlet"
-aliases="[/frameworks/gimlet]"
+aliases="/frameworks/gimlet"
 url="/kubernetes-control-planes/gimlet"
 +++
 

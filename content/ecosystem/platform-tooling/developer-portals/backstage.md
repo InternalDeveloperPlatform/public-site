@@ -1,6 +1,6 @@
 +++
 title="Spotify's Backstage.io"
-aliases="[/frameworks/backstage]"
+aliases="/frameworks/backstage"
 url="/developer-portals/backstage"
 
 +++
