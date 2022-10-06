@@ -1,6 +1,6 @@
 +++
 title="Port"
-aliases="[/frameworks/port]"
+aliases="/frameworks/port"
 url="/developer-portals/port"
 +++
 

@@ -22,5 +22,6 @@ https://www.gartner.com/document/4017457
 | --------------------------------------------- | ------------------------------------------------------------------------- |
 | [Backstage]({{< relref "backstage" >}})       | An open platform for building developer portals                           |
 | [Port]({{< relref "port" >}})                 | A developer portal for all your services,software & resources             |
-
+| [Cortex]({{< relref "cortex" >}})                 | Build reliable and innovative software at scale             |
+| [OpsLevel]({{< relref "opslevel" >}})                 | All your services, all in one interface           |
 

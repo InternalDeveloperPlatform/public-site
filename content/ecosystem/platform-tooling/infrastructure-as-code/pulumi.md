@@ -1,6 +1,6 @@
 +++
 title="Pulumi"
-aliases="[/diy/pulumi]"
+aliases="/diy/pulumi"
 url="/infrastructure-as-code/pulumi"
 +++
 

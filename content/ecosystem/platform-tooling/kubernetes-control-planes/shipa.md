@@ -1,6 +1,6 @@
 +++
 title="Shipa"
-aliases="[/frameworks/shipa]"
+aliases="/frameworks/shipa"
 url="/kubernetes-control-planes/shipa"
 +++
 

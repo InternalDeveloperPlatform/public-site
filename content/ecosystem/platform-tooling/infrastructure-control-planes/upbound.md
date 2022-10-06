@@ -1,6 +1,6 @@
 +++
 title="Upbound"
-aliases="[/frameworks/upbound]"
+aliases="/frameworks/upbound"
 url="/infrastructure-control-planes/upbound"
 +++
 
