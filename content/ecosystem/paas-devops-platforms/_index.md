@@ -12,10 +12,10 @@ Platform engineering teams follow a _Platform as a Product_ approach to build so
 
 If you don't want to build an IDP on your own, if you don't have the capacity to do proper user reseach, the talent and resources to bind together a compelling product or if you are just a small startup that quickly wants to build an MVP, a PaaS or end-to-end DevOps Platform might be an alternative.
 
-| **PaaS and end-to-end DevOps Platforms**     |
-| -------------------------------------------- |
-| [DevOpsBox]({{< relref "devopsbox" >}})      |
-| [dyrector.io]({{< relref "dyrectorio" >}})   |
-| [MiaPlatform]({{< relref "mia-platform" >}}) |
-| [Portainer]({{< relref "portainer-ce" >}})   |
-| [Coherence]({{< relref "coherence" >}})   |
+| **PaaS and end-to-end DevOps Platforms**      |
+| --------------------------------------------- |
+| [DevOpsBox]({{< relref "devopsbox" >}})       |
+| [dyrector.io]({{< relref "dyrectorio" >}})    |
+| [Mia-Platform]({{< relref "mia-platform" >}}) |
+| [Portainer]({{< relref "portainer-ce" >}})    |
+| [Coherence]({{< relref "coherence" >}})       |
