@@ -9,11 +9,13 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2022
+
+- [Is Platform Engineering putting an end to DevOps and SRE?](https://blog.mia-platform.eu/en/is-platform-engineering-putting-an-end-to-devops-and-sre) _Paolo Martinoli, Technical Writer at Mia-Platform_
 - [What is Dynamic Configuration Management](https://humanitec.com/blog/what-is-dynamic-configuration-management) _Kaspar von Grünberg, CEO at Humanitec_ 
 - [What is a Platform Orchestrator](https://humanitec.com/blog/what-is-a-platform-orchestrator) _Kaspar von Grünberg, CEO at Humanitec_ 
 - [Whose cognitive load is it anyway?](https://platformengineering.org/blog/cognitive-load) _Paula Kennedy, Co-Founder and Chief Operating Officer at Syntasso_
-- [Platform Engineering 101: all you need to know to get started](https://blog.mia-platform.eu/en/platform-engineering-101-all-you-need-to-know-to-get-started) _Paolo Martinoli, Technical Writer @Mia-Platform_
-- [5 tips for implementing an Internal Developer Portal in your company](https://blog.mia-platform.eu/en/5-tips-for-implementing-internal-developer-portal-in-your-company) _Paolo Martinoli, Technical Writer @Mia-Platform_
+- [Platform Engineering 101: all you need to know to get started](https://blog.mia-platform.eu/en/platform-engineering-101-all-you-need-to-know-to-get-started) _Paolo Martinoli, Technical Writer at Mia-Platform_
+- [5 tips for implementing an Internal Developer Portal in your company](https://blog.mia-platform.eu/en/5-tips-for-implementing-internal-developer-portal-in-your-company) _Paolo Martinoli, Technical Writer at Mia-Platform_
 - [The Six Stages of Internal Development Platforms](https://devopsdirective.com/posts/2022/04/stages-of-internal-development-platforms/) _Sid Palas_
 - [What is platform engineering?](https://platformengineering.org/blog/what-is-platform-engineering) _Luca Galante_
 - [Why putting a pane of glass on a pile of sh*t doesn’t solve your problem](https://platformengineering.org/blog/why-putting-a-pane-of-glass-on-a-pile-of-shit-doesnt-solve-your-problem) _Lee Ditiangkin_
