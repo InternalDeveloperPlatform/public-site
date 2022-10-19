@@ -13,5 +13,6 @@ _Internal Developer Platforms (IDPs) are a new category of tools. This means, th
 [Amazon Elastic Container Registry (ECR)]({{< relref "amazon-ecr" >}}) |
 [Azure Container Registry]({{< relref "azure-container-registry" >}}) |
 [DockerHub]({{< relref "dockerhub" >}}) |
+[Artifact Registry \| Google Cloud]({{< relref "gcp-artifact-registry" >}}) |
 [Container Registry \| Google Cloud]({{< relref "gcp-container-registry" >}}) |
 [Harbor]({{< relref "harbor" >}}) |
