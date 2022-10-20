@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2022
+- [DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/) _Aeris Stewart, Community at Humanitec_ 
 - [What is Dynamic Configuration Management](https://humanitec.com/blog/what-is-dynamic-configuration-management) _Kaspar von Grünberg, CEO at Humanitec_ 
 - [What is a Platform Orchestrator](https://humanitec.com/blog/what-is-a-platform-orchestrator) _Kaspar von Grünberg, CEO at Humanitec_ 
 - [Whose cognitive load is it anyway?](https://platformengineering.org/blog/cognitive-load) _Paula Kennedy, Co-Founder and Chief Operating Officer at Syntasso_
