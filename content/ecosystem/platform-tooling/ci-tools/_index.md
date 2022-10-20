@@ -10,6 +10,7 @@ _Internal Developer Platforms (IDPs) are the sum of all tools and tech that plat
 
 **Integration** |
 --- |
+[Bytebase]({{< relref "bytebase" >}}) |
 [CircleCI]({{< relref "circleci" >}}) |
 [Codefresh]({{< relref "codefresh" >}}) |
 [GitHub Actions]({{< relref "github-actions" >}}) |
