@@ -9,6 +9,8 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2022
+- [How GE burned $7B on their platform (and how to avoid doing the same)](https://platformengineering.org/blog/how-general-electric-burned-7-billion-on-their-platform) _Steve Pereira, CEO at Visible Value Stream Consulting_
+- [Why it is worth investing in Product Management for Internal Developer Platforms](https://platformengineering.org/blog/product-management-for-internal-developer-platforms) _Aaron Erickson, Co-founder and CEO at Orgspace_
 - [DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/) _Aeris Stewart, Community at Humanitec_
 - [Is Platform Engineering putting an end to DevOps and SRE?](https://blog.mia-platform.eu/en/is-platform-engineering-putting-an-end-to-devops-and-sre) _Paolo Martinoli, Technical Writer at Mia-Platform_
 - [What is Dynamic Configuration Management](https://humanitec.com/blog/what-is-dynamic-configuration-management) _Kaspar von Grünberg, CEO at Humanitec_ 
