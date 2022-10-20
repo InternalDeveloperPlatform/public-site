@@ -11,7 +11,6 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 ## 2022
 - [DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/) _Aeris Stewart, Community at Humanitec_
 - [Is Platform Engineering putting an end to DevOps and SRE?](https://blog.mia-platform.eu/en/is-platform-engineering-putting-an-end-to-devops-and-sre) _Paolo Martinoli, Technical Writer at Mia-Platform_
->>>>>>> d50f87bdbe201a83bd0de9d1e4aff14f15e333cc
 - [What is Dynamic Configuration Management](https://humanitec.com/blog/what-is-dynamic-configuration-management) _Kaspar von Grünberg, CEO at Humanitec_ 
 - [What is a Platform Orchestrator](https://humanitec.com/blog/what-is-a-platform-orchestrator) _Kaspar von Grünberg, CEO at Humanitec_ 
 - [Whose cognitive load is it anyway?](https://platformengineering.org/blog/cognitive-load) _Paula Kennedy, Co-Founder and Chief Operating Officer at Syntasso_
