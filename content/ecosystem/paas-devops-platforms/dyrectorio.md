@@ -9,7 +9,7 @@ url="/frameworks/dyrectorio"
 
 **Focus:** dyrector.io allows developers to use Kubernetes and Docker in an abstract manner. By using dyrector.io, non-specialists can execute multi-instance deployments and manage app configurations & secrets regardless of the cloud provider your team uses to host your applications.
 
-**Website:** [dyrector.io](https://dyrector.io/) *(WIP: right now redirect to docs)*
+**Website:** [dyrector.io](https://dyrector.io/)
 
 **Docs:** [https://docs.dyrector.io](https://docs.dyrector.io)
 
