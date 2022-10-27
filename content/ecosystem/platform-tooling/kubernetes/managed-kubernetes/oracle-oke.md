@@ -1,6 +1,6 @@
 +++
 title="Oracle Container Engine for Kubernetes (OKE)"
-url="/managed-kubernetes/oracle-gke"
+url="/managed-kubernetes/oracle-oke"
 +++
 
 # Oracle Container Engine for Kubernetes (OKE)
