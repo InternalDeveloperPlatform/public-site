@@ -12,7 +12,7 @@ url="/developer-portals/port"
 
 **Website:**[getport.io](https://www.getport.io/)
 
-**Docs:** Available soon.
+**Docs:** [docs.getport.io](https://docs.getport.io/).
 
 ### Details
 
