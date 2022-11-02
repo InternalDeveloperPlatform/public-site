@@ -10,9 +10,9 @@ url="/developer-portals/port"
 
 **Focus:** Port allows Platform teams to build a service catalog developers can act upon with self-service actions.
 
-**Website:**[getport.io](https://www.getport.io/)
+**Website:** [getport.io](https://www.getport.io/)
 
-**Docs:** Available soon.
+**Docs:** [docs.getport.io](https://docs.getport.io/).
 
 ### Details
 
