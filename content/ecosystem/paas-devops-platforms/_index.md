@@ -16,7 +16,7 @@ If you don't want to build an IDP on your own, if you don't have the capacity to
 | --------------------------------------------- |
 | [Coherence]({{< relref "coherence" >}})       |
 | [DevOpsBox]({{< relref "devopsbox" >}})       |
-| [Giant Swarm]({{< relref "giantswarm" >}})    |
 | [dyrector.io]({{< relref "dyrectorio" >}})    |
+| [Giant Swarm]({{< relref "giantswarm" >}})    |
 | [Mia-Platform]({{< relref "mia-platform" >}}) |
 | [Portainer]({{< relref "portainer-ce" >}})    |
