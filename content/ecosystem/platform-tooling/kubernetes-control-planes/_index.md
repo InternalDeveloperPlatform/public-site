@@ -14,3 +14,4 @@ _Internal Developer Platforms (IDPs) are the sum of all tools and tech that plat
 | [Ambassador Labs]({{< relref "ambassador-labs" >}})       | Ship software faster on Kubernetes                           |
 | [Gimlet]({{< relref "gimlet" >}})                 | Kubernetes made simpler for cluster admins, developers and managers             |
 | [Shipa]({{< relref "shipa" >}})                 | It’s all about the application             |         
+| [gopaddle]({{< relref "gopaddle" >}})                 | Simplest no-code platform for Kubernetes developers and operators             | 

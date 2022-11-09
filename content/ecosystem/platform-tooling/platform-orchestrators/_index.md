@@ -14,4 +14,5 @@ A Platform Orchestrator enables dynamic configuration management and executes a 
 | **Platform Orchestrators**                    | **Claim**                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------- |
 | [Humanitec]({{< relref "humanitec" >}})       | Powers your Internal Developer Platform (IDP)                             |
+| [gopaddle]({{< relref "gopaddle" >}})       | Simplest no-code platform for Kubernetes developers and operators                             |
 

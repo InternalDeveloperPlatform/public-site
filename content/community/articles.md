@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2022
+- [How Low-Code Platforms Can Help Cloud Native Developers)](https://blog.gopaddle.io/2021/11/25/no-code-cloudnative-developers/) _Vinothini Raju, CEO at gopaddle_
 - [How GE burned $7B on their platform (and how to avoid doing the same)](https://platformengineering.org/blog/how-general-electric-burned-7-billion-on-their-platform) _Steve Pereira, CEO at Visible Value Stream Consulting_
 - [Why it is worth investing in Product Management for Internal Developer Platforms](https://platformengineering.org/blog/product-management-for-internal-developer-platforms) _Aaron Erickson, Co-founder and CEO at Orgspace_
 - [DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/) _Aeris Stewart, Community at Humanitec_

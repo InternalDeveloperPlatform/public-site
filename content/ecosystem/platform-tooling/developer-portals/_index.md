@@ -24,4 +24,5 @@ https://www.gartner.com/document/4017457
 | [Port]({{< relref "port" >}})                 | A developer portal for all your services,software & resources             |
 | [Cortex]({{< relref "cortex" >}})                 | Build reliable and innovative software at scale             |
 | [OpsLevel]({{< relref "opslevel" >}})                 | All your services, all in one interface           |
+| [gopaddle]({{< relref "gopaddle" >}})                 | Simplest no-code platform for Kubernetes developers and operators           |
 
