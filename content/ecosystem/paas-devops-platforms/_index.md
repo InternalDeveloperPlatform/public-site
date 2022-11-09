@@ -14,9 +14,9 @@ If you don't want to build an IDP on your own, if you don't have the capacity to
 
 | **PaaS and end-to-end DevOps Platforms**      |
 | --------------------------------------------- |
+| [Coherence]({{< relref "coherence" >}})       |
 | [DevOpsBox]({{< relref "devopsbox" >}})       |
+| [Giant Swarm]({{< relref "giantswarm" >}})    |
 | [dyrector.io]({{< relref "dyrectorio" >}})    |
 | [Mia-Platform]({{< relref "mia-platform" >}}) |
 | [Portainer]({{< relref "portainer-ce" >}})    |
-| [Coherence]({{< relref "coherence" >}})       |
-| [Giant Swarm]({{< relref "giantswarm" >}})    |
