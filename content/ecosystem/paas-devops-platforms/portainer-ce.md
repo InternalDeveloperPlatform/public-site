@@ -1,6 +1,6 @@
 +++
 title="Portainer"
-aliases="/diy/portainer-ce"
+aliases="/diy/portainer-cd/"
 url="/paas-devops-platforms/portainer-cd" 
 +++
 
@@ -10,9 +10,9 @@ url="/paas-devops-platforms/portainer-cd"
 
 ## Resources
 
-* [Get started with Portainer](https://docs.portainer.io/v/ce-2.9/start/install/server/kubernetes/baremetal)
-* [Join the community](https://community.portainer.io/)
-* [Check out the blog](https://portainer.io/blog)
+- [Get started with Portainer](https://docs.portainer.io/v/ce-2.9/start/install/server/kubernetes/baremetal)
+- [Join the community](https://community.portainer.io/)
+- [Check out the blog](https://portainer.io/blog)
 
 {{< button href="https://portainer.io/" target="_blank" >}}
 -> Portainer

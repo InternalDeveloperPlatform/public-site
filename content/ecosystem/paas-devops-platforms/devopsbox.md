@@ -16,6 +16,4 @@ url="/paas-devops-platforms/devopsbox"
 
 {{< button href="https://www.devopsbox.io" target="_blank" >}}
 -> DevOpsBox
-{{< /button >}}  
-
-
+{{< /button >}}

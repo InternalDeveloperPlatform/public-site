@@ -15,3 +15,4 @@ A Platform Orchestrator enables dynamic configuration management and executes a 
 | --------------------------------------------- | ------------------------------------------------------------------------- |
 | [Humanitec]({{< relref "humanitec" >}})       | Powers your Internal Developer Platform (IDP)                             |
 
+
