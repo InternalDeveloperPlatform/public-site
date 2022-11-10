@@ -16,4 +16,4 @@ url="/paas-devops-platforms/gopaddle"
 
 {{< button href="https://gopaddle.io/" target="_blank" >}}
 -> gopaddle
-{{< /button >}}  
+{{< /button >}}

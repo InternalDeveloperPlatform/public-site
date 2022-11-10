@@ -6,18 +6,16 @@ url="/paas-devops-platforms/giantswarm"
 
 # Coherence
 
-**Claim:** 
+**Claim:**
 Giant Swarm’s Cloud Native Platform enables teams to rapidly develop, iterate and operate services at scale.
-
 
 **What Giant Swarm is:**
 
-*Giant Swarm is a Kubernetes-based product.* It’s built incrementally by incorporating feedback from all our customers. It accelerates the delivery of products.
+_Giant Swarm is a Kubernetes-based product._ It’s built incrementally by incorporating feedback from all our customers. It accelerates the delivery of products.
 
-*Differentiating.* It empowers your teams to concentrate on solving real business problems by abstracting away organisational complexities and toil.
+_Differentiating._ It empowers your teams to concentrate on solving real business problems by abstracting away organisational complexities and toil.
 
-*Opinionated.* It makes it easy for your teams to build, deploy, and operate products by providing a curated set of high quality platform building blocks.
-
+_Opinionated._ It makes it easy for your teams to build, deploy, and operate products by providing a curated set of high quality platform building blocks.
 
 **Website:**[www.giantswarm.io](https://www.giantswarm.io/)
 
