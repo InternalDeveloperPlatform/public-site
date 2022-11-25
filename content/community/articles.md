@@ -9,7 +9,12 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2022
-
+- [Why we advocate for workload-centric over infrastructure-centric development](https://score.dev/blog/workload-centric-over-infrastructure-centric-development) _Susa Tünker, Product Manager at Humanitec & Score_
+- [Hitting the right level of abstractions when building an Internal Developer Platform](https://platformengineering.org/blog/right-level-of-abstraction-internal-developer-platform) _Jon Skarpeteig, Tribe Lead Global Platform at Signicat_
+- [The Challenge of Cognitive Load in Platform Engineering: A Discussion with Paula Kennedy](https://www.infoq.com/articles/cognitive-load-platform-engineering/) _Paula Kennedy, Co-Founder and Chief Operating Officer of Syntasso_
+- [Good Platform Engineering: What It Is and How to Make It Work For You](https://www.contino.io/insights/platform-engineering), _Fernando Villalba, Senior Tech Evangelist at Humanitec_
+- [Platform Engineering: Creating your Internal Developer Platform (Part 2)](https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6), _Fernando Villalba, Senior Tech Evangelist at Humanitec_
+- [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [How Low-Code Platforms Can Help Cloud Native Developers)](https://blog.gopaddle.io/2021/11/25/no-code-cloudnative-developers/) _Vinothini Raju, CEO at gopaddle_
 - [How GE burned $7B on their platform (and how to avoid doing the same)](https://platformengineering.org/blog/how-general-electric-burned-7-billion-on-their-platform) _Steve Pereira, CEO at Visible Value Stream Consulting_
