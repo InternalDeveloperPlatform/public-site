@@ -15,7 +15,6 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [Good Platform Engineering: What It Is and How to Make It Work For You](https://www.contino.io/insights/platform-engineering), _Fernando Villalba, Senior Tech Evangelist at Humanitec_
 - [Platform Engineering: Creating your Internal Developer Platform (Part 2)](https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6), _Fernando Villalba, Senior Tech Evangelist at Humanitec_
 - [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution) _Michel Murabito, Developer Advocate at Mia-Platform_
-- [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [How Low-Code Platforms Can Help Cloud Native Developers)](https://blog.gopaddle.io/2021/11/25/no-code-cloudnative-developers/) _Vinothini Raju, CEO at gopaddle_
 - [How GE burned $7B on their platform (and how to avoid doing the same)](https://platformengineering.org/blog/how-general-electric-burned-7-billion-on-their-platform) _Steve Pereira, CEO at Visible Value Stream Consulting_
 - [Why it is worth investing in Product Management for Internal Developer Platforms](https://platformengineering.org/blog/product-management-for-internal-developer-platforms) _Aaron Erickson, Co-founder and CEO at Orgspace_
