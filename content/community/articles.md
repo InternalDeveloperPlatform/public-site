@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2022
+- [Sunrise - Zalando’s Internal Developer Platform](https://platformengineering.org/talks-library/sunrise-zalandos-internal-developer-platform) _Henning Jacobs, Executive Principal Engineer at Zalando_
 - [Why we advocate for workload-centric over infrastructure-centric development](https://score.dev/blog/workload-centric-over-infrastructure-centric-development) _Susa Tünker, Product Manager at Humanitec & Score_
 - [Hitting the right level of abstractions when building an Internal Developer Platform](https://platformengineering.org/blog/right-level-of-abstraction-internal-developer-platform) _Jon Skarpeteig, Tribe Lead Global Platform at Signicat_
 - [The Challenge of Cognitive Load in Platform Engineering: A Discussion with Paula Kennedy](https://www.infoq.com/articles/cognitive-load-platform-engineering/) _Paula Kennedy, Co-Founder and Chief Operating Officer of Syntasso_
