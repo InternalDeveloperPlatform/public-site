@@ -4,7 +4,7 @@ aliases="/frameworks/giantswarm/"
 url="/paas-devops-platforms/giantswarm"
 +++
 
-# Coherence
+# Giant Swarm
 
 **Claim:**
 Giant Swarm’s Cloud Native Platform enables teams to rapidly develop, iterate and operate services at scale.
