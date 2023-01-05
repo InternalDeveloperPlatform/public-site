@@ -12,6 +12,7 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [UX on Platform Engineering](https://nandovillalba.medium.com/ux-on-platform-engineering-1c7ecfaddea7) _Fernando Villalba, Senior Tech Evangelist at Humanitec_
  
 ## 2022
+- [Key findings from implementing Backstage for more than 100k developers](https://platformengineering.org/blog/backstage-implementations-for-more-than-100k-developers) _Taras Mankovski, CEO at The Frontside Software_
 - [Sunrise - Zalando’s Internal Developer Platform](https://platformengineering.org/talks-library/sunrise-zalandos-internal-developer-platform) _Henning Jacobs, Executive Principal Engineer at Zalando_
 - [Why we advocate for workload-centric over infrastructure-centric development](https://score.dev/blog/workload-centric-over-infrastructure-centric-development) _Susa Tünker, Product Manager at Humanitec & Score_
 - [Hitting the right level of abstractions when building an Internal Developer Platform](https://platformengineering.org/blog/right-level-of-abstraction-internal-developer-platform) _Jon Skarpeteig, Tribe Lead Global Platform at Signicat_
