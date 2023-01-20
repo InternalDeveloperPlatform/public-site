@@ -22,7 +22,7 @@ url="/developer-portals/atlassian-compass"
 | Does it require developers to have DevOps knowledge? | No |
 | Self-hosted: | No |
 | Orchestrator | N/A |
-| Integration Concept | Native, Build custom integrations via API or Forge serverless app platform |
+| Integration Concept | Native, Build custom integrations via API or Forge app development platform |
 | Setup time first app | 7 mins |
 | Source | Closed |
 | Use Case | Startup to enterprise scale |
@@ -41,7 +41,7 @@ With predefined scorecards like application readiness and DevOps health, out-of-
 
 Compass includes easy integrations with popular tooling, such as GitHub, GitLab, BitBucket, LaunchDarkly, New Relic, AWS, CircleCI, and more. In addition, Compass is built entirely on publicly accessible APIS backed by GraphQL, allowing you to connect information across your toolchain and craft a unified experience that improves developer productivity and happiness with ease.
 
-Compass is currently available for free in beta. Sign up here to get started.
+Compass is currently available for free in beta. 
 
 
 ### What is the mission and vision of Compass?
@@ -55,7 +55,7 @@ In 2018, Compass was built as a way for Atlassian’s large, distributed enginee
 
 However, while we worked with our customers migrating to managed cloud services and containerizing their applications into hundreds (or even thousands) of microservices, they often asked how Atlassian engineers were dealing with the increased complexity and cognitive load within our own highly distributed environment. 
 
-As a direct result, we externally released Compass in 2022 to provide a simple way for engineering orgs to connect their services, libraries, and components in a centralized developer experience platform and service catalog. 
+As a direct result, we externally released Compass in 2021 to provide a simple way for engineering orgs to connect their services, libraries, and components in a centralized developer experience platform and service catalog. 
 
 Today, Compass is available for platform engineering teams—as well as application development teams—that want to quickly start exploring their services, documentation, libraries, tooling, and dependencies in a single, unified place. 
 
