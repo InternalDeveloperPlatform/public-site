@@ -47,15 +47,15 @@ Compass is currently available for free in beta.
 ### What is the mission and vision of Compass?
 Compass helps engineering teams tame software sprawl by intuitively providing a single source of truth for their distributed architecture, and enabling them to understand what’s been built, who owns it, their operational health and policies applied to them
 
-[Read our announcement](https://www.atlassian.com/blog/announcements/introducing-compass) to learn how we're on a mission to improve the developer experience across highly distributed architecture and teams.  
+[Read the announcement](https://www.atlassian.com/blog/announcements/introducing-compass) to learn how Compass is on a mission to improve the developer experience across highly distributed architecture and teams.  
 
 ### A brief history of Compass
 
 In 2018, Compass was built as a way for Atlassian’s large, distributed engineering team to internally document and track all of their services and dependencies, maintain ops readiness and security standards, improve time to delivery metrics, and increase overall developer satisfaction.
 
-However, while we worked with our customers migrating to managed cloud services and containerizing their applications into hundreds (or even thousands) of microservices, they often asked how Atlassian engineers were dealing with the increased complexity and cognitive load within our own highly distributed environment. 
+However, while Compass worked with their customers migrating to managed cloud services and containerizing their applications into hundreds (or even thousands) of microservices, customer engineering teams often asked how Atlassian engineers were dealing with the increased complexity and cognitive load within their own highly distributed environment. 
 
-As a direct result, we externally released Compass in 2021 to provide a simple way for engineering orgs to connect their services, libraries, and components in a centralized developer experience platform and service catalog. 
+As a direct result, Atlassian externally released Compass in 2022 to provide a simple way for engineering orgs to connect their services, libraries, and components in a centralized developer experience platform and service catalog. 
 
 Today, Compass is available for platform engineering teams—as well as application development teams—that want to quickly start exploring their services, documentation, libraries, tooling, and dependencies in a single, unified place. 
 
