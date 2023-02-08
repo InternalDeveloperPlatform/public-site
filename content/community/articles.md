@@ -10,6 +10,7 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 
 ## 2023
 - [UX on Platform Engineering](https://nandovillalba.medium.com/ux-on-platform-engineering-1c7ecfaddea7) _Fernando Villalba, Senior Tech Evangelist at Humanitec_
+- [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering) _James Walker, Founder at Heron Web_
  
 ## 2022
 - [Key findings from implementing Backstage for more than 100k developers](https://platformengineering.org/blog/backstage-implementations-for-more-than-100k-developers) _Taras Mankovski, CEO at The Frontside Software_
