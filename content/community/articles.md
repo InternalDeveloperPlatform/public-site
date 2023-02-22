@@ -9,7 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
-- [Hard-Won Lessons from the Trenches: Failure Modes of Platform Engineering — and How to Avoid Them] (https://www.infoq.com/articles/platform-engineering-lessons-learned/) _Aaron Erickson, Co-Founder and CEO at Orgspace_
+- [Hard-Won Lessons from the Trenches: Failure Modes of Platform Engineering — and How to Avoid Them](https://www.infoq.com/articles/platform-engineering-lessons-learned/) _Aaron Erickson, Co-Founder and CEO at Orgspace_
 - [UX on Platform Engineering](https://nandovillalba.medium.com/ux-on-platform-engineering-1c7ecfaddea7) _Fernando Villalba, Senior Tech Evangelist at Humanitec_
  
 ## 2022
