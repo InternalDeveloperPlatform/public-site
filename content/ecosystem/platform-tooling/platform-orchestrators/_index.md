@@ -14,5 +14,5 @@ A Platform Orchestrator enables dynamic configuration management and executes a 
 | **Platform Orchestrators**                    | **Claim**                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------- |
 | [Humanitec]({{< relref "humanitec" >}})       | Powers your Internal Developer Platform (IDP)                             |
-
+| [Mia-Platform]({{< relref "mia-platform" >}}) | Turn your company into a Digital Platform                                 |
 
