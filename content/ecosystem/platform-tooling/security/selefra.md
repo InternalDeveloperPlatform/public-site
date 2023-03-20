@@ -1,5 +1,6 @@
 +++
 title="Selefra"
+aliases="[/chaos-engineering/selefra]"
 url="/security/selefra"
 +++
 
