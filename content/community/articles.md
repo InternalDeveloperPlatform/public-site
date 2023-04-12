@@ -9,6 +9,8 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
+- [7 core components of an Internal Developer Platform](https://blog.mia-platform.eu/en/seven-core-components-internal-developer-platform) _Michel Murabito, Developer Advocate at Mia-Platform_
+- [How Platform Engineering Makes Software Sustainable](https://devops.com/how-platform-engineering-makes-software-sustainable/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [UX on Platform Engineering](https://nandovillalba.medium.com/ux-on-platform-engineering-1c7ecfaddea7) _Fernando Villalba, Senior Tech Evangelist at Humanitec_
 - [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering) _James Walker, Founder at Heron Web_
  
