@@ -8,7 +8,7 @@ weight="1"
 **Platform Orchestrators**
 
 Platform Orchestrators are the center piece of any dynamic Internal Developer Platform.
-A Platform Orchestrator enables dynamic configuration management and executes a declarative application model.
+A Platform Orchestrator enables dynamic configuration management.
 
 
 | **Platform Orchestrators**                    | **Claim**                                                                 |
