@@ -21,6 +21,7 @@ https://www.gartner.com/document/4017457
 | ------------------------------------------------------------ | ------------------------------------------------------------- |
 | [Backstage]({{< relref "backstage" >}})                      | An open platform for building developer portals               |
 | [Compass from Atlassian]({{< relref "atlassian-compass" >}}) | Developer experience platform and service catalog             |
+| [configure8]({{< relref "configure8">}})                     | An enterprise-grade developer portal solution                 |
 | [Cortex]({{< relref "cortex" >}})                            | Build reliable and innovative software at scale               |
 | [OpsLevel]({{< relref "opslevel" >}})                        | All your services, all in one interface                       |
 | [Port]({{< relref "port" >}})                                | A developer portal for all your services,software & resources |
