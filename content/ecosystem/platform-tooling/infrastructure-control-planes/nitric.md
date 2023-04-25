@@ -1,7 +1,7 @@
 +++
 title="Nitric"
 aliases="/frameworks/nitric/"
-url="/platform-orchestrators/nitric"
+url="/infrastructure-control-planes/nitric"
 +++
 
 # Nitric

@@ -10,5 +10,5 @@ The control plane of an IDP is critical for ensuring that the IDP infrastructure
 
 | **Platform Orchestrators**          | **Claim**                                       |
 | ----------------------------------- | ----------------------------------------------- |
-| [Upbound]({{< relref "upbound" >}}) | Universal cloud APIs and consoles for your team |
 | [Nitric]({{< relref "nitric" >}})   | Automate Infrastruture for your Platform        |
+| [Upbound]({{< relref "upbound" >}}) | Universal cloud APIs and consoles for your team |
