@@ -9,6 +9,8 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
+- [How to scale enterprise-wide Kubernetes adoption](https://platformengineering.org/blog/scale-kubernetes-enterprise-adoption) _Turja Narayan Chaudhuri, Assistant Director , Cloud PracticeAssistant Director , Cloud Practice at EY_
+- [Step One to Successfully Building Your Platform: Building It Together](https://www.infoq.com/articles/building-platform-business-case) _Lee Ditiangkin, Director of Product / Engineering at Nvidia_
 - [Platform Engineering Is Not about Building Fancy UIs](https://thenewstack.io/platform-engineering-is-not-about-building-fancy-uis/) _Kaspar von Grünberg, Founder and CEO at Humanitec_
 - [Hard-Won Lessons from the Trenches: Failure Modes of Platform Engineering — and How to Avoid Them](https://www.infoq.com/articles/platform-engineering-lessons-learned/) _Aaron Erickson, Co-Founder and CEO at Orgspace_
 - [UX on Platform Engineering](https://nandovillalba.medium.com/ux-on-platform-engineering-1c7ecfaddea7) _Fernando Villalba, Senior Tech Evangelist at Humanitec_
