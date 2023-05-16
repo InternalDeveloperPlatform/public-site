@@ -1,6 +1,12 @@
 {{ if .Site.Params.googleTagManagerId }}
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4F8PQZ"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript
+  ><iframe
+    src="https://www.googletagmanager.com/ns.html?id={{ $.Site.Params.googleTagManagerId }}"
+    height="0"
+    width="0"
+    style="display: none; visibility: hidden"
+  ></iframe
+></noscript>
 <!-- End Google Tag Manager (noscript) -->
 {{ end }}
