@@ -9,7 +9,7 @@ weight=20
 _Internal Developer Platforms (IDPs) have a tremendously positive impact on the velocity and happiness of teams. They enable developer self-service while keeping  cognitive load low. They enhance developer productivity, improve developer experience, reduce manual ops, lower costs and maintenance overhead. On an organizational level, IDPs drive standardization by design, leading to a much more maintainable and scalable setup. IDPs establish a clear separation of concerns between platform teams that set the standards and developers who are enabled to follow golden paths._
 
 {{< hint info >}}
-TLDR;  TLDR; IDPs enforce standardization by design, increase developer productivity and improve developer experience. IDPs have a measurable impact on the productivity of the engineering organization and its core DevOps metrics, such as mean time to recovery **(MTTR)** and **Change Failure Rate**. For application developers, IDPs drive **deployment frequency** and reduce **lead time**, among other factors. 
+TLDR; IDPs enforce standardization by design, increase developer productivity and improve developer experience. IDPs have a measurable impact on the productivity of the engineering organization and its core DevOps metrics, such as mean time to recovery **(MTTR)** and **Change Failure Rate**. For application developers, IDPs drive **deployment frequency** and reduce **lead time**, among other factors. 
 {{< /hint >}}
 
 ## Qualitative

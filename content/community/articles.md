@@ -8,7 +8,26 @@ weight=30
 
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
+## 2023
+- [How to scale enterprise-wide Kubernetes adoption](https://platformengineering.org/blog/scale-kubernetes-enterprise-adoption) _Turja Narayan Chaudhuri, Assistant Director , Cloud PracticeAssistant Director, Cloud Practice at EY_
+- [Step One to Successfully Building Your Platform: Building It Together](https://www.infoq.com/articles/building-platform-business-case) _Lee Ditiangkin, Director of Product / Engineering at Nvidia_
+- [7 core components of an Internal Developer Platform](https://blog.mia-platform.eu/en/seven-core-components-internal-developer-platform) _Michel Murabito, Developer Advocate at Mia-Platform_
+- [How Platform Engineering Makes Software Sustainable](https://devops.com/how-platform-engineering-makes-software-sustainable/) _Michel Murabito, Developer Advocate at Mia-Platform_
+- [Platform Engineering Is Not about Building Fancy UIs](https://thenewstack.io/platform-engineering-is-not-about-building-fancy-uis/) _Kaspar von Grünberg, Founder and CEO at Humanitec_
+- [Hard-Won Lessons from the Trenches: Failure Modes of Platform Engineering — and How to Avoid Them](https://www.infoq.com/articles/platform-engineering-lessons-learned/) _Aaron Erickson, Co-Founder and CEO at Orgspace_
+- [UX on Platform Engineering](https://nandovillalba.medium.com/ux-on-platform-engineering-1c7ecfaddea7) _Fernando Villalba, Senior Tech Evangelist at Humanitec_
+- [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering) _James Walker, Founder at Heron Web_
+ 
 ## 2022
+- [Key findings from implementing Backstage for more than 100k developers](https://platformengineering.org/blog/backstage-implementations-for-more-than-100k-developers) _Taras Mankovski, CEO at The Frontside Software_
+- [Sunrise - Zalando’s Internal Developer Platform](https://platformengineering.org/talks-library/sunrise-zalandos-internal-developer-platform) _Henning Jacobs, Executive Principal Engineer at Zalando_
+- [Why we advocate for workload-centric over infrastructure-centric development](https://score.dev/blog/workload-centric-over-infrastructure-centric-development) _Susa Tünker, Product Manager at Humanitec & Score_
+- [Hitting the right level of abstractions when building an Internal Developer Platform](https://platformengineering.org/blog/right-level-of-abstraction-internal-developer-platform) _Jon Skarpeteig, Tribe Lead Global Platform at Signicat_
+- [The Challenge of Cognitive Load in Platform Engineering: A Discussion with Paula Kennedy](https://www.infoq.com/articles/cognitive-load-platform-engineering/) _Paula Kennedy, Co-Founder and Chief Operating Officer of Syntasso_
+- [Good Platform Engineering: What It Is and How to Make It Work For You](https://www.contino.io/insights/platform-engineering), _Fernando Villalba, Senior Tech Evangelist at Humanitec_
+- [Platform Engineering: Creating your Internal Developer Platform (Part 2)](https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6), _Fernando Villalba, Senior Tech Evangelist at Humanitec_
+- [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution) _Michel Murabito, Developer Advocate at Mia-Platform_
+- [How Low-Code Platforms Can Help Cloud Native Developers)](https://blog.gopaddle.io/2021/11/25/no-code-cloudnative-developers/) _Vinothini Raju, CEO at gopaddle_
 - [How GE burned $7B on their platform (and how to avoid doing the same)](https://platformengineering.org/blog/how-general-electric-burned-7-billion-on-their-platform) _Steve Pereira, CEO at Visible Value Stream Consulting_
 - [Why it is worth investing in Product Management for Internal Developer Platforms](https://platformengineering.org/blog/product-management-for-internal-developer-platforms) _Aaron Erickson, Co-founder and CEO at Orgspace_
 - [DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/) _Aeris Stewart, Community at Humanitec_
@@ -23,6 +42,7 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [Why putting a pane of glass on a pile of sh*t doesn’t solve your problem](https://platformengineering.org/blog/why-putting-a-pane-of-glass-on-a-pile-of-shit-doesnt-solve-your-problem) _Lee Ditiangkin_
 - [DevOps MUST Build Internal Developer Platform (IDP)](https://youtu.be/j5i00z3QXyU) _Viktor Farcic_
 - [Applying Product Thinking to Slack’s Internal Compute Platform](https://slack.engineering/applying-product-thinking-to-slacks-internal-compute-platform/) _Javier Turegano_
+- [Internal Developer Platform on AWS](https://www.manning.com/liveprojectseries/internal-developer-platform-ser) _Daniel Li_
 
 ## 2021
 
