@@ -5,11 +5,11 @@ url="/frameworks/dyrectorio"
 
 # dyrector.io
 
-**Claim:** Deployment and configuration management without specialists.
+**Claim:** Self-service container deployment and release management.
 
-**Focus:** dyrector.io allows developers to use Kubernetes and Docker in an abstract manner. By using dyrector.io, non-specialists can execute multi-instance deployments and manage app configurations & secrets regardless of the cloud provider your team uses to host your applications.
+**Focus:** Configure your OCI images once and deploy them as a new version anytime, to any environment.
 
-**Website:** [dyrector.io](https://dyrector.io/)
+**Website:** [dyrector.io](https://dyrector.io/) _(WIP: right now redirect to docs)_
 
 **Docs:** [https://docs.dyrector.io](https://docs.dyrector.io)
 
@@ -18,43 +18,54 @@ url="/frameworks/dyrectorio"
 **Twitter:** [https://twitter.com/dyrectorio](https://twitter.com/dyrectorio)
 
 {{< button href="https://github.com/dyrector-io/dyrectorio" target="_blank" >}}
-dyrector.io github repository
+Check out the project on GitHub
 {{< /button >}}
 
-What is dyrector.io?
----------------------
+## What is dyrector.io?
 
-dyrector.io is an open-source CD platform that helps software developer teams manage releases & deployments easily and efficiently. While non-specialists are enabled to manage these processes in a simplified, self-service manner, specialists can deploy and manage containerized apps faster through the platform.
+dyrector.io is an open-source container management platform that helps you with self-service OCI image configuration and deployment capabilities.
 
-### Platform for
+### Who is it for?
 
-- **DevOps & System Engineers** can build and manage robust cloud infrastructure
-- **Engineers** can focus more on developing the product because self-service deployments are faster
-- **Stakeholders** can deliver new functions and products with a higher velocity
-- **CTOs & Technical Managers** can reduce time-to-market, manage cloud costs more efficiently and maintain team productivity.
+- **DevOps Engineers / System Admins** - The platform can be used as a hub where your team can interact with your infrastructure without your presence.
+- **Software Engineers / Developers** - You can spend more time creating new features instead of manually going through steps of deploying your containerized stack repeatedly.
+- **Indie hackers / Self-hosters** - You can use the platform by installing the agent of the platform on your infrastructure instead of setting up a dashboard and individually adding all the applications you host for yourself.
+- **Startups / Organizations afraid of vendor lock-ins** - If you're a startupper or the decision-maker of an organization, you can check out the platform as a developer platform that fits your infrastructure as long as you manage OCI images.
 
-### General use case
+### Use cases
 
-In the flowchart below you can see how dyrector.io fits into Software Development Lifecycle (SDLC).
-- Your Developer teammate commits to a Registry, which your Release Manager teammate gets notified about.
-- The Release Manager or any stakeholder can set up a testing environment self-service to validate the new version’s functionality.
-- After successful testing, the Release Manager or any stakeholder can trigger the deployment of the new version.
-- In case of an emergency, specialist or non-specialist stakeholders can intervene on an abstract level via dyrector.io to avoid downtime for a temporary fix.
+#### Self-service container management
+
+Deploy, start, restart, stop, delete containers on your infrastructure. Check logs and inspect containers when you need to.
+
+#### Self-hosted stacks for indie hackers
+
+Set up containerized stacks on any environment and manage your entire ecosystem via a GUI.
+
+#### Multi-instance deployments
+
+When you create business applications, configure releases and deploy them to as many environments as you need them to with one click.
 
 ![General dyrector.io usecases](https://3138693079-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FCNvxW8k55ZlpJfMk8Oep%2Fuploads%2F4s6SXAcqsWnS9uxuizxx%2Fdyrector-io-workflow-roles-dark.png?alt=media&token=f5954f9f-ddc2-468d-9507-78910c190278)
 
+#### Instant test environments
 
-#### Developers / Engineers
+When you develop applications as a member of a team, your QA or sales teammates can set up the stack for themselves without your presence.
 
-Developers commit to either a 3rd party or a private Registry. The image is then built automatically – this process can be triggered via dyrector.io, as well, if necessary. Once the image is built, it’s available to push to the Registry.
+### What makes it special?
 
-#### Release Managers
+#### UI & API for Kubernetes and Docker
 
-In this case, Release Manager is a superficial role. They can be project managers, billing coordinators, basically anyone who interacts with dyrector.io and is responsible of making sure the corresponding version is deployed to the users. Release Managers have access to the Products, and they can deploy them to the Nodes with a single click. They’re able to validate the Product’s functionality and monitor the development progress. Besides these, they can create release notes so everyone can understand how a certain version or product is different.
+The platform substitutes container management with commands in Kubernetes and Docker with a UI. If you'd like to build something new that involves interactions with these technologies, you can do so by using the platform's [API](https://docs.dyrector.io/basics/api).
 
-#### SysAdmins / DevOps Engineers
+#### Cloud provider & technology agnostic
 
-DevOps engineers configure the components that make up the workflow, including the Nodes, pipelines and services.
+Any environment is ready to be used with the platform with minimal effort, no need to set up your stack on an entirely new infrastructure. Get instant results with the platform.
+
+#### Wide-range of integrations
+
+You can manage any OCI image available in any V2 compatible registry, for example Docker Hub, GitLab, GitHub, Google or Azure container registries.
+Chat notifications are also available in Slack, Discord and MS Teams. Popular containerized projects, such as WordPress and Strapi are also available as preset applications, ready for deployments with minimal configuration changes.
 
 #### Product Owners, Project Managers, Stakeholders
 
