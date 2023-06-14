@@ -1,106 +1,104 @@
-+++
-title="Port"
-aliases="/frameworks/port"
-url="/developer-portals/port"
-+++
+# Port [#](https://internaldeveloperplatform.org/developer-portals/port/#port)
 
-# Port
+**Claim**: An open internal developer portal.
 
-**Claim:** A Developer Portal Builder
+**Focus**: Port is a platform that lets platform engineers build a context-rich software catalog with maturity and quality scorecards. It can also support comprehensive, long-running, developer self-service actions on services, resources, and more, as well as workflow automation. 
 
-**Focus:** Port allows Platform teams to build a service catalog developers can act upon with self-service actions.
+**Website**: [getport.io](https://www.getport.io/)
 
-**Website:** [getport.io](https://www.getport.io/)
+**Docs**: [docs.getport.io](https://docs.getport.io/)
 
-**Docs:** [docs.getport.io](https://docs.getport.io/).
 
-### Details
+### Details [#](https://internaldeveloperplatform.org/developer-portals/port/#details)
 
-| Details                                              |                                                   |
-| ---------------------------------------------------- | ------------------------------------------------- |
-| Does it require developers to have DevOps knowledge? | No                                                |
-| Self-hosted                                          | SaaS/Self-hosted                                  |
-| Orchestrator                                         | Kubernetes                                        |
-| Integration Concept                                  | API based                                         |
-| Setup time first app                                 | 2 hours                                           |
-| Source                                               | Partially Closed                                  |
-| Total Cost of Ownership                              | [Plans & Pricing](https://www.getport.io/pricing) |
-| Adoption                                             | Early but stable                                  |
 
-{{< button href="https://www.getport.io/" target="_blank" >}}
--> Port
-{{< /button >}}
+<table>
+  <tr>
+   <td><strong>Details</strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Does it require developers to have DevOps knowledge?
+   </td>
+   <td>No
+   </td>
+  </tr>
+  <tr>
+   <td>Self-hosted
+   </td>
+   <td>No self-hosted version, Port is SaaS based and is planning a customer-cloud hosted version soon
+   </td>
+  </tr>
+  <tr>
+   <td>Orchestrator
+   </td>
+   <td>N/A. Port is loosely coupled with any existing platform engineering automation, interfacing with any orchestrator chosen by the customer
+   </td>
+  </tr>
+  <tr>
+   <td>Integration Concept
+   </td>
+   <td>API based
+   </td>
+  </tr>
+  <tr>
+   <td>Setup time first app
+   </td>
+   <td>Minutes
+   </td>
+  </tr>
+  <tr>
+   <td>Source
+   </td>
+   <td>Closed, integrations and exporters are open
+   </td>
+  </tr>
+  <tr>
+   <td>Total Cost of Ownership
+   </td>
+   <td>Port has a free version without user or time limits. Pricing is transparent and appears on <a href="https://www.getport.io/pricing">Port’s site</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Adoption
+   </td>
+   <td>Many free and paying users, such as Foresters, CyberArk, Shift, Bloomerang, Melio, BT, Tripla, neosec, Aqua, run:ai, etc
+   </td>
+  </tr>
+</table>
 
-## What is Port?
 
-Port's Developer Portal is a unified, self-service view of the Developer's ecosystem. It consolidates everything Developers need so that it's quick and easy to find.
-As a holistic platform, DevPortals have many components to take into account.
+[-> Port](https://www.getport.io/)
 
-**Components of a Developer Portal**
 
-As a holistic platform, DevPortals have many components to take into account.
-{{< figure caption="" link="/_assets/images/components-of-a-Developer-Portal.png" src="/_assets/images/components-of-a-Developer-Portal.png" alt="components-of-a-Developer-Portal.png" >}}
+## **What is Port?** [#](https://internaldeveloperplatform.org/developer-portals/port/#what-is-port)
 
-**Software Catalog Layer**
+Port is a platform for building no-code, holistic, Internal Developer Portals. Port’s software catalog covers microservices, resources, custom assets and fits any data model, with in-context maturity scorecards. Its portals support any developer self-service action and workflow automation.
 
-The Software Catalog Layer is where Developers go to discover the answer to any software question they might have. It's a unified view of the different software components within the organization.
+Blueprints, or custom entity definitions, are the center of Port. They support the representation of any asset in Port, such as microservice, environment, package, cluster, databases etc. This means that Port is un-opinionated and supports any portal for any use case: Enable developers in your organization through a self-service portal for your IaC solution or any other toolset you use. Full kubernetes portal covering services, pods, clusters and more kubernetes objects, allowing for full K8s object visibility and custom developer views. Cloud resource catalog e.g. for AWS add data about Lambda functions, S3 buckets, SQS, ECS services etc. Support GCP too. Github catalog data from git providers that will populate the blueprints, creating a software catalog with the right abstractions, permissions and more.
 
-Software components you might find in the Software-Catalog layer often include:
+Port’s software catalog acts as a single source of truth and is always up to date. It can be used as part of workflows, automations and CI/CD processes. All the data in Port, from CI/CD to K8s data and any extension is searchable, creating numerous inputs for workflow automation.
 
-- Microservices
-- Cloud Resources (K8S, Lambda, RDS, etc…)
-- Cloud Providers (AWS, GCP, Azure)
-- Environments (Production, Staging, QA, Security, DevEnvs…)
-- Permissions
-- Secrets
-- Deployments
-  ‍
+Port both updates other systems and allows workflows (such as CI) to check its catalog. Port also supports a UI-based developer self-service that’s loosely coupled with the underlying platform and easy scorecard creation to set engineering standards from DORA metrics to health checks, production readiness, and reliability.
 
-And that's just the beginning. The many components can also have dependencies between them. For example, managing the Software Catalog layer in a visual representation is essential to answering complex questions.
+**What is the mission and vision of Port? [#](https://internaldeveloperplatform.org/developer-portals/port/#what-is-the-mission-and-vision-of-port)**
 
-**Self-Service Layer**
+Port’s mission is to deliver every developer a best-in-class experience while coding and bringing code to production.
 
-Once you have organized your software components, the self-service layer is where Developers can come to perform actions.
+Port was established so every platform engineer could create a developer portal suitable for their developers’ needs, from a software catalog to developer self-service actions.
 
-"Deploy this Microservice" or "Add Cloud Resource" are daily tasks for Developers. This is where they can perform actions on the assets you manage within your catalog. This is the front door for everything a developer might need.
 
-**Control Layer**
+### **A brief history of Port [#](https://internaldeveloperplatform.org/developer-portals/port/#a-brief-history-of-port)**
 
-With a great DevPortal comes great responsibility. Without proper controls in place, security, compliance, and cost controls become chaos.
+Port’s product was launched in January 2022. Port’s founding team has over 10 years of hands-on DevEx expertise.
 
-It's possible to implement a number of control measures across the Software Catalog and Self Service layers.
 
-- **Permissions**: manage access to the data shown in the Software Catalog.
-- **Actions**: allow different self-service actions based on a role within the organization.
-- **User Tracking**: all actions within the DevPortal are tracked to ensure you stay compliant with current certifications.
-- **Automation**: revoke, remediate, revert, and cron-job automations will help set proper processes around DevPortal provisions.
+### **Core features of Port [#](https://internaldeveloperplatform.org/developer-portals/port/#core-features-of-port)**
 
-**Product Management Layer**
 
-This just might be my favorite layer. When designing a DevPortal, think like a Product Manager. One that actually understands Developers. Here are a few things to include if your DevPortal is going to be successfully adopted:
 
-1. Wizards and tutorials for new users.
-2. Embedded documentation to explain the DevPortal glossary.
-3. Custom views for different teams depending on their business function.
-4. Chat and support functions are easily accessible at all times.
-5. Analytics dashboards to learn the strengths and weaknesses of the DevPortal.
-
-### **What is the mission and vision of Port?**
-
-We believe every developer deserves a best-in-class experience while coding and bringing code to production.
-
-We started Port so every DevEx team can create a DevPortal suitable for their Developers' needs, from Software Catalog to Self-Service actions, all available from one convenient place, up and running in minutes.
-
-### **A brief history of Port**
-
-Port is a brand new product launched in January 2022. Port's founding team has over 10 years of hands-on DevEx expertise.
-
-In the past, we built a DevPortal used by over 1500+ Developers. We saw how a DevPortal affects the Developers' everyday lives at scale.
-
-### **Core features of Port**
-
-- Visibility -- Create a comprehensive catalog by mapping all your software and infrastructure components.
-
-- Self Service -- Enable self-serve for anyone in the organization.
-
-- Granular Policies & Controls -- for effective and responsible launch of an Internal Developer Platform
+* Visibility – Create a comprehensive catalog by mapping all your software and infrastructure components.
+* Self-Service – Enable self-serve for anyone in the organization.
+* Granular Policies & Controls – for effective and responsible launch of an Internal Developer Platform.
