@@ -19,6 +19,7 @@ There are a number of great DevOps consultancies out there that can help you to 
 [EqualExperts]({{< relref "equalexperts" >}}) |
 [Expert Thinking]({{< relref "expert-thinking" >}}) |
 [Hallatek]({{< relref "hallatek" >}}) |
+[Platform Engineers]({{< relref "platform-engineers-io" >}}) |
 [Polarsquad]({{< relref "polarsquad" >}}) |
 [Tektit Consulting]({{< relref "tektit" >}}) |
 
