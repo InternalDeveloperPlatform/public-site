@@ -39,16 +39,9 @@ Official Website
 
 ## Case Study
 
-From Complexity to Simplicity: A Cost Reduction Case Study through Infrastructure Consolidation and Automation for a Collaborative Social Media Platform
-
-{{< button href="https://platformengineers.io/case-studies/from-complexity-to-simplicity-case-study-of-infrastructure-consolidation/" target="_blank" >}}
-Case Study
-{{< /button >}}
+-  [From Complexity to Simplicity: A Cost Reduction Case Study through Infrastructure Consolidation and Automation for a Collaborative Social Media Platform](https://platformengineers.io/case-studies/from-complexity-to-simplicity-case-study-of-infrastructure-consolidation/)
 
 ## Article
 
-Evolving from Software to Platform Engineering: Our Journey and Why It Matters
+-  [Evolving from Software to Platform Engineering: Our Journey and Why It Matters](https://platformengineers.io/blog/evolving-from-software-to-platform-engineering/)
 
-{{< button href="https://platformengineers.io/blog/evolving-from-software-to-platform-engineering/" target="_blank" >}}
-Article
-{{< /button >}}
