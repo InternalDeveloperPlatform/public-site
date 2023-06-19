@@ -19,6 +19,7 @@ https://www.gartner.com/document/4017457
 
 | **Developer Portals & Service Catalogs**                     | **Claim**                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------- |
+| [AutoCloud]({{< relref "autocloud" >}})                      | Automatically generate secure Terraform code for anything     |
 | [Backstage]({{< relref "backstage" >}})                      | An open platform for building developer portals               |
 | [Compass from Atlassian]({{< relref "atlassian-compass" >}}) | Developer experience platform and service catalog             |
 | [configure8]({{< relref "configure8">}})                     | An enterprise-grade developer portal solution                 |
@@ -26,4 +27,3 @@ https://www.gartner.com/document/4017457
 | [OpsLevel]({{< relref "opslevel" >}})                        | All your services, all in one interface                       |
 | [Port]({{< relref "port" >}})                                | A developer portal for all your services,software & resources |
 | [Roadie]({{< relref "roadie" >}})                            | Backstage as a service: adopt OSS without the overhead        |
-| [AutoCloud]({{< relref "autocloud" >}})                      | Automatically generate secure Terraform code for anything     |
