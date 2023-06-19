@@ -19,6 +19,7 @@ https://www.gartner.com/document/4017457
 
 | **Developer Portals & Service Catalogs**                     | **Claim**                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------- |
+| [AutoCloud]({{< relref "autocloud" >}})                      | Automatically generate secure Terraform code for anything     |
 | [Backstage]({{< relref "backstage" >}})                      | An open platform for building developer portals               |
 | [Compass from Atlassian]({{< relref "atlassian-compass" >}}) | Developer experience platform and service catalog             |
 | [configure8]({{< relref "configure8">}})                     | An enterprise-grade developer portal solution                 |
