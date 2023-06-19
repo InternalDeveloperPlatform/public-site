@@ -9,7 +9,7 @@ url="/frameworks/dyrectorio"
 
 **Focus:** Configure your OCI images once and deploy them as a new version anytime, to any environment.
 
-**Website:** [dyrector.io](https://dyrector.io/) _(WIP: right now redirect to docs)_
+**Website:** [dyrector.io](https://dyrector.io/)
 
 **Docs:** [https://docs.dyrector.io](https://docs.dyrector.io)
 
