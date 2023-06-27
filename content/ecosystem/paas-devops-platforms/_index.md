@@ -21,3 +21,4 @@ If you don't want to build an IDP on your own, if you don't have the capacity to
 | [gopaddle]({{< relref "gopaddle" >}})         |
 | [Mia-Platform]({{< relref "mia-platform" >}}) |
 | [Portainer]({{< relref "portainer-ce" >}})    |
+| [Qovery]({{< relref "qovery" >}})             |
