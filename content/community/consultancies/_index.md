@@ -22,4 +22,4 @@ There are a number of great DevOps consultancies out there that can help you to 
 [Platform Engineers]({{< relref "platform-engineers-io" >}}) |
 [Polarsquad]({{< relref "polarsquad" >}}) |
 [Tektit Consulting]({{< relref "tektit" >}}) |
-
+[Thoughtworks]({{< relref "thoughtworks" >}}) |
