@@ -1,6 +1,5 @@
 +++
 title="Nullstone"
-aliases="/frameworks/nullstone/"
 url="/paas-devops-platforms/nullstone"
 +++
 
