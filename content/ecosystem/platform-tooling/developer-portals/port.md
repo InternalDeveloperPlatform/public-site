@@ -21,7 +21,6 @@ url="/developer-portals/port"
 | Details                                              |                                                   |
 | ---------------------------------------------------- | ------------------------------------------------- |
 | Does it require developers to have DevOps knowledge? | No                                                |
-| Self-hosted                                          | No self-hosted version, Port is SaaS based and is planning a customer-cloud hosted version soon                                  |
 | Orchestrator                                         | N/A. Port is loosely coupled with any existing platform engineering automation, interfacing with any orchestrator chosen by the customer                                        |
 | Integration Concept                                  | API based                                         |
 | Setup time first app                                 | Minutes                                           |
