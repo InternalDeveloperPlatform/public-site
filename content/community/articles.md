@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
+- [The Modernization Imperative: Shifting left is for suckers. Shift down instead](https://cloud.google.com/blog/products/application-development/richard-seroter-on-shifting-down-vs-shifting-left) _Richard Seroter, Director of Outbound Strategy and Engagement at Google_
 - [PlatformCon 2023: Bigger and Even Better](https://thenewstack.io/platformcon-2023-bigger-and-even-better/) _Aeris Stewart, Community Manager at Humanitec_
 - [Pave Golden Paths with Platform Engineering](https://blog.mia-platform.eu/en/golden-paths-platform-engineering) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [How to scale enterprise-wide Kubernetes adoption](https://platformengineering.org/blog/scale-kubernetes-enterprise-adoption) _Turja Narayan Chaudhuri, Assistant Director , Cloud PracticeAssistant Director, Cloud Practice at EY_
