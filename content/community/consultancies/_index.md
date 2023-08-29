@@ -16,6 +16,7 @@ There are a number of great DevOps consultancies out there that can help you to 
 | [axem]({{< relref "axem" >}})                                |
 | [Cloudraft]({{< relref "cloudraft" >}})                      |
 | [Codecentric]({{< relref "codecentric" >}})                  |
+| [ConSol]({{< relref "consol" >}})                            |
 | [Container Solutions]({{< relref "container-solutions" >}})  |
 | [Eficode]({{< relref "eficode" >}})                          |
 | [EqualExperts]({{< relref "equalexperts" >}})                |
