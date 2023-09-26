@@ -17,19 +17,15 @@ The following picture provides a good overview of the typical integration points
 
 ## Integration points
 
-This section provides an overview of the most important integration points for an Internal Developer Platform. When evaluating an Internal Developer Platform, you should make sure that it (a) provides as many integrations to cover your current setup as possible and (b) allows you to write your own integrations in case you need to do so.
+This section provides an overview of the most important integration points for an Internal Developer Platform. When building an Internal Developer Platform, you should make sure that it (a) provides as many integrations to cover your current setup as possible and (b) allows you to write your own integrations in case you need to do so.
 
 ### CI pipelines
 
-Setting up and configuring Continuous Integration (CI) pipelines can be a lengthy process. Once they are set up, you should ideally not touch them unless you really need to. An Internal Developer Platform needs to be connected with your CI pipelines. It needs to know when a new image is available so that it can trigger any next required step in your Continuous Delivery or even Continuous Deployment (CD) process. Therefore, one important aspect of an Internal Developer Platform is a seamless integration with your existing CI pipelines.
+Setting up and configuring Continuous Integration (CI) pipelines can be a lengthy process. Once they are set up, you should ideally not touch them unless you really need to. Existing CI pipelines are an essential part of your Internal Developer Platform.
 
 ### Clusters
 
 Computer clusters (e.g., Kubernetes clusters) are an important element to run your containerized setup. An Internal Developer Platform should integrate with your existing clusters to run deployments of applications and environments. Ideally, you want to control access via a service account that you can always remove if necessary.
-
-### Image registries
-
-An Internal Developer Platform needs access to the images used in your applications. In general, there are two different approaches of how this integration is implemented: the Internal Developer Platform can either provide a built-in image registry (in which case the CI pipeline integration will push new images to this registry) or use the fact that your image registry is already connected to your clusters (in which case it can trigger the deployment process directly via the cluster API). Which approach is better for you really depends on your specific technical setup. If your image registry is well established and includes a lot of security and vulnerability scans already, you might want to stick with it. If you go for a streamlined user experience, a built-in image registry might be more relevant to you.
 
 ### DNS
 
