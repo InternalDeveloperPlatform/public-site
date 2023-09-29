@@ -1,10 +1,10 @@
-# configure8
-
 +++
 title="An enterprise-grade developer portal solution"
 url="/developer-portals/configure8"
 
 +++
+
+# configure8
 
 **Claim:** An enterprise-grade developer portal solution.
 
