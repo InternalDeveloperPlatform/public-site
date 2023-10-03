@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
+- [Shift Down to the Platform, not Left to the Dev](https://blog.mia-platform.eu/en/shift-down-to-the-platform) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [Platform engineering maturity model: what we learned from our survey of ~300 orgs](https://platformengineering.org/blog/platform-engineering-maturity-model-what-we-learned-from-our-survey-of-300-orgs) _Aeris Stewart, Community at Humanitec_
 - [Platform Engineering: What’s Hype and What’s Not?](https://thenewstack.io/platform-engineering-whats-hype-and-whats-not/) _Tommy McClung_
 - [Build Your IDP at Light Speed with a Platform Reference Architecture](https://thenewstack.io/build-your-idp-at-light-speed-with-a-platform-reference-architecture/) _Aeris Stewart, Community at Humanitec_
