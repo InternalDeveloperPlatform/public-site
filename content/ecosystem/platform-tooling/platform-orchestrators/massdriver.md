@@ -49,17 +49,17 @@ Founded in 2021 by Cory O'Daniel, David Williams, and Chris Hill, Massdriver sta
 ### Core features of Massdriver
 
 - **Infrastructure as Diagrams:** Diagrams as the source of truth. Onboard team members faster with accurate representations of your cloud environment.
-- **Parity and Environment Replication:** Easily replicate infrastructure and applications between application environments, regions, or tenants.
-- **Production Ready:** Secure, compliant reference architectures.
-- **Automated Metrics:** Infrastructure diagrams as dashboards.
-- **CI/CD Integration:** Seamlessly integrate infrastructure and application management into your CI/CD system.
-- **Extendable with IaC:** Extend the platform with OpenTofu, Terraform, and Helm.
 - **Preview Environments:** Infrastructure, database, and apps per pull-request.
 - **Dynamic Configuration:** Infrastructure configuration and secrets automatically configured during deployments based on diagram connections.
 - **Secrets Management:** Store 3rd party secrets without the need to manage tools like HashiCorp Vault.
 - **Automated IAM:** Principle of least privilege by default.
 - **Unified Infrastructure and Application Management:** Consolidated configuration management for infrastructure and applications.
-- **Extendable Workload Support:** VMs, serverless, and containers supported out-of-the-box, with support for any workload your IaC tools support.
+- **Extendable Orchestration Support:** VMs, serverless, and containers supported out-of-the-box, with support for any workload your IaC tools support.
 - **Infrastructure Provisioning and State Storage:** Manages IaC workflows and IaC state.
 - **API First:** Integrate our GraphQL API into your backends, GitOps process, or UIs, for enhanced workflow automation and interoperability.
+- **Parity and Environment Replication:** Easily replicate infrastructure and applications between application environments, regions, or tenants.
+- **Extendable with IaC:** Extend the platform with OpenTofu, Terraform, and Helm.
+- **Automated Metrics:** Infrastructure diagrams as dashboards.
+- **CI/CD Integration:** Seamlessly integrate infrastructure and application management into your CI/CD system.
 - **Multi-Cloud Support:** Supports any cloud your IaC tools support.
+- **Production Ready Marketplace:** Secure, compliant reference architectures to get teams started quickly.
