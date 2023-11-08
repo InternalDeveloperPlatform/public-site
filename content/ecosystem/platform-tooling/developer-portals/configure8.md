@@ -6,9 +6,9 @@ url="/developer-portals/configure8"
 
 # configure8
 
-**Claim:** An enterprise-grade developer portal solution.
+**Claim:** An enterprise-grade developer portal delivered as a solution.
 
-**Focus:** Enabling platform engineering teams to easily implement a developer portal that enables developers move faster and build better software with self-serve access to the knowledge and functionality they need.
+**Focus:** configure8 helps enterprises succeed at enabling teams to build better software faster via self-serve access to essential knowledge and functionality paired with a consultative solution delivery model.
 
 **Website:** [configure8.io](https://configure8.io/)
 
@@ -19,41 +19,44 @@ url="/developer-portals/configure8"
 | Details                                              |                                                                                                  |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | Does it require developers to have DevOps knowledge? | No                                                                                               |
-| Self-hosted:                                         | SaaS or hosted in your AWS account                                                               |
-| Orchestrator                                         | N/A                                                                                              |
-| Integration Concept                                  | Native with tools and clouds, including agentless Kubernetes. Build custom integrations via API. |
-| Setup time first app                                 | As fast as 30 minutes, varies based on your tool chain and system.                               |
+| Self-hosted:                                         | SaaS or deploy to any cloud or data center      |
+| Orchestrator                                         | Easily integrates with CI/CD, Infrastructure as Code, or other orchestration tooling                                                                                            |
+| Integration Concept                                  | Credential-based plugins that automatically ingest data from common tools and clouds in minutes without requiring users to write code. Push data in from any third-party or home-grown tool via API. Kubernetes agent as well as agentless K8 options. Tremendous data model flexibility while remaining fast and easy to work with |
+| Setup time first app                                 | Customers with the appropriate tool permissions typically get tool and cloud data ingested and their first services, scorecards, and self-serve actions working in under 1 hour.
 | Source                                               | Closed                                                                                           |
-| Use Case                                             | Scale-up to Large Enterprise                                                                     |
+| Use Case                                             | Enterprises                                                                     |
 | Total Cost of Ownership                              | [Plans & Pricing](https://www.configure8.io/pricing)                                             |
-| Adoption                                             | Early but stable                                                                                 |
+| Adoption                                             | Stable                                                                                 |
 
 ## What is configure8?
 
 configure8 is an enterprise-grade Internal Developer Portal used for:
 
 - Cataloging everything
-- Achieving high standards
-- Accelerating velocity via self-serve actions
+- Achieving high standards via Scorecards
+- Accelerating velocity via Self-Serve Actions
+- Controlling cloud costs via Collaborative Cost Management
 
-Help your developers move faster and build better software with self-serve access to the knowledge and functionality they need.
+configure8 helsp developers move faster and build better software by enabling self-serve access to the knowledge and functionality they need.
 
-configure8 core features include:
+Core features of configure8 include:
 
-**Universal Catalog:** A complete and accurate software catalog is the foundation of your portal. It should organize your entire ecosystem – all your applications, services and their dependencies, environments, clusters, resources, pipelines, metrics, owners, and more – and automatically reflect changes. Use it to improve your developers experience, and lay the foundation to achieve high standards and self-serve actions.
+**Universal Catalog:** A complete and accurate software catalog is the foundation of a developer portal. It should organize an enterprise's entire ecosystem – all applications, services and their dependencies, environments, clusters, cross-cloud and on-prem resources, pipelines, metrics, owners, and much more – and automatically reflect changes. Enterprises use the catalog to improve their developers' experience and to lay the foundation to achieve high standards, control costs, and self-serve common actions.
 
-**Scorecards:** Establish meaningful standards for your organization leveraging configure8's ability to observe over 40 metrics (and growing rapidly), provide developers with an at-a-glance understanding of what needs to be done to improve, and measure progress as well as keep everyone informed, all programmatically without writing scripts, maintaining spreadsheets, and chasing people down.
+**Scorecards:** Achieve high standards for security, DevOps Health and reliability, architecture, migration tracking, and compliance. Leverage configure8's uniquely large library of pre-built checks as well as custom define checks to build tailored Scorecards in configure8's no code UI.  Provide developers with an at-a-glance understanding of what needs to be done to improve, and programmatically measure progress as well as keep everyone informed so developers and managers can focus on success instead of writing scripts, maintaining spreadsheets, and hunting for information. Customers can even include Self-Serve Actions in Scorecards in order to make it easy for developers to address standards deficiencies. Customers can also use the configure8 Scorecards API to block deployments when a service fails a check in order to sustain compliance with internal standards.
 
-**Self-Serve Actions and Scaffolder:** Easily build reusable golden paths that enable developers to create new services as well as manage existing ones via a no-code UI. Liberate developers from bottlenecks and manual ops, and reduce your maintenance overhead and TicketOps burden, all without sacrificing standards.
+**Self-Serve Actions:** Make it easy for application, data and quality engineers to create something new or manage common day 2 operations the right way. Abstract developers from the cognitive load of finding, configuring and executing actions in unfamiliar tools and/or from delays caused by TicketOps bottlenecks. Improve velocity, consistency, and the developer experience.
 
-**Limited Set-Up and Maintenance Effort:** Single-click integrations, no YAML, manual plugin configuration, or agent required. Can self-populate services and dependencies via supported tools. Automatically maps resources to environments and services. Avoids drift and maintains accuracy via supported tools. Flexible data and access control models to support the unique needs of your organization.
+**Collaborative Cost Management:** Give engineers daily optics into the cost of operating the code they own, and empower them to take action where appropriate to improve. See and sort costs for services, environments, and resources, understand per resource costs, and a resource's cost drivers. By democratizing access to this knowledge, developers can now proactively create solutions (whereas before they used to not even know there was an issue). Where appropriate, teams can make changes directly. They can size up the blast radius of a change, get a resource's config settings, and then effect change leveraging golden paths defined by a platform team. Compliments existing cloud cost management tools designed for centralized ops and FinOps teams.
+
+**Delivered as a Solution; Flexible and Fast:** With configure8, customers are buying a solution that derisks their success, not a framework to build a tool or a tool. Consultative support at every step of the journey to ensure robust internal adoption  and compelling outcomes are achieved. configure8 offers tremendous flexibility to tailor the data and security model without bogging adopters down in laborious set-up work. Get value fast through onboarding automations and a thoughtful workflow, and keep maintenance work light thanks to automated drift avoidance.
 
 ### What is the mission and vision of configure8?
 
-We're on a mission to help developers move faster and build better software via self-serve access to the knowledge and functionality they need.
+configure8 is on a mission to help developers move faster and build better software via self-serve access to the knowledge and functionality they need.
 
 ### A brief history of configure8
 
-configure8 was founded in 2021 and launched our product in 2022. configure8 supports a rapidly growing roster of enterprises as well as scale-ups.
+configure8 launched its solution in 2022. configure8 supports a rapidly growing roster of sophisticated enterprise clients.
 
-configure8 is built by engineers with backgrounds at Microsoft, Google, AWS, NASA and AOL / Yahoo! who have experienced the joys and pains of sprawling distributed systems. We've experienced the frustration of bottlenecks due to TicketOps, the limitations of spreadsheets, scripts and static wikis as tools to define and measure compliance with standards, and the stress of getting paged at 2AM for a service we're not that familiar with. We built configure8 to democratize access to the caliber of tooling developers and engineering leaders deserve that was previously reserved for only the very largest global enterprises.
+configure8 is built by engineers with backgrounds at Microsoft, Google, AWS, NASA and Yahoo! who have experienced the joys and pains of sprawling distributed systems. We've experienced the frustration of bottlenecks due to TicketOps, the limitations of spreadsheets, scripts and static wikis as tools to define and measure compliance with standards, and the stress of getting paged at 2AM for a service we're not that familiar with. We built configure8 to democratize access to the caliber of tooling developers and engineering leaders deserve that was previously reserved for only the very largest global enterprises.
