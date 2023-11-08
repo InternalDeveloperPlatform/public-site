@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
+- [Bringing together FinOps, DevOps, and platform engineering](https://platformengineering.org/blog/bringing-together-finops-devops-and-platform-engineering) _Ajay Chankramath, Head of Platform Engineering at Thoughtworks North America_
 - [State of Platform Engineering Report Vol 2](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-2) _Humanitec_
 - [Platform orchestration](https://www.thoughtworks.com/en-de/radar/techniques/platform-orchestration), Technology Radar Volume 29  _Thoughtworks_
 - [AI is changing the future of platform engineering. Are you ready?](https://platformengineering.org/blog/ai-is-changing-the-future-of-platform-engineering-are-you-ready) _Aeris Stewart, Community at Humanitec_
