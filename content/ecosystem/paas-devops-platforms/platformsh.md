@@ -12,7 +12,7 @@ Platform.sh is a polyglot, multi-cloud PaaS for all types of composable web proj
 
 As an End-to-End service, Platform.sh takes care of the entire Build, Test & Deploy cycle, adding layers of security and certifications, access control and team management, observability and continuous performance monitoring using <a href="https://blackfire.io" target="_blank">Blackfire.io</a>.
 
-Platform.sh considers the reduction of its environmental impact as one of its top values. We use a unique technology to be able to increase the applications density on our servers for maximum utilisation of the running hardware. In addition, users are presented with the energy impact of each data center, so they can make a learned decision when choosing their deploy target.
+Platform.sh considers the reduction of its environmental impact as one of its top values. We use a unique technology to be able to increase the applications density on our servers for maximum utilisation of the running hardware. In addition, users are presented with the energy impact of each data center, so they can make a learned decision when choosing their deployment target.
 
 
 **Website:** [Platform.sh](https://platform.sh/)
@@ -44,13 +44,13 @@ Developers and platform engineers configure their web projects in a simple Yaml 
 
 Further interaction with the platform is possible through any of the following methods:
 
-- **Git**: Most of the interaction with the platform is done using Git commands, so the Build, Test & Deploy process is seamlessly integrated into the usual workflow of the developer, whatever it is (we don't force any git workflow).<br />On each `git push` event, a build and deploy are triggered. Developers can create new Preview Environment by simply creating and pushing a new branch.
-- **CLI / API**: All the operations and interactiosns of the developer with the platform are available as API requests and with the CLI that comes with it. This allows a very high level of automation. Leveraging the API, some organizations are using Platform.sh as a white-label PaaS, proposing their users and clients a unique and custom experience and workflow.
+- **Git**: Most of the interaction with the platform is done using Git commands, so the Build, Test & Deploy process is seamlessly integrated into the usual workflow of the developer, whatever it is (we don't force any git workflow).<br />On each `git push` event, a build and deploy are triggered. Developers can create new Preview Environments by simply creating and pushing a new branch.
+- **CLI / API**: All the operations and interactions of the developer with the platform are available as API requests and with the CLI that comes with it. This allows a very high level of automation. Leveraging the API, some organizations are using Platform.sh as a white-label PaaS, proposing their users and clients a unique and custom experience and workflow.
 - **Web console**: Eventually, most operations are also available through the web console in which the developers can also monitor their application performance and logs.
 
 ### Local development
 
-Platform.sh is the lead sponsor of [DDEV](https://ddev.com/blog/platform-sh-becomes-a-lead-sponsor-of-ddev/), a Docker based local development tool, which has an excellet integration with Platform.sh, allowing easy cloning and syncing environments in both ways, and gives you the closest experience to production-like environment on your local machine. 
+Platform.sh is the lead sponsor of [DDEV](https://ddev.com/blog/platform-sh-becomes-a-lead-sponsor-of-ddev/), a Docker based local development tool, which has an excellent integration with Platform.sh, allowing easy cloning and syncing environments in both ways, and gives you the closest experience to a production-like environment on your local machine. 
 
 ### Observability Suite
 
@@ -63,7 +63,7 @@ Platform.sh has a pricing model to any size of company, from the single develope
 Our SLA is suitable for business-critical projects on either shared or dedicated resources.
 
 
-## Numerous Runtimes and intagrations
+## Numerous Runtimes and integrations
 
 Platform.sh supports almost any possible language you may need to run your project:
 - C#/.NET Core
