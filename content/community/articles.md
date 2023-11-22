@@ -9,20 +9,21 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
+- [Platform Engineering Reduces Cognitive Load and Raises Developer Productivity](https://thenewstack.io/platform-engineering-reduces-cognitive-load-and-raises-developer-productivity/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [Bringing together FinOps, DevOps, and platform engineering](https://platformengineering.org/blog/bringing-together-finops-devops-and-platform-engineering) _Ajay Chankramath, Head of Platform Engineering at Thoughtworks North America_
 - [State of Platform Engineering Report Vol 2](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-2) _Humanitec_
 - [Platform orchestration](https://www.thoughtworks.com/en-de/radar/techniques/platform-orchestration), Technology Radar Volume 29  _Thoughtworks_
 - [AI is changing the future of platform engineering. Are you ready?](https://platformengineering.org/blog/ai-is-changing-the-future-of-platform-engineering-are-you-ready) _Aeris Stewart, Community at Humanitec_
-- [Shift Down to the Platform, not Left to the Dev](https://blog.mia-platform.eu/en/shift-down-to-the-platform) _Michel Murabito, Developer Advocate at Mia-Platform_
+- [Shift Down to the Platform, not Left to the Dev](https://mia-platform.eu/blog/shift-down-to-the-platform/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [Platform engineering maturity model: what we learned from our survey of ~300 orgs](https://platformengineering.org/blog/platform-engineering-maturity-model-what-we-learned-from-our-survey-of-300-orgs) _Aeris Stewart, Community at Humanitec_
 - [Platform Engineering: What’s Hype and What’s Not?](https://thenewstack.io/platform-engineering-whats-hype-and-whats-not/) _Tommy McClung_
 - [Build Your IDP at Light Speed with a Platform Reference Architecture](https://thenewstack.io/build-your-idp-at-light-speed-with-a-platform-reference-architecture/) _Aeris Stewart, Community at Humanitec_
 - [The Modernization Imperative: Shifting left is for suckers. Shift down instead](https://cloud.google.com/blog/products/application-development/richard-seroter-on-shifting-down-vs-shifting-left) _Richard Seroter, Director of Outbound Strategy and Engagement at Google_
 - [PlatformCon 2023: Bigger and Even Better](https://thenewstack.io/platformcon-2023-bigger-and-even-better/) _Aeris Stewart, Community Manager at Humanitec_
-- [Pave Golden Paths with Platform Engineering](https://blog.mia-platform.eu/en/golden-paths-platform-engineering) _Michel Murabito, Developer Advocate at Mia-Platform_
+- [Pave Golden Paths with Platform Engineering](https://mia-platform.eu/blog/golden-paths-platform-engineering/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [How to scale enterprise-wide Kubernetes adoption](https://platformengineering.org/blog/scale-kubernetes-enterprise-adoption) _Turja Narayan Chaudhuri, Assistant Director , Cloud PracticeAssistant Director, Cloud Practice at EY_
 - [Step One to Successfully Building Your Platform: Building It Together](https://www.infoq.com/articles/building-platform-business-case) _Lee Ditiangkin, Director of Product / Engineering at Nvidia_
-- [7 core components of an Internal Developer Platform](https://blog.mia-platform.eu/en/seven-core-components-internal-developer-platform) _Michel Murabito, Developer Advocate at Mia-Platform_
+- [7 core components of an Internal Developer Platform](https://mia-platform.eu/blog/seven-core-components-internal-developer-platform/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [How Platform Engineering Makes Software Sustainable](https://devops.com/how-platform-engineering-makes-software-sustainable/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [Platform Engineering Is Not about Building Fancy UIs](https://thenewstack.io/platform-engineering-is-not-about-building-fancy-uis/) _Kaspar von Grünberg, Founder and CEO at Humanitec_
 - [Hard-Won Lessons from the Trenches: Failure Modes of Platform Engineering — and How to Avoid Them](https://www.infoq.com/articles/platform-engineering-lessons-learned/) _Aaron Erickson, Co-Founder and CEO at Orgspace_
@@ -37,17 +38,17 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [The Challenge of Cognitive Load in Platform Engineering: A Discussion with Paula Kennedy](https://www.infoq.com/articles/cognitive-load-platform-engineering/) _Paula Kennedy, Co-Founder and Chief Operating Officer of Syntasso_
 - [Good Platform Engineering: What It Is and How to Make It Work For You](https://www.contino.io/insights/platform-engineering), _Fernando Villalba, Senior Tech Evangelist at Humanitec_
 - [Platform Engineering: Creating your Internal Developer Platform (Part 2)](https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6), _Fernando Villalba, Senior Tech Evangelist at Humanitec_
-- [The Internal Developer Platform Revolution: what every CTO should know](https://blog.mia-platform.eu/en/the-internal-developer-platform-revolution) _Michel Murabito, Developer Advocate at Mia-Platform_
+- [The Internal Developer Platform Revolution: what every CTO should know](https://mia-platform.eu/blog/internal-developer-platform-revolution/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [How Low-Code Platforms Can Help Cloud Native Developers)](https://blog.gopaddle.io/2021/11/25/no-code-cloudnative-developers/) _Vinothini Raju, CEO at gopaddle_
 - [How GE burned $7B on their platform (and how to avoid doing the same)](https://platformengineering.org/blog/how-general-electric-burned-7-billion-on-their-platform) _Steve Pereira, CEO at Visible Value Stream Consulting_
 - [Why it is worth investing in Product Management for Internal Developer Platforms](https://platformengineering.org/blog/product-management-for-internal-developer-platforms) _Aaron Erickson, Co-founder and CEO at Orgspace_
 - [DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/) _Aeris Stewart, Community at Humanitec_
-- [Is Platform Engineering putting an end to DevOps and SRE?](https://blog.mia-platform.eu/en/is-platform-engineering-putting-an-end-to-devops-and-sre) _Paolo Martinoli, Technical Writer at Mia-Platform_
+- [Is Platform Engineering putting an end to DevOps and SRE?](https://mia-platform.eu/blog/platform-engineering-devops-sre/) _Paolo Martinoli, Technical Writer at Mia-Platform_
 - [What is Dynamic Configuration Management](https://humanitec.com/blog/what-is-dynamic-configuration-management) _Kaspar von Grünberg, CEO at Humanitec_ 
 - [What is a Platform Orchestrator](https://humanitec.com/blog/what-is-a-platform-orchestrator) _Kaspar von Grünberg, CEO at Humanitec_ 
 - [Whose cognitive load is it anyway?](https://platformengineering.org/blog/cognitive-load) _Paula Kennedy, Co-Founder and Chief Operating Officer at Syntasso_
-- [Platform Engineering 101: all you need to know to get started](https://blog.mia-platform.eu/en/platform-engineering-101-all-you-need-to-know-to-get-started) _Paolo Martinoli, Technical Writer at Mia-Platform_
-- [5 tips for implementing an Internal Developer Portal in your company](https://blog.mia-platform.eu/en/5-tips-for-implementing-internal-developer-portal-in-your-company) _Paolo Martinoli, Technical Writer at Mia-Platform_
+- [Platform Engineering 101: all you need to know to get started](https://mia-platform.eu/blog/platform-engineering-101/) _Paolo Martinoli, Technical Writer at Mia-Platform_
+- [5 tips for implementing an Internal Developer Portal in your company](https://mia-platform.eu/blog/internal-developer-portal/) _Paolo Martinoli, Technical Writer at Mia-Platform_
 - [The Six Stages of Internal Development Platforms](https://devopsdirective.com/posts/2022/04/stages-of-internal-development-platforms/) _Sid Palas_
 - [What is platform engineering?](https://platformengineering.org/blog/what-is-platform-engineering) _Luca Galante_
 - [Why putting a pane of glass on a pile of sh*t doesn’t solve your problem](https://platformengineering.org/blog/why-putting-a-pane-of-glass-on-a-pile-of-shit-doesnt-solve-your-problem) _Lee Ditiangkin_
