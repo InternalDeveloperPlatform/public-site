@@ -9,6 +9,8 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
+
+- [9 Steps to Platform Engineering Hell](https://thenewstack.io/9-steps-to-platform-engineering-hell/) _Luca Galante, Product at Humanitec_
 - [Platform Engineering Reduces Cognitive Load and Raises Developer Productivity](https://thenewstack.io/platform-engineering-reduces-cognitive-load-and-raises-developer-productivity/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [Bringing together FinOps, DevOps, and platform engineering](https://platformengineering.org/blog/bringing-together-finops-devops-and-platform-engineering) _Ajay Chankramath, Head of Platform Engineering at Thoughtworks North America_
 - [State of Platform Engineering Report Vol 2](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-2) _Humanitec_
