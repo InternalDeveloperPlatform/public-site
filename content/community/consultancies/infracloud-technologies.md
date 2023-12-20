@@ -11,9 +11,9 @@ InfraCloud is your end-to-end partner for every step of platform engineering - f
 
 With InfraCloud, harness the potential of scalable, user-centric platforms to improve the productivity of engineers by reducing their cognitive load to fuel organizational expansion, foster innovation, and drive sustainable growth. 
 
-As a part of CNCF's TAG App Delivery contributors, InfraCloud IDP experts shaped the '[Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)',helping organizations understand why & what to build.
+As a part of CNCF's TAG App Delivery contributors, InfraCloud IDP experts shaped the '[Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/)', helping organizations understand why & what to build.
 
-{{< button href="https://platformengineers.io/" target="_blank" >}}
+{{< button href="https://www.infracloud.io/platform-engineering-consulting/" target="_blank" >}}
 Explore Platform Engineering Capabilities
 {{< /button >}}
 
@@ -33,5 +33,5 @@ InfraCloud wants to empower teams to understand what goes into building a platfo
 * [How to Fail at Platform Engineering?](https://www.infracloud.io/blogs/how-to-fail-at-platform-engineering/)
 * [Unlocking the Basics of Port](https://www.infracloud.io/blogs/unlocking-basics-of-port/)
 * [Taking the Product Approach to Building Platforms](https://www.infracloud.io/blogs/taking-product-approach-to-building-platforms/)
-
+* [Port vs Backstage - Choosing Your Internal Developer Portal](https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/)
 
