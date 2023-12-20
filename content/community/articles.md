@@ -9,8 +9,18 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
+
+- [Port vs Backstage - Choosing Your Internal Developer Portal](https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/) _Vaibhav Gupta, Sr. SRE at InfraCloud Technologies_
+- [Taking the Product Approach to Building Platforms](https://www.infracloud.io/blogs/taking-product-approach-to-building-platforms/) _Atulpriya Sharma, Senior Developer Advocate at InfraCloud Technologies_
+- [Unlocking the Basics of Port](https://www.infracloud.io/blogs/unlocking-basics-of-port/) _Ubaid Ansari, SRE at InfraCloud Technologies_
+- [How to Fail at Platform Engineering?](https://www.infracloud.io/blogs/how-to-fail-at-platform-engineering/) _Atulpriya Sharma, Senior Developer Advocate at InfraCloud Technologies_
+- [Mastering Platform Engineering with Kratix](https://www.infracloud.io/blogs/mastering-platform-engineering-with-kratix/) _Nitin Naidu, SRE at InfraCloud Technologies_
+- [Starting Platform Engineering Journey with Backstage](https://www.infracloud.io/blogs/starting-platform-engineering-journey-backstage/) _Vaibhav Gupta, Sr. SRE at InfraCloud Technologies_
+- [Decoding Workload Specification for Effective Platform Engineering](https://www.infracloud.io/blogs/decoding-workload-specification-for-effective-platform-engineering/) _Atulpriya Sharma, Senior Developer Advocate at InfraCloud Technologies_
 - [Platform Orchestration: an industry game-changer?](https://humanitec.com/blog/platform-orchestration-the-ultimate-industry-game-changer) _Kaspar von Grünberg, CEO and Co-founder at Hunmanitec_
+- [Platform Engineering 101: Get Started with Platforms](https://www.infracloud.io/blogs/platform-engineering-101/) _Atulpriya Sharma, Senior Developer Advocate at InfraCloud Technologies_
 - [9 Steps to Platform Engineering Hell](https://thenewstack.io/9-steps-to-platform-engineering-hell/) _Luca Galante, Product at Humanitec_
+- [DevOps to Platform Engineering: How We Got Here?](https://www.infracloud.io/blogs/devops-to-platform-engineering-how-we-got-here/) _Vishal Biyani, Founder and CTO at InfraCloud Technologies_
 - [Platform Engineering Reduces Cognitive Load and Raises Developer Productivity](https://thenewstack.io/platform-engineering-reduces-cognitive-load-and-raises-developer-productivity/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [Bringing together FinOps, DevOps, and platform engineering](https://platformengineering.org/blog/bringing-together-finops-devops-and-platform-engineering) _Ajay Chankramath, Head of Platform Engineering at Thoughtworks North America_
 - [State of Platform Engineering Report Vol 2](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-2) _Humanitec_
