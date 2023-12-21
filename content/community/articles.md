@@ -9,7 +9,8 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
-
+- [WTF?! Internal Developer Platform vs Internal Developer Portal vs PaaS](https://humanitec.com/blog/wtf-internal-developer-platform-vs-internal-developer-portal-vs-paas) _Luca Galante, Product at Humanitec_
+- [How to design your repository structures to nail platform engineering](https://humanitec.com/blog/how-to-design-your-repository-structures-to-nail-platform-engineering) _Luca Galante, Product at Humanitec_
 - [Port vs Backstage - Choosing Your Internal Developer Portal](https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/) _Vaibhav Gupta, Sr. SRE at InfraCloud Technologies_
 - [Taking the Product Approach to Building Platforms](https://www.infracloud.io/blogs/taking-product-approach-to-building-platforms/) _Atulpriya Sharma, Senior Developer Advocate at InfraCloud Technologies_
 - [Unlocking the Basics of Port](https://www.infracloud.io/blogs/unlocking-basics-of-port/) _Ubaid Ansari, SRE at InfraCloud Technologies_
