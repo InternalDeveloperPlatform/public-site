@@ -23,6 +23,7 @@ There are a number of great DevOps consultancies out there that can help you to 
 | [Expert Thinking]({{< relref "expert-thinking" >}})          |
 | [Hallatek]({{< relref "hallatek" >}})                        |
 | [InfraCloud Technologies]({{< relref "infracloud-technologies" >}}) |
+| [NorthCode]({{< relref "northcode" >}})                      |
 | [Platform Engineers]({{< relref "platform-engineers-io" >}}) |
 | [Polarsquad]({{< relref "polarsquad" >}})                    |
 | [Tektit Consulting]({{< relref "tektit" >}})                 |
