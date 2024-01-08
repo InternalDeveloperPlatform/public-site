@@ -15,3 +15,4 @@ _Internal Developer Platforms (IDPs) are a new category of tools. This means, th
 [Instana]({{< relref "instana" >}}) |
 [New Relic]({{< relref "new-relic" >}}) |
 [Prometheus]({{< relref "prometheus" >}}) |
+[Elastic]({{< relref "elastic" >}}) |
