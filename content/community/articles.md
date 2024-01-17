@@ -8,7 +8,12 @@ weight=30
 
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
+## 2024
+
+- [Creating Infra Using Backstage Templates, Terraform and GitHub actions](https://medium.com/@sagar-parmar/creating-infra-using-backstage-templates-terraform-and-github-actions-15ca4a93b1a1) _Sagar Parmar, Sr. SRE at InfraCloud Technologies_
+
 ## 2023
+
 - [WTF?! Internal Developer Platform vs Internal Developer Portal vs PaaS](https://humanitec.com/blog/wtf-internal-developer-platform-vs-internal-developer-portal-vs-paas) _Luca Galante, Product at Humanitec_
 - [How to design your repository structures to nail platform engineering](https://humanitec.com/blog/how-to-design-your-repository-structures-to-nail-platform-engineering) _Luca Galante, Product at Humanitec_
 - [Port vs Backstage - Choosing Your Internal Developer Portal](https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/) _Vaibhav Gupta, Sr. SRE at InfraCloud Technologies_
@@ -25,7 +30,7 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [Platform Engineering Reduces Cognitive Load and Raises Developer Productivity](https://thenewstack.io/platform-engineering-reduces-cognitive-load-and-raises-developer-productivity/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [Bringing together FinOps, DevOps, and platform engineering](https://platformengineering.org/blog/bringing-together-finops-devops-and-platform-engineering) _Ajay Chankramath, Head of Platform Engineering at Thoughtworks North America_
 - [State of Platform Engineering Report Vol 2](https://humanitec.com/whitepapers/state-of-platform-engineering-report-volume-2) _Humanitec_
-- [Platform orchestration](https://www.thoughtworks.com/en-de/radar/techniques/platform-orchestration), Technology Radar Volume 29  _Thoughtworks_
+- [Platform orchestration](https://www.thoughtworks.com/en-de/radar/techniques/platform-orchestration), Technology Radar Volume 29 _Thoughtworks_
 - [AI is changing the future of platform engineering. Are you ready?](https://platformengineering.org/blog/ai-is-changing-the-future-of-platform-engineering-are-you-ready) _Aeris Stewart, Community at Humanitec_
 - [Shift Down to the Platform, not Left to the Dev](https://mia-platform.eu/blog/shift-down-to-the-platform/) _Michel Murabito, Developer Advocate at Mia-Platform_
 - [Platform engineering maturity model: what we learned from our survey of ~300 orgs](https://platformengineering.org/blog/platform-engineering-maturity-model-what-we-learned-from-our-survey-of-300-orgs) _Aeris Stewart, Community at Humanitec_
@@ -42,8 +47,9 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [Hard-Won Lessons from the Trenches: Failure Modes of Platform Engineering — and How to Avoid Them](https://www.infoq.com/articles/platform-engineering-lessons-learned/) _Aaron Erickson, Co-Founder and CEO at Orgspace_
 - [UX on Platform Engineering](https://nandovillalba.medium.com/ux-on-platform-engineering-1c7ecfaddea7) _Fernando Villalba, Senior Tech Evangelist at Humanitec_
 - [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering) _James Walker, Founder at Heron Web_
- 
+
 ## 2022
+
 - [Key findings from implementing Backstage for more than 100k developers](https://platformengineering.org/blog/backstage-implementations-for-more-than-100k-developers) _Taras Mankovski, CEO at The Frontside Software_
 - [Sunrise - Zalando’s Internal Developer Platform](https://platformengineering.org/talks-library/sunrise-zalandos-internal-developer-platform) _Henning Jacobs, Executive Principal Engineer at Zalando_
 - [Why we advocate for workload-centric over infrastructure-centric development](https://score.dev/blog/workload-centric-over-infrastructure-centric-development) _Susa Tünker, Product Manager at Humanitec & Score_
@@ -57,14 +63,14 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [Why it is worth investing in Product Management for Internal Developer Platforms](https://platformengineering.org/blog/product-management-for-internal-developer-platforms) _Aaron Erickson, Co-founder and CEO at Orgspace_
 - [DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/) _Aeris Stewart, Community at Humanitec_
 - [Is Platform Engineering putting an end to DevOps and SRE?](https://mia-platform.eu/blog/platform-engineering-devops-sre/) _Paolo Martinoli, Technical Writer at Mia-Platform_
-- [What is Dynamic Configuration Management](https://humanitec.com/blog/what-is-dynamic-configuration-management) _Kaspar von Grünberg, CEO at Humanitec_ 
-- [What is a Platform Orchestrator](https://humanitec.com/blog/what-is-a-platform-orchestrator) _Kaspar von Grünberg, CEO at Humanitec_ 
+- [What is Dynamic Configuration Management](https://humanitec.com/blog/what-is-dynamic-configuration-management) _Kaspar von Grünberg, CEO at Humanitec_
+- [What is a Platform Orchestrator](https://humanitec.com/blog/what-is-a-platform-orchestrator) _Kaspar von Grünberg, CEO at Humanitec_
 - [Whose cognitive load is it anyway?](https://platformengineering.org/blog/cognitive-load) _Paula Kennedy, Co-Founder and Chief Operating Officer at Syntasso_
 - [Platform Engineering 101: all you need to know to get started](https://mia-platform.eu/blog/platform-engineering-101/) _Paolo Martinoli, Technical Writer at Mia-Platform_
 - [5 tips for implementing an Internal Developer Portal in your company](https://mia-platform.eu/blog/internal-developer-portal/) _Paolo Martinoli, Technical Writer at Mia-Platform_
 - [The Six Stages of Internal Development Platforms](https://devopsdirective.com/posts/2022/04/stages-of-internal-development-platforms/) _Sid Palas_
 - [What is platform engineering?](https://platformengineering.org/blog/what-is-platform-engineering) _Luca Galante_
-- [Why putting a pane of glass on a pile of sh*t doesn’t solve your problem](https://platformengineering.org/blog/why-putting-a-pane-of-glass-on-a-pile-of-shit-doesnt-solve-your-problem) _Lee Ditiangkin_
+- [Why putting a pane of glass on a pile of sh\*t doesn’t solve your problem](https://platformengineering.org/blog/why-putting-a-pane-of-glass-on-a-pile-of-shit-doesnt-solve-your-problem) _Lee Ditiangkin_
 - [DevOps MUST Build Internal Developer Platform (IDP)](https://youtu.be/j5i00z3QXyU) _Viktor Farcic_
 - [Applying Product Thinking to Slack’s Internal Compute Platform](https://slack.engineering/applying-product-thinking-to-slacks-internal-compute-platform/) _Javier Turegano_
 - [Internal Developer Platform on AWS](https://www.manning.com/liveprojectseries/internal-developer-platform-ser) _Daniel Li_
