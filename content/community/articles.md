@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2023
+- [Creating Infra Using Backstage Templates, Terraform and GitHub actions](https://medium.com/@sagar-parmar/creating-infra-using-backstage-templates-terraform-and-github-actions-15ca4a93b1a1) _Sagar Parmar, Sr. SRE at InfraCloud Technologies_
 - [WTF?! Internal Developer Platform vs Internal Developer Portal vs PaaS](https://humanitec.com/blog/wtf-internal-developer-platform-vs-internal-developer-portal-vs-paas) _Luca Galante, Product at Humanitec_
 - [How to design your repository structures to nail platform engineering](https://humanitec.com/blog/how-to-design-your-repository-structures-to-nail-platform-engineering) _Luca Galante, Product at Humanitec_
 - [Port vs Backstage - Choosing Your Internal Developer Portal](https://www.infracloud.io/blogs/port-vs-backstage-idp-comparison/) _Vaibhav Gupta, Sr. SRE at InfraCloud Technologies_
