@@ -12,3 +12,4 @@ _Internal Developer Platforms (IDPs) are a new category of tools. This means, th
 **Integration** |
 --- |
 [OpenShift]({{< relref "openshift" >}}) |
+[Rancher]({{< relref "rancher" >}}) |
