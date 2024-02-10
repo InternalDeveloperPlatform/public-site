@@ -11,10 +11,9 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 ## 2024
 - [Why 2024 will be the year of the Platform Orchestrator](https://platformengineering.org/blog/why-2024-will-be-the-year-of-the-platform-orchestrator) _Sören Martius, CEO at Terramate_ 
 - [Unveiling the secrets of a successful journey: Mercado Libre’s Internal Developer Platform](https://platformengineering.org/blog/unveiling-the-secrets-of-a-successful-journey-mercado-libres-internal-developer-platform) _Juliano Marcos Martins, Senior Technical Manager at Mercado Libre_
-
-
 - [Creating Infra Using Backstage Templates, Terraform and GitHub actions](https://medium.com/@sagar-parmar/creating-infra-using-backstage-templates-terraform-and-github-actions-15ca4a93b1a1) _Sagar Parmar, Sr. SRE at InfraCloud Technologies_
-
+- [Decoding golden paths: The highway for your developers](https://platformengineering.org/blog/decoding-golden-paths-the-highway-for-your-developers) _Atulpriya Sharma, Sr. Developer Advocate at InfraCloud Technologies_
+  
 ## 2023
 
 - [WTF?! Internal Developer Platform vs Internal Developer Portal vs PaaS](https://humanitec.com/blog/wtf-internal-developer-platform-vs-internal-developer-portal-vs-paas) _Luca Galante, Product at Humanitec_
