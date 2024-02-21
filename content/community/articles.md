@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2024
+- [Platform Engineering Dies in 4 Weeks](https://thenewstack.io/platform-engineering-dies-in-4-weeks/) _Kaspar von Grünberg, Founder and CEO of Humanitec_
 - [Why 2024 will be the year of the Platform Orchestrator](https://platformengineering.org/blog/why-2024-will-be-the-year-of-the-platform-orchestrator) _Sören Martius, CEO at Terramate_ 
 - [Unveiling the secrets of a successful journey: Mercado Libre’s Internal Developer Platform](https://platformengineering.org/blog/unveiling-the-secrets-of-a-successful-journey-mercado-libres-internal-developer-platform) _Juliano Marcos Martins, Senior Technical Manager at Mercado Libre_
 - [Creating Infra Using Backstage Templates, Terraform and GitHub actions](https://medium.com/@sagar-parmar/creating-infra-using-backstage-templates-terraform-and-github-actions-15ca4a93b1a1) _Sagar Parmar, Sr. SRE at InfraCloud Technologies_
