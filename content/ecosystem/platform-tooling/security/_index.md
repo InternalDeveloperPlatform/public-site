@@ -11,5 +11,6 @@ _Internal Developer Platforms (IDPs) are the sum of all tools and tech that plat
 
 **Integration** |
 --- |
+[Dynatrace]({{< relref "dynatrace" >}}) |
 [Gremlin]({{< relref "gremlin" >}}) |
 [Selefra]({{< relref "selefra" >}}) |
