@@ -19,7 +19,7 @@ Platform.sh considers the reduction of its environmental impact as one of its to
 
 **Docs:** [https://docs.platform.sh](https://docs.platform.sh)
 
-**Github:** [https://github.com/platformsh](https://github.com/platformsh)
+**GitHub:** [https://github.com/platformsh](https://github.com/platformsh)
 
 **X / Twitter:** [https://twitter.com/platformsh](https://twitter.com/platformsh)
 
@@ -27,7 +27,7 @@ Platform.sh considers the reduction of its environmental impact as one of its to
 Start a new project
 {{< /button >}}
 {{< button href="https://github.com/platformsh-templates" target="_blank" >}}
-Check out our Deploy Templates on Github
+Check out our Deploy Templates on GitHub
 {{< /button >}}
 
 
@@ -40,7 +40,7 @@ Check out our Deploy Templates on Github
 
 ## Developer and DevOps Experience
 
-Developers and platform engineers configure their web projects in a simple Yaml file. 
+Developers and platform engineers configure their web projects in a simple Yaml file.
 
 Further interaction with the platform is possible through any of the following methods:
 
@@ -50,7 +50,7 @@ Further interaction with the platform is possible through any of the following m
 
 ### Local development
 
-Platform.sh is the lead sponsor of [DDEV](https://ddev.com/blog/platform-sh-becomes-a-lead-sponsor-of-ddev/), a Docker based local development tool, which has an excellent integration with Platform.sh, allowing easy cloning and syncing environments in both ways, and gives you the closest experience to a production-like environment on your local machine. 
+Platform.sh is the lead sponsor of [DDEV](https://ddev.com/blog/platform-sh-becomes-a-lead-sponsor-of-ddev/), a Docker based local development tool, which has an excellent integration with Platform.sh, allowing easy cloning and syncing environments in both ways, and gives you the closest experience to a production-like environment on your local machine.
 
 ### Observability Suite
 
@@ -59,7 +59,7 @@ Platform.sh has the most advanced [Observability Suite](https://platform.sh/feat
 
 ## Flexible plans and pricing
 
-Platform.sh has a pricing model to any size of company, from the single developer looking for a pay-as-you-go and pay-as-you-grow model, to predictable fixed pricing for big enterprises. 
+Platform.sh has a pricing model to any size of company, from the single developer looking for a pay-as-you-go and pay-as-you-grow model, to predictable fixed pricing for big enterprises.
 Our SLA is suitable for business-critical projects on either shared or dedicated resources.
 
 
@@ -98,5 +98,5 @@ In addition, to make life even easier for any developer, we offer the following 
 Start a new project
 {{< /button >}}
 {{< button href="https://github.com/platformsh-templates" target="_blank" >}}
-Check out our Deploy Templates on Github
+Check out our Deploy Templates on GitHub
 {{< /button >}}
