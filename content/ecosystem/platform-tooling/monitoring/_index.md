@@ -11,6 +11,7 @@ _Internal Developer Platforms (IDPs) are a new category of tools. This means, th
 | **Integration**                           |
 | ----------------------------------------- |
 | [Datadog]({{< relref "datadog" >}})       |
+| [Dynatrace]({{< relref "dynatrace" >}})   |
 | [Elastic]({{< relref "elastic" >}})       |
 | [Grafana]({{< relref "grafana" >}})       |
 | [Instana]({{< relref "instana" >}})       |
