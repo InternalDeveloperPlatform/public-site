@@ -28,3 +28,4 @@ There are a number of great DevOps consultancies out there that can help you to 
 | [Polarsquad]({{< relref "polarsquad" >}})                    |
 | [Tektit Consulting]({{< relref "tektit" >}})                 |
 | [Thoughtworks]({{< relref "thoughtworks" >}})                |
+| [VirtusLab]({{< relref "virtuslab" >}})                |
