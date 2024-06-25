@@ -9,6 +9,12 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2024
+- [Your engineering organization is too expensive](https://platformengineering.org/blog/your-engineering-organization-is-too-expensive) _Luca Galante, Product at Humanitec_
+- [CIOs take note: Platform engineering teams are the future core of IT orgs](https://www.cio.com/article/2152177/cios-take-note-platform-engineering-teams-are-the-future-core-of-it-depts.html) _Robert Mitchell, Author_
+- [The role of infrastructure teams in the platform engineering era](https://humanitec.com/blog/the-role-of-infrastructure-teams-in-the-platform-engineering-era) _Kaspar von Grünberg, CEO at Humanitec_
+- [Building a Platform Team at a 153-Year-Old Company](https://thenewstack.io/building-a-platform-team-at-a-153-year-old-company/) _Jennifer Riggins, Journalist at TNS_
+- [How to build your platform engineering team](https://platformengineering.org/blog/how-to-build-your-platform-engineering-team) _Luca Galante, Product at Humanitec_
+- [PlatformCon: How Spotify Manages Infrastructure with GitOps](https://thenewstack.io/platformcon-how-spotify-manages-infrastructure-with-gitops/) _Joab Jackson, Senior Editor at TNS_
 - [Platform Engineering Dies in 4 Weeks](https://thenewstack.io/platform-engineering-dies-in-4-weeks/) _Kaspar von Grünberg, Founder and CEO of Humanitec_
 - [Why 2024 will be the year of the Platform Orchestrator](https://platformengineering.org/blog/why-2024-will-be-the-year-of-the-platform-orchestrator) _Sören Martius, CEO at Terramate_ 
 - [Unveiling the secrets of a successful journey: Mercado Libre’s Internal Developer Platform](https://platformengineering.org/blog/unveiling-the-secrets-of-a-successful-journey-mercado-libres-internal-developer-platform) _Juliano Marcos Martins, Senior Technical Manager at Mercado Libre_
