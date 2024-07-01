@@ -6,7 +6,7 @@ url="/paas-devops-platforms/choreo"
 
 # Choreo
 
-**Claim:** An Internal Developer Platform for developers.
+**Claim:** An Internal Developer Platform as a Service for Developers.
 
 **Website:** [choreo.dev](https://choreo.dev/)
 
@@ -16,7 +16,7 @@ url="/paas-devops-platforms/choreo"
 
 ## What is Choreo?
 
-Choreo is an internal Developer Platform (IDevP) for developers. It simplifies the deployment, monitoring, and management of cloud-native applications, allowing developers to focus on innovation and writing efficient code. Simply connect your code and have it deployed in minutes. Choreo ensures rapid integration and deployment, empowering developers to streamline their workflow and enhance productivity. 
+Choreo is an internal developer platform as a service for developers. It simplifies the deployment, monitoring, and management of cloud-native applications, allowing developers to focus on innovation and writing efficient code. Simply connect your code and have it deployed in minutes. Choreo ensures rapid integration and deployment, empowering developers to streamline their workflow and enhance productivity. 
 
 {{< figure src="/_assets/images/choreo.png" alt="General Choreo usecases" >}}
 
