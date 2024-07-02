@@ -11,21 +11,22 @@ _Internal Developer Platforms (IDPs) are a new category of tools. This means, th
 
 There are a number of great DevOps consultancies out there that can help you to build your own Internal Developer Platform (IDP). We will enhance this section step by step.
 
-| **Consultancy**                                              |
-| ------------------------------------------------------------ |
-| [axem]({{< relref "axem" >}})                                |
-| [Cloudraft]({{< relref "cloudraft" >}})                      |
-| [Codecentric]({{< relref "codecentric" >}})                  |
-| [ConSol]({{< relref "consol" >}})                            |
-| [Container Solutions]({{< relref "container-solutions" >}})  |
-| [Eficode]({{< relref "eficode" >}})                          |
-| [EqualExperts]({{< relref "equalexperts" >}})                |
-| [Expert Thinking]({{< relref "expert-thinking" >}})          |
-| [Hallatek]({{< relref "hallatek" >}})                        |
+| **Consultancy**                                                     |
+|---------------------------------------------------------------------|
+| [axem]({{< relref "axem" >}})                                       |
+| [Cloudraft]({{< relref "cloudraft" >}})                             |
+| [Codecentric]({{< relref "codecentric" >}})                         |
+| [CROZ]({{< relref "croz" >}})                                       |
+| [ConSol]({{< relref "consol" >}})                                   |
+| [Container Solutions]({{< relref "container-solutions" >}})         |
+| [Eficode]({{< relref "eficode" >}})                                 |
+| [EqualExperts]({{< relref "equalexperts" >}})                       |
+| [Expert Thinking]({{< relref "expert-thinking" >}})                 |
+| [Hallatek]({{< relref "hallatek" >}})                               |
 | [InfraCloud Technologies]({{< relref "infracloud-technologies" >}}) |
-| [NorthCode]({{< relref "northcode" >}})                      |
-| [Platform Engineers]({{< relref "platform-engineers-io" >}}) |
-| [Polarsquad]({{< relref "polarsquad" >}})                    |
-| [Tektit Consulting]({{< relref "tektit" >}})                 |
-| [Thoughtworks]({{< relref "thoughtworks" >}})                |
-| [VirtusLab]({{< relref "virtuslab" >}})                |
+| [NorthCode]({{< relref "northcode" >}})                             |
+| [Platform Engineers]({{< relref "platform-engineers-io" >}})        |
+| [Polarsquad]({{< relref "polarsquad" >}})                           |
+| [Tektit Consulting]({{< relref "tektit" >}})                        |
+| [Thoughtworks]({{< relref "thoughtworks" >}})                       |
+| [VirtusLab]({{< relref "virtuslab" >}})                             |
