@@ -9,6 +9,8 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2024
+- [Platform Engineering: Orchestrating Applications, Platforms, and Infrastructure
+](https://www.syntasso.io/post/platform-engineering-orchestrating-applications-platforms-and-infrastructure) _Daniel Bryant, Head of Product Marketing at Syntasso_
 - [Your engineering organization is too expensive](https://platformengineering.org/blog/your-engineering-organization-is-too-expensive) _Luca Galante, Product at Humanitec_
 - [CIOs take note: Platform engineering teams are the future core of IT orgs](https://www.cio.com/article/2152177/cios-take-note-platform-engineering-teams-are-the-future-core-of-it-depts.html) _Robert Mitchell, Author_
 - [The role of infrastructure teams in the platform engineering era](https://humanitec.com/blog/the-role-of-infrastructure-teams-in-the-platform-engineering-era) _Kaspar von Grünberg, CEO at Humanitec_
