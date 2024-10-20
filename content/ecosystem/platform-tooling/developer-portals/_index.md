@@ -27,4 +27,5 @@ https://www.gartner.com/document/4017457
 | [Flanksource Mission Control]({{< relref "flanksource-mission-control" >}}) | Kubernetes-native Internal Developer Portal and GitOps orchestrator. |
 | [OpsLevel]({{< relref "opslevel" >}})                                       | All your services, all in one interface                              |
 | [Port]({{< relref "port" >}})                                               | A developer portal for all your services,software & resources        |
+| [Rely.io]({{< relref "relyio" >}})                                          | A Managed Developer experience that just works                       |
 | [Roadie]({{< relref "roadie" >}})                                           | Backstage as a service: adopt OSS without the overhead               |
