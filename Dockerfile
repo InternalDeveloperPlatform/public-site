@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.101.0-ext-alpine as build
+FROM hugomods/hugo:reg-exts-0.136.4 AS build
 
 ARG env=staging
 
