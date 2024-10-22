@@ -9,9 +9,11 @@ _Everything the WWW has around Internal Developer Platforms in one curated space
 
 ## A modern way to run engineering teams
 
-While self-built IDPs have been around in elite teams for around 5 years, they’re now going mainstream in 2021, embraced by huge enterprises like Spotify, Airbnb, and Zalando.  
+While self-built IDPs have been around in elite teams for around 5 years, they’re now going mainstream in 2021, embraced by huge enterprises like Spotify, Airbnb, and Zalando.
 
-{{< tweet user="kelseyhightower" id="851935087532945409">}}
+> "I'm convinced the majority of people managing infrastructure just want a PaaS. The only requirement: it has to be built by them."
+>
+> — Kelsey Hightower (@kelseyhightower), April 11, 2017
 
 {{< button relref="learn/what-is-an-internal-developer-platform" >}}
 -> What is an Internal Developer Platform (IDP)
