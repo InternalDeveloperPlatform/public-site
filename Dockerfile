@@ -1,4 +1,4 @@
-FROM hugomods/hugo:std-exts-0.136.4 AS build
+FROM hugomods/hugo:exts-0.136.4 AS build
 
 ARG env=staging
 
