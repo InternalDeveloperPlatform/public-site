@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2024
+- [Platform engineering is the industrialization of software development](https://platformengineering.org/blog/platform-engineering-is-the-industrialization-of-software-development) _Luca Galante, Product at Humanitec_
 - [Building an Internal Developer Platform: 4 Essential Pillars](https://thenewstack.io/building-an-internal-developer-platform-4-essential-pillars/ ) _Ritesh Patel, Co-Founder & VP of Products at Nirmata_
 - [How to Define Engineering Standards](https://roadie.io/blog/how-to-define-engineering-standards/) _Sam Nixon, Head of Product at Roadie_
 - [Platform engineering: Best practices in “Vendor engineering”](https://platformengineering.org/blog/platform-engineering-vendor-engineering-best-practices) _Jordan Chernev, Senior Technology Executive_
