@@ -31,7 +31,7 @@ Internal Developer platforms have five core components, reflecting the features 
 
 #### Separation of concerns
 
-Two features are exclusively owned by the platform, Ops, or DevOps or team: [_Infrastructure Orchestration_]({{< relref "infrastructure-orchestration" >}}) and [_Role Based Action Control (RBAC)_]({{< relref "role-based-access-control" >}}). [_Application Configuration Management_]({{< relref "application-configuration-management" >}}) is used by the platform team to set baseline templates but is also used in day-to-day activity by the application development team. Developers use the functionalities [_Deployment Management_]({{< relref "deployment-management" >}}) and [_Environment Management_]({{< relref "environment-management" >}}).  
+Two features are exclusively owned by the platform, Ops, or DevOps or team: [_Infrastructure Orchestration_]({{< relref "infrastructure-orchestration" >}}) and [_Role-Based Access Control (RBAC)_]({{< relref "role-based-access-control" >}}). [_Application Configuration Management_]({{< relref "application-configuration-management" >}}) is used by the platform team to set baseline templates but is also used in day-to-day activity by the application development team. Developers use the functionalities [_Deployment Management_]({{< relref "deployment-management" >}}) and [_Environment Management_]({{< relref "environment-management" >}}).
 
 {{< button relref="core-components" >}}
 -> Core Components
@@ -39,17 +39,16 @@ Two features are exclusively owned by the platform, Ops, or DevOps or team: [_In
 
 ### Developer portal, service catalog, UI, API, or CLI?
 
-All of the above-mentioned building blocks and core components are enabled by the configuration engine at the heart of an IDP, the Platform Orchestrator. 
+All of the above-mentioned building blocks and core components are enabled by the configuration engine at the heart of an IDP, the Platform Orchestrator.
 Different interfaces can be plugged on top of the Platform Orchestrator to access the underlying platform capabilities.
 These can be a CLI, different types of User Interfaces (UIs) or developer portals (e.g. Backstage), or code-based workload specifications (e.g. Score)
 It’s important not to get confused by the linguistic similarities between Internal Developer Portals and Internal Developer Platforms. Portals are simply one of the possible interfaces (UI-based specifically) of the underlying platform. IDP should always be used to refer to an Internal Developer Platform, which is the entire platform layer of an enterprise, not a single tool or interface.
 
 Or how Gartner puts it:
 
-_“***Internal developer portals*** serve as the interface through which developers can discover and access ***internal developer platform*** capabilities.”_ 
+_“***Internal developer portals*** serve as the interface through which developers can discover and access ***internal developer platform*** capabilities.”_
 
-Source: A Software Engineering Leader’s Guide to Improving Developer Experience by Manjunath Bhat, Research VP, Software Engineering Practice at Gartner.  - [Full report behind paywall](https://www.gartner.com/document/4017457)
-
+Source: A Software Engineering Leader’s Guide to Improving Developer Experience by Manjunath Bhat, Research VP, Software Engineering Practice at Gartner. - [Full report behind paywall](https://www.gartner.com/document/4017457)
 
 ### Integrating with all existing tech and tools
 
@@ -66,7 +65,7 @@ Monitoring, logging, and security tools can be plugged on top of the orchestrato
 Before we dive into the specifics, let’s briefly look at the reason this category is evolving along with those naming conventions.
 
 - **Internal** – clearly separated from externally facing platforms such as [Twilio's developer platforms](https://www.twilio.com/platform). IDPs are meant for internal use only.
-- **Developer** – indicates the internal customer and the primary user, the application developer. 
+- **Developer** – indicates the internal customer and the primary user, the application developer.
 - **Platform** – characterizes the product type.
 
 Slight variations exist, but we’ve actively decided against those as the descriptions are less accurate and the risk of misunderstanding is too high. Those include:
