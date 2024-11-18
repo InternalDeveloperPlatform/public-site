@@ -14,7 +14,7 @@ TLDR; Internal Developer Platforms (IDPs) are configured by platform engineering
 
 ### How Internal Developer Platforms are used by Platform, Ops or DevOps teams
 
-The platform team primarily builds, runs, configures and maintains the IDP. Teams building and running IDPs concentrate on standardization by design, infrastructure, service level agreements, workflow-optimization and configure the IDP to automate recurring or repetitive tasks, such as spinning up resources or environments for developers. The platform team also sets the baseline for dynamic configuration management  to avoid unstructured scripting which would lead to excessive maintenance time. See below for all building blocks that the platform team usually operates.
+The platform team primarily builds, runs, configures and maintains the IDP. Teams building and running IDPs concentrate on standardization by design, infrastructure, service level agreements, workflow-optimization and configure the IDP to automate recurring or repetitive tasks, such as spinning up resources or environments for developers. The platform team also sets the baseline for dynamic configuration management to avoid unstructured scripting which would lead to excessive maintenance time. See below for all building blocks that the platform team usually operates.
 
 ### How Internal Developer Platforms are used by application developers
 
@@ -24,11 +24,11 @@ IDPs integrate into existing workflows which usually remain a git-push deploy wo
 
 ### Five core components
 
-Although variations exist, a fully-fledged IDP is made out of five core components. 
+Although variations exist, a fully-fledged IDP is made out of five core components.
 
 #### Separation of concerns
 
-Two features are exclusively used by the Ops, DevOps or Platform team: [_Infrastructure Orchestration_]({{< relref "infrastructure-orchestration" >}}) and [_Role Based Action Control (RBAC)_]({{< relref "role-based-access-control" >}}). [_Application Configuration Management_]({{< relref "application-configuration-management" >}}) is used by the platform team to set baseline-templates but also used in day-to-day activity by the application development team. Developers use the functionalities [_Deployment Management_]({{< relref "deployment-management" >}}) and [_Environment Management_]({{< relref "environment-management" >}}).  
+Two features are exclusively used by the Ops, DevOps or Platform team: [_Infrastructure Orchestration_]({{< relref "infrastructure-orchestration" >}}) and [_Role-Based Access Control (RBAC)_]({{< relref "role-based-access-control" >}}). [_Application Configuration Management_]({{< relref "application-configuration-management" >}}) is used by the platform team to set baseline-templates but also used in day-to-day activity by the application development team. Developers use the functionalities [_Deployment Management_]({{< relref "deployment-management" >}}) and [_Environment Management_]({{< relref "environment-management" >}}).
 
 {{< button relref="core-components" >}}
 -> Core Components
@@ -36,16 +36,15 @@ Two features are exclusively used by the Ops, DevOps or Platform team: [_Infrast
 
 ### Developer portal, service catalog, UI, API, or CLI?
 
-All of the above-mentioned building blocks are centered around a platform API or a Platform Orchestrator. 
+All of the above-mentioned building blocks are centered around a platform API or a Platform Orchestrator.
 Depending on the maturity of the IDP, it provides several interfaces and access points.
 That can be a CLI, different kind of User Interfaces (UIs) or a developer portal with a service catalog to unify the developer experience.
 
 Or how Gartner puts it:
 
-_“***Internal developer portals*** serve as the interface through which developers can discover and access ***internal developer platform*** capabilities.”_ 
+_“***Internal developer portals*** serve as the interface through which developers can discover and access ***internal developer platform*** capabilities.”_
 
 Source: A Software Engineering Leader’s Guide to Improving Developer Experience by Manjunath Bhat, Research VP, Software Engineering Practice at Gartner. ([Full report behind paywall](https://www.gartner.com/document/4017457))
-
 
 ### Integrating with all existing tech and tools
 
@@ -63,7 +62,7 @@ Ops tools such as monitoring, chaos engineering, GitOps tools can be plugged int
 Before we dive into the specifics, let’s briefly look at the reason this category is evolving along with those naming conventions.
 
 - **Internal** – clearly separated from externally facing platforms such as [Twilio's developer platforms](https://www.twilio.com/platform). IDPs are meant for internal use only.
-- **Developer** – indicates the internal customer and the primary user, the application developer. 
+- **Developer** – indicates the internal customer and the primary user, the application developer.
 - **Platform** – characterizes the product type.
 
 Slight variations exist, but we’ve actively decided against those as the descriptions are less accurate and the risk of misunderstanding is too high. Those include:
