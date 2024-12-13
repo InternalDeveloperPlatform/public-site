@@ -8,9 +8,9 @@ url="/developer-portals/tempest"
 
 **Claim:** End-to-end platform automations with comprehensive built-in portal.
 
-**Focus:** 
+**Focus:**
 
-Tempest is a developer portal that provides full cloud visibility, alongside powerful, end-to-end automations. It’s backed by a powerful developer SDK written in Go, making it the fastest path to setting up a portal and a platform for your big engineering teams. 
+Tempest is a developer portal that provides full cloud visibility, alongside powerful, end-to-end automations. It’s backed by a powerful developer SDK written in Go, making it the fastest path to setting up a portal and a platform for your big engineering teams.
 
 **Website:**[tempestdx.com](https://tempestdx.com)
 
@@ -32,12 +32,12 @@ Tempest is a developer portal that provides full cloud visibility, alongside pow
 
 {{< button href="https://tempestdx.com" target="_blank" >}}
 -> Tempest
-{{< /button >}}  
+{{< /button >}}
 
 What is Tempest?
 ---------------------
 
-[Tempest](https://tempestdx.com/) helps teams deliver better code, faster, by providing a ready-to-use developer self-serve experience without the months of setup. It empowers developers to build, deploy, and manage independently, with built-in security and compliance guardrails. With Tempest’s unified platform—combining everything teams need from a service catalog and software ownership to powerful end-to-end automation—organizations boost developer productivity, accelerate time to market, and maximize return on engineering investments. 
+[Tempest](https://tempestdx.com/) helps teams deliver better code, faster, by providing a ready-to-use developer self-serve experience without the months of setup. It empowers developers to build, deploy, and manage independently, with built-in security and compliance guardrails. With Tempest’s unified platform—combining everything teams need from a service catalog and software ownership to powerful end-to-end automation—organizations boost developer productivity, accelerate time to market, and maximize return on engineering investments.
 
 ### Benefits
 
@@ -52,7 +52,7 @@ Tempest’s mission is to create the space for innovation at the world’s most 
 
 ### A brief history of Tempest
 
-Tempest was founded by the team behind Fleetsmith, acquired by Apple in 2020. After years at Apple, the founders recognized a recurring challenge: engineering teams that are burdened with infrastructure and operational tasks are less . Launched in 2024, Tempest builds on their experience to address this gap.
+Tempest was founded by the team behind Fleetsmith, acquired by Apple in 2020. After years at Apple, the founders recognized a recurring challenge: engineering teams that are burdened with infrastructure and operational tasks are less innovative. Launched in 2024, Tempest builds on their experience to address this gap.
 
 ### Core features of Tempest
 
