@@ -8,7 +8,11 @@ weight=30
 
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
+## 2025
+- [3 platform engineering predictions for 2025](https://platformengineering.org/blog/https-platformengineering-org-blog-platform-engineering-predictions-for-2025) _Luca Galante, Core contributor @ Platform Engineering_
 ## 2024
+- [Hype to Reality: Platform engineering wins in 2024](https://platformengineering.org/blog/hype-to-reality-platform-engineering-wins-in-2024) _Luca Galante, Core contributor @ Platform Engineering_
+- [Top 10 platform engineering tools to use in 2025](https://platformengineering.org/blog/top-10-platform-engineering-tools-to-use-in-2025) _Sam Barlien, Platform Engineering Community Manager_
 - [Combining practical Platform Engineering with Crossplane and ArgoCD](https://platformengineering.org/blog/platform-engineering-with-crossplane-and-argocd) _Jonas Hecht, Solution Architect at Codecentric_
 - [Platform engineering is the industrialization of software development](https://platformengineering.org/blog/platform-engineering-is-the-industrialization-of-software-development) _Luca Galante, Product at Humanitec_
 - [Building an Internal Developer Platform: 4 Essential Pillars](https://thenewstack.io/building-an-internal-developer-platform-4-essential-pillars/ ) _Ritesh Patel, Co-Founder & VP of Products at Nirmata_
