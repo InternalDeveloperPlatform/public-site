@@ -10,11 +10,11 @@ url="/developer-portals/relyio"
 
 **Focus**: Rely.io is an Internal Developer Portal that grants developers autonomy, reduces costs and increases productivity all while ensuring governance and standardization.
 
-**Website**: [rely.io](https://rely.io/)
+**Website**: [rely.io](https://www.rely.io/)
 
 **Docs**: [docs.rely.io](https://docs.rely.io/)
 
-**Live Demo**: [demo.rely.io](https://demo.rely.io)
+**Request Free Trial**: [rely.io/free-trial](https://www.rely.io/free-trial)
 
 ## Details
 
