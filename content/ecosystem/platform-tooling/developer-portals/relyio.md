@@ -10,27 +10,27 @@ url="/developer-portals/relyio"
 
 **Focus**: Rely.io is an Internal Developer Portal that grants developers autonomy, reduces costs and increases productivity all while ensuring governance and standardization.
 
-**Website**: [rely.io](https://rely.io/)
+**Website**: [rely.io](https://www.rely.io/)
 
 **Docs**: [docs.rely.io](https://docs.rely.io/)
 
-**Live Demo**: [demo.rely.io](https://demo.rely.io)
+**Request Free Trial**: [rely.io/free-trial](https://www.rely.io/free-trial)
 
 ## Details
 
 | Details |  |
 | --- | ----------- |
 | Does it require developers to have DevOps knowledge? | No |
-| Self-hosted: | SaaS but with the option to self-host integration engine and self-service agent |
+| Self-hosted: | SaaS with self-hosted options. Galaxy, Rely.io's integration can be run in your infrastructure. For self-service actions, the self-service agent needs to be installed in your secure environment |
 | Orchestrator | N/A. Rely.io integrates with any existing platform engineering automation, interfacing with any orchestrator chosen by the customer |
 | Integration Concept | API based |
 | Setup time first app | Minutes |
-| Source | Closed, integration enginee, integrations and self-service agent are open source |
-| Use Case | Scale-ups and Enterprise Setups |
+| Source | Mixed. The integration engine, some integrations and self-service agent are open source |
+| Use Case | Startups, Scale-ups and Enterprise Setups |
 | Total Cost of Ownership | Rely.io's pricing model is seat-based and the details are available on [Rely.io website](https://www.rely.io/pricing) |
 | Adoption | Early but stable with customers, such as, Amplemarket, Rows, Feezai, etc...  |
 
-{{< button href="https://rely.io" target="_blank" >}}
+{{< button href="https://www.rely.io" target="_blank" >}}
 -> Rely.io
 {{< /button >}}  
 
@@ -62,7 +62,7 @@ Rely.io was launched in 2022. Rely.io's founding team has over 10 years of hands
 
 ### **Core features of Rely.io**
 
-* **Catalog** – Discorver and centralize all the relevant information about your services and resources, organized in service and team homepages.
-* **Measure** – From productivity and performance, to cost and reliability to ensure you have the complete picture in order to move fast and with complete confidence.
-* **Improve** – Engineering leaders define and track standards and KPIs for quality, production readiness, productivity, and more.
-* **Self-service** - Bake best practices into developer routines and automate their work away with boilerplate code and workflows.
+* **[Catalog](https://www.rely.io/product/software-catalog)** – Discover and centralize all the relevant information about your services and resources, organized in service and team homepages.
+* **[Measure](https://www.rely.io/product/engineering-performance)** – From productivity and performance, to cost and reliability to ensure you have the complete picture in order to move fast and with complete confidence.
+* **[Improve](https://www.rely.io/product/scorecards)** – Engineering leaders define and track standards and KPIs for quality, production readiness, productivity, and more.
+* **[Self-service](https://www.rely.io/product/developer-self-service)** - Bake best practices into developer routines and automate their work away with boilerplate code and workflows.
