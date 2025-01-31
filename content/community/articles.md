@@ -9,6 +9,7 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2025
+- [What are golden paths? A guide to streamlining developer workflows](https://platformengineering.org/blog/what-are-golden-paths-a-guide-to-streamlining-developer-workflows) _Mallory Haigh, Workshop host @ Platform Engineering_
 - [3 platform engineering predictions for 2025](https://platformengineering.org/blog/https-platformengineering-org-blog-platform-engineering-predictions-for-2025) _Luca Galante, Core contributor @ Platform Engineering_
 ## 2024
 - [Hype to Reality: Platform engineering wins in 2024](https://platformengineering.org/blog/hype-to-reality-platform-engineering-wins-in-2024) _Luca Galante, Core contributor @ Platform Engineering_
