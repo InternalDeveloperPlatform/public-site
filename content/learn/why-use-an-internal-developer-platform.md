@@ -29,10 +29,10 @@ It comes up with a list of procedures performed per 100 deployments and the corr
 | Add services and dependencies | 1%* | 16h* | 8h* |
 | Add/update resources | 0.38%* | 8h* | 24h* |
 | Refactor & document architecture | 0.28%* | 40h* | 8h* |
-| Waiting due to blocked environment | 0,5%* | 15h* | 0h* |
-| Spinning up environment | 0,33%* | 24h* | 24h* |
+| Waiting due to blocked environment | 0.5%* | 15h* | 0h* |
+| Spinning up environment | 0.33%* | 24h* | 24h* |
 | Onboarding devs, retrain & swap teams | 1%* | 80h* | 16h* |
-| Roll back failed deployment | 1,75% | 10* | 20* |
+| Roll back failed deployment | 1.75% | 10* | 20* |
 | Debugging, error tracing | 4.40% | 10* | 10* |
 | Waiting for other teams | 6.30% | 16* | 16* |
 
