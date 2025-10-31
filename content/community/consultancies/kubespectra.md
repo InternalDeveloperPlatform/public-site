@@ -1,4 +1,3 @@
-
 +++
 title="kubespectra (infologistix)"
 url="/consultancies/kubespectra"
