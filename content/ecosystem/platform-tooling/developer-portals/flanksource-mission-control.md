@@ -12,7 +12,7 @@ url="/developer-portals/flanksource-mission-control"
 
 **Focus:** Improving the developer experience when operating complex systems.
 
-**Website:** [www.flanksource.com](https:/www.flanksource.com)
+**Website:** [www.flanksource.com](https://www.flanksource.com)
 
 **Docs:** [docs.flanksource.com](https://docs.flanksource.com)
 
