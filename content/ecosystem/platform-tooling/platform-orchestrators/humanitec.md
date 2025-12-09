@@ -16,17 +16,17 @@ url="/platform-orchestrators/humanitec"
 
 ### Details
 
-| Details                    |                                                                                                                   |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| DevOps Knowledge Required? | No                                                                                                                |
-| Self-hosted:               | No, but Enterprise yes                                                                                            |
-| Orchestrator               | Kubernetes                                                                                                        |
-| Integration Concept        | API based, external drivers                                                                                       |
-| Setup time first app       | 4 hours                                                                                                           |
-| Source                     | Closed                                                                                                            |
-| Use Case                   | Scale up to Enterprise Setups                                                                                     |
-| Total Cost of Ownership    | The vendor doesn’t publish prices on the website but people report a cost of around 20-30% of a self-built setup. |
-| Adoption                   | Market-leader for IDPs, production-grade, widely adopted                                                          |
+| Details                                              |                                                                                                                   |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Does it require developers to have DevOps knowledge? | No                                                                                                                |
+| Self-hosted:                                         | No, but Enterprise yes                                                                                            |
+| Orchestrator                                         | Kubernetes                                                                                                        |
+| Integration Concept                                  | API based, external drivers                                                                                       |
+| Setup time first app                                 | 4 hours                                                                                                           |
+| Source                                               | Closed                                                                                                            |
+| Use Case                                             | Scale up to Enterprise Setups                                                                                     |
+| Total Cost of Ownership                              | The vendor doesn’t publish prices on the website but people report a cost of around 20-30% of a self-built setup. |
+| Adoption                                             | Market-leader for IDPs, production-grade, widely adopted                                                          |
 
 {{< button href="https://humanitec.com" target="_blank" >}}
 -> Humanitec

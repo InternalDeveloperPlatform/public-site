@@ -22,7 +22,6 @@ https://www.gartner.com/document/4017457
 | [Backstage]({{< relref "backstage" >}})                                     | An open platform for building developer portals                         |
 | [Compass from Atlassian]({{< relref "atlassian-compass" >}})                | Developer experience platform and service catalog                       |
 | [Cortex]({{< relref "cortex" >}})                                           | Build reliable and innovative software at scale                         |
-| [Cycloid]({{< relref "cycloid" >}})                                         | An end-to-end Internal Developer Platform to cut cloud waste and scale software delivery |
 | [Flanksource Mission Control]({{< relref "flanksource-mission-control" >}}) | Kubernetes-native Internal Developer Portal and GitOps orchestrator.    |
 | [Flightdeck]({{< relref "arctir-flightdeck" >}})                            | A no-hassle, managed developer portal built atop open source Backstage. |
 | [OpsLevel]({{< relref "opslevel" >}})                                       | All your services, all in one interface                                 |
