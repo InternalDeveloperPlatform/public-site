@@ -9,6 +9,15 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2025
+- [AI needs platform engineering: Just ask Thoughtworks and Google](https://platformengineering.org/blog/ai-needs-platform-engineering-just-ask-thoughtworks-and-google) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
+- [Platform engineering: A golden era for service providers](https://platformengineering.org/blog/platform-engineering-a-golden-era-for-service-providers) *Luca Galante, Core Contributor @ Platform Engineering*
+- [The Product Operating Model for Platform Engineering teams](https://platformengineering.org/blog/getting-started-with-the-product-operating-model-for-platform-engineering-teams) *Jordan Chernevm Technical Executive*
+- [DORA 2025: Faster, But Are We Any Better?](https://devops.com/dora-2025-faster-but-are-we-any-better/) *Alan Shimel, Founder @ DevOps.com*
+- [DevOps Evolution: From Movement to Platform Engineering in the AI Era](https://devops.com/devops-evolution-from-movement-to-platform-engineering-in-the-ai-era/) *Tom Smith, Industry Analyst @ DevOps.com*
+- [Platform Engineering vs. DevOps Misses the Point](https://thenewstack.io/platform-engineering-vs-devops-misses-the-point/) *Vilas Veeraraghavan and Bryan Finster, Platform Thought Leaders*
+- [Confidence: Spotify Gives Developers a Platform for Experiments](https://thenewstack.io/confidence-spotify-gives-developers-a-platform-for-experiments/) *Jennifer Riggins, Contributor @ The New Stack*
+- [Why Up to 70% of Platform Engineering Teams Fail to Deliver Impact](https://thenewstack.io/why-up-to-70-of-platform-engineering-teams-fail-to-deliver-impact/) *Jennifer Riggins, Contributor @ The New Stack*
+- [AI-First Platform Engineering: 3 Signals From PlatformCon](https://thenewstack.io/ai-first-platform-engineering-3-signals-from-platformcon/) *Sylvain Kalache, Head of AI Labs @ Rootly*
 - [What are golden paths? A guide to streamlining developer workflows](https://platformengineering.org/blog/what-are-golden-paths-a-guide-to-streamlining-developer-workflows) _Mallory Haigh, Workshop host @ Platform Engineering_
 - [3 platform engineering predictions for 2025](https://platformengineering.org/blog/https-platformengineering-org-blog-platform-engineering-predictions-for-2025) _Luca Galante, Core contributor @ Platform Engineering_
 ## 2024
