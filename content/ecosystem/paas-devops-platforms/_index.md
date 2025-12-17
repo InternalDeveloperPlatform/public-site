@@ -24,5 +24,5 @@ If you don't want to build an IDP on your own, if you don't have the capacity to
 | [Nullstone]({{< relref "nullstone" >}})       |
 | [Pergola]({{< relref "pergola" >}})    |
 | [Portainer]({{< relref "portainer-ce" >}})    |
-| [Platform.sh]({{< relref "platformsh" >}})    |
+| [Upsun (formerly Platform.sh)]({{< relref "upsun" >}})    |
 | [Qovery]({{< relref "qovery" >}})             |
