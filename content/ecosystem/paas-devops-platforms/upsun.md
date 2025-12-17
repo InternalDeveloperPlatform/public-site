@@ -14,6 +14,8 @@ It can serve as an out-of-the-box Internal Developer Platform (IDP) that abstrac
 
 **Docs:** [https://docs.upsun.com](https://docs.upsun.com)
 
+**Developer Center** [https://devcenter.upsun.com](https://devcenter.upsun.com)
+
 **GitHub:** [https://github.com/upsun](https://github.com/upsun)
 
 **X / Twitter:** [https://x.com/upsundotcom](https://x.com/upsundotcom)
@@ -57,6 +59,7 @@ For organizations that do not want to build an IDP from scratch (using Kubernete
 
 * **Website:** [upsun.com](https://upsun.com)
 * **Documentation:** [docs.upsun.com](https://docs.upsun.com)
+* **Developer Center** [https://devcenter.upsun.com](https://devcenter.upsun.com)
 
 {{< button href="https://console.upsun.com/projects/create-project" target="_blank" >}}
 Start a new project
