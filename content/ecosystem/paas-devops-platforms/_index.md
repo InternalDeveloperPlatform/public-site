@@ -15,6 +15,7 @@ If you don't want to build an IDP on your own, if you don't have the capacity to
 | **PaaS and end-to-end DevOps Platforms**      |
 |-----------------------------------------------|
 | [Choreo]({{< relref "choreo" >}})             |
+| [CodeNOW]({{< relref "codenow" >}})           |
 | [Coherence]({{< relref "coherence" >}})       |
 | [DevOpsBox]({{< relref "devopsbox" >}})       |
 | [dyrector.io]({{< relref "dyrectorio" >}})    |
