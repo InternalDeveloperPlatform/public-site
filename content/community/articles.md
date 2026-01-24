@@ -8,7 +8,20 @@ weight=30
 
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
+## 2026
+- [10 FinOps tools platform engineers should evaluate for 2026](https://platformengineering.org/blog/10-finops-tools-platform-engineers-should-evaluate-for-2026) *Ajay Chankramath, CEO @ Platformetrics*
+- [The biggest challenges platform engineering teams are facing in 2026](https://platformengineering.org/blog/the-biggest-challenges-platform-engineering-teams-are-facing-in-2026) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
+- [Platform engineering maturity in 2026: What the data tells us](https://platformengineering.org/blog/platform-engineering-maturity-in-2026) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
+- [10 observability tools platform engineers should evaluate in 2026](https://platformengineering.org/blog/10-observability-tools-platform-engineers-should-evaluate-in-2026) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
+- [Being a platform engineer in 2026: Career reality check](https://platformengineering.org/blog/being-a-platform-engineer-in-2026) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
+- [Policy as code: The platform engineer's guide to automated governance and compliance](https://platformengineering.org/blog/policy-as-code) *Ajay Chankramath, CEO @ Platformetrics & Bryan Oliver, Principal Consultant @ Thoughtworks*
+- [The platform engineering reality check: Is your initiative on track?](https://platformengineering.org/blog/the-platform-engineering-reality-check) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
+- [Five product management principles for internal developer platforms](https://platformengineering.org/blog/five-product-management-principles-for-internal-developer-platforms) *Karolina Semiuk, Education & Partner Programs @ Platform Engineering*
+
 ## 2025
+- [New reference architecture for an AI/ML Internal Developer Platform on GCP](https://platformengineering.org/blog/reference-architecture-for-ai-ml-internal-developer-platform-on-gcp) *Luca Galante, Core Contributor @ Platform Engineering* 
+- [Hot trends in platform engineering for AI: Two pathways, one transformation](https://platformengineering.org/blog/hot-trends-in-platform-engineering-for-ai) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
+- [10 Platform engineering predictions for 2026](https://platformengineering.org/blog/10-platform-engineering-predictions-for-2026) *Luca Galante, Core Contributor @ Platform Engineering* 
 - [AI needs platform engineering: Just ask Thoughtworks and Google](https://platformengineering.org/blog/ai-needs-platform-engineering-just-ask-thoughtworks-and-google) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
 - [Platform engineering: A golden era for service providers](https://platformengineering.org/blog/platform-engineering-a-golden-era-for-service-providers) *Luca Galante, Core Contributor @ Platform Engineering*
 - [The Product Operating Model for Platform Engineering teams](https://platformengineering.org/blog/getting-started-with-the-product-operating-model-for-platform-engineering-teams) *Jordan Chernevm Technical Executive*
