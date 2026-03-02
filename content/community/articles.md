@@ -9,6 +9,9 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2026
+- [The inflection point: How platform engineering serves the world](https://weaveintelligence.io/blog/the-inflection-point-how-platform-engineering-serves-the-world) *Sam Barlien, Researcher @ Weave Intelligence*
+- [Platform engineering and the future of software](https://weaveintelligence.io/blog/platform-engineering-and-the-future-of-software) *Luca Galante, Lead Analyst @ Weave Intelligence*
+- [Platform engineering as the foundation for AI](https://weaveintelligence.io/blog/platform-engineering-as-the-foundation-for-ai) *Luca Galante, Lead Analyst @ Weave Intelligence*
 - [10 FinOps tools platform engineers should evaluate for 2026](https://platformengineering.org/blog/10-finops-tools-platform-engineers-should-evaluate-for-2026) *Ajay Chankramath, CEO @ Platformetrics*
 - [The biggest challenges platform engineering teams are facing in 2026](https://platformengineering.org/blog/the-biggest-challenges-platform-engineering-teams-are-facing-in-2026) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
 - [Platform engineering maturity in 2026: What the data tells us](https://platformengineering.org/blog/platform-engineering-maturity-in-2026) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
