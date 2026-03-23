@@ -29,5 +29,5 @@ https://www.gartner.com/document/4017457
 | [Port]({{< relref "port" >}})                                               | A developer portal for all your services,software & resources           |
 | [Rely.io]({{< relref "relyio" >}})                                          | A Managed Developer experience that just works                          |
 | [Roadie]({{< relref "roadie" >}})                                           | Backstage as a service: adopt OSS without the overhead                  |
-| [SixDegree]({{< relref "sixdegree" >}})                                     | A live ontology for services, dependencies, and ownership. Powers both platform teams and AI agents. |
+| [SixDegree]({{< relref "sixdegree" >}})                                     | Real-time ontology and AI-powered actions across your entire stack       |
 | [Tempest]({{< relref "tempest" >}})                                         | End-to-end platform automations with comprehensive built-in portal   |
