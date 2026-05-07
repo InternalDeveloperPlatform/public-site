@@ -20,6 +20,11 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [Policy as code: The platform engineer's guide to automated governance and compliance](https://platformengineering.org/blog/policy-as-code) *Ajay Chankramath, CEO @ Platformetrics & Bryan Oliver, Principal Consultant @ Thoughtworks*
 - [The platform engineering reality check: Is your initiative on track?](https://platformengineering.org/blog/the-platform-engineering-reality-check) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
 - [Five product management principles for internal developer platforms](https://platformengineering.org/blog/five-product-management-principles-for-internal-developer-platforms) *Karolina Semiuk, Education & Partner Programs @ Platform Engineering*
+- [Why platform engineering will eat the world](https://platformengineering.org/blog/why-platform-engineering-will-eat-the-world) *Kaspar von Grünberg & Luca Galante, Lead Analyst @ Weave Intelligence*
+- [Platform engineering interview guide: What you need to know to land your next role](https://platformengineering.org/blog/job-interview-platform-engineering-role) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
+- [Why is the demand for platform engineers exploding?](https://weaveintelligence.io/blog/why-is-the-demand-for-platform-engineers-exploding) *Kaspar von Grünberg & Luca Galante, Lead Analyst @ Weave Intelligence*
+- [The four levels of agentic software development in the enterprise](https://weaveintelligence.io/research/the-four-levels-of-agentic-software-development-in-the-enterprise) *Kaspar von Grünberg, Luca Galante, Ajay Chankramath & Mallory Haigh @ Weave Intelligence*
+- [Operationalizing AI coding agents in regulated industries](https://weaveintelligence.io/research/operationalizing-ai-coding-agents-in-regulated-industries) *Sam Barlien, Researcher @ Weave Intelligence*
 
 ## 2025
 - [New reference architecture for an AI/ML Internal Developer Platform on GCP](https://platformengineering.org/blog/reference-architecture-for-ai-ml-internal-developer-platform-on-gcp) *Luca Galante, Core Contributor @ Platform Engineering* 
