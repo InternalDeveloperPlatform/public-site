@@ -1,6 +1,6 @@
 # Platform Engineering Books
 
-_A curated reading list for anyone building, running, or leading an Internal Developer Platform. It starts with the books written specifically about platform engineering, then branches into the organizational-design, DevOps/SRE, and product-management thinking that platform engineering draws on.
+_A curated reading list for anyone building, running, or leading an Internal Developer Platform. It starts with the books written specifically about platform engineering, then branches into the organizational-design, DevOps/SRE, and product-management thinking that platform engineering draws on._
 
 Wrote an amazing book and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})
 
