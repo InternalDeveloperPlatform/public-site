@@ -5,10 +5,10 @@ url="/platform-orchestrators/massdriver"
 
 # Massdriver
 
-**Claim:** Streamlines the Design and Development of Internal Developer Platform (IDP) with Integrated Infrastructure Visibility.
+**Claim:** Internal developer platform and platform orchestrator for the Terraform, OpenTofu and Helm your platform team already writes.
 
 **Focus:**
-Massdriver is engineered to streamline the development and deployment process, allowing organizations to rapidly deliver world-class products with a high-level developer experience. It's designed to save substantial time and resources by automating cloud operations, integrating seamlessly with CI/CD systems, and providing a self-service platform for developers, mirroring a Platform as a Service (PaaS) experience with enhanced flexibility and control.
+Massdriver is an internal developer platform and platform orchestrator. Platform teams publish the Terraform, OpenTofu, and Helm they already write to a catalog; developers and AI agents provision from it with policy enforced before every deploy. Self-hosted or managed. Massdriver orchestrates the platform team's own modules and does not own the runtime.
 
 
 **Website:** [massdriver.cloud](https://massdriver.cloud/)
@@ -20,7 +20,7 @@ Massdriver is engineered to streamline the development and deployment process, a
 | Details                    |                                                                                             |
 | -------------------------- | ------------------------------------------------------------------------------------------- |
 | DevOps Knowledge Required? | No                                                                                          |
-| Self-hosted                | Yes for enterprise customers                                                                |
+| Self-hosted                | Yes (self-hosted or managed)                                                                |
 | Orchestrator               | Kubernetes, AWS ECS, Nomad, VMs, Serverless                                                 |
 | Integration Concept        | Extendable with OpenTofu, Terraform, Helm                                                   |
 | Setup time first app       | 1-4 hours                                                                                   |
@@ -36,11 +36,11 @@ Massdriver is engineered to streamline the development and deployment process, a
 
 ### What is Massdriver?
 
-Massdriver is a visual development environment that enables teams to quickly design internal developer platform (IDP) that facilitates the deployment of production-ready cloud infrastructure and applications in minutes. It acts as a bridge between developers and operations teams, providing a collaborative platform to design, scale, automate, and observe robust cloud architectures effortlessly.
+Massdriver is a platform orchestrator with a built-in developer portal. The platform team's existing Terraform, OpenTofu and Helm modules are the unit of abstraction: they publish to a catalog with a JSON schema, and Massdriver generates the forms, resolves dependencies between modules, runs policy (Checkov by default, plus allow/deny rules keyed to environment and organization attributes) before the plan, and executes each deploy as a generated, ephemeral pipeline. Developers and AI agents (via an MCP server and a Claude Code plugin) provision from the catalog without cloud credentials.
 
 ### What is the mission and vision of Massdriver?
 
-Massdriver aims to fulfill the promise of the cloud by providing scalability, agility, and ease of use akin to a Platform as a Service (PaaS), without compromising on flexibility and control. It envisions to become a go-to platform for teams looking to accelerate cloud-native application development and deployment while ensuring security and compliance.
+Massdriver's aim is governed infrastructure self-service: the operations team defines what good infrastructure looks like once, and humans and agents consume it safely. It is not a Platform as a Service; it orchestrates the customer's own IaC on the customer's own cloud accounts.
 
 ### A brief history of Massdriver
 
