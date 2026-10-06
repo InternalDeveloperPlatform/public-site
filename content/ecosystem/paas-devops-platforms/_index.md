@@ -19,6 +19,7 @@ If you don't want to build an IDP on your own, if you don't have the capacity to
 | [Coherence]({{< relref "coherence" >}})       |
 | [DevOpsBox]({{< relref "devopsbox" >}})       |
 | [dyrector.io]({{< relref "dyrectorio" >}})    |
+| [Easypanel]({{< relref "easypanel" >}})       |
 | [Giant Swarm]({{< relref "giantswarm" >}})    |
 | [gopaddle]({{< relref "gopaddle" >}})         |
 | [Mia-Platform]({{< relref "mia-platform" >}}) |
