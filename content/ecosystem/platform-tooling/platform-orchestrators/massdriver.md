@@ -5,10 +5,10 @@ url="/platform-orchestrators/massdriver"
 
 # Massdriver
 
-**Claim:** Internal developer platform and platform orchestrator for the Terraform, OpenTofu and Helm your platform team already writes.
+**Claim:** Platform orchestrator for the Terraform, OpenTofu and Helm your platform team already writes.
 
 **Focus:**
-Massdriver is an internal developer platform and platform orchestrator. Platform teams publish the Terraform, OpenTofu, and Helm they already write to a catalog; developers and AI agents provision from it with policy enforced before every deploy. Self-hosted or managed. Massdriver orchestrates the platform team's own modules and does not own the runtime.
+Massdriver is a platform orchestrator. Platform teams publish the Terraform, OpenTofu, and Helm they already write to a catalog; developers and AI agents provision from it with policy enforced before every deploy. Self-hosted or managed. Massdriver orchestrates the platform team's own modules and does not own the runtime.
 
 
 **Website:** [massdriver.cloud](https://massdriver.cloud/)
