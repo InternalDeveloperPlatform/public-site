@@ -25,7 +25,7 @@ Massdriver is a platform orchestrator. Platform teams publish the Terraform, Ope
 | Integration Concept        | Extendable with OpenTofu, Terraform, Helm, Bicep                                            |
 | Setup time first app       | Under a day, built from a one-hour architecture conversation                                |
 | Source                     | Closed core; open bundle and resource-type specs, open catalog                              |
-| Use Case                   | Platform teams of 3-20 supporting 50-500 developers                                         |
+| Use Case                   | Platform teams of 3-20 supporting 50-4,000 developers                                       |
 | Total Cost of Ownership    | [Subscription and Enterprise plans](https://massdriver.cloud/pricing)                       |
 | Adoption                   | Platform teams at companies including Justworks and UniDoc                                  |
 
