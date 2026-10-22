@@ -22,12 +22,12 @@ Massdriver is a platform orchestrator. Platform teams publish the Terraform, Ope
 | DevOps Knowledge Required? | No                                                                                          |
 | Self-hosted                | Yes (self-hosted or managed)                                                                |
 | Orchestrator               | Kubernetes, AWS ECS, Nomad, VMs, Serverless                                                 |
-| Integration Concept        | Extendable with OpenTofu, Terraform, Helm                                                   |
-| Setup time first app       | 1-4 hours                                                                                   |
-| Source                     | Closed core with open-source infrastructure marketplace                                     |
-| Use Case                   | Startups to Fortune 500                                                                     |
-| Total Cost of Ownership    | [Free, Subscription, & Enterprise Plans](https://massdriver.cloud/pricing)                  |
-| Adoption                   | 100+ Companies from Seed to IPO; Official Infrastructure Partner of Microsoft Founder's Hub |
+| Integration Concept        | Extendable with OpenTofu, Terraform, Helm, Bicep                                            |
+| Setup time first app       | Under a day, built from a one-hour architecture conversation                                |
+| Source                     | Closed core; open bundle and resource-type specs, open catalog                              |
+| Use Case                   | Enterprises: healthcare, insurance, financial services, legal and information services      |
+| Total Cost of Ownership    | [Subscription and Enterprise plans](https://massdriver.cloud/pricing)                       |
+| Adoption                   | Platform teams at companies including Justworks and UniDoc                                  |
 
 {{< button href="https://massdriver.cloud" target="_blank" >}}
 -> Massdriver
@@ -44,22 +44,28 @@ Massdriver's aim is governed infrastructure self-service: the operations team de
 
 ### A brief history of Massdriver
 
-Founded in 2021 by Cory O'Daniel, David Williams, and Chris Hill, Massdriver started with a mission to simplify cloud infrastructure management and DevOps processes, allowing teams to focus on building great products. Massdriver is backed by Y Combinator and raised an [$8 million dollar](https://blog.massdriver.cloud/posts/announcing-our-series-seed-round/) seed round from Builders VC in June of 2023.
+Founded in 2021 by Cory O'Daniel and Chris Hill, Massdriver started with a mission to simplify cloud infrastructure management and DevOps processes, allowing teams to focus on building great products. Massdriver is backed by Y Combinator and raised an [$8 million dollar](https://blog.massdriver.cloud/posts/announcing-our-series-seed-round/) seed round from Builders VC in June of 2023.
 
 ### Core features of Massdriver
 
-- **Infrastructure as Diagrams:** Diagrams as the source of truth. Onboard team members faster with accurate representations of your cloud environment.
-- **Preview Environments:** Infrastructure, database, and apps per pull-request.
-- **Dynamic Configuration:** Infrastructure configuration and secrets automatically configured during deployments based on diagram connections.
-- **Secrets Management:** Store 3rd party secrets without the need to manage tools like HashiCorp Vault.
+- **Governed Catalog:** Platform teams publish bundles; anything outside the catalog is not deployable.
+- **Policy Before Deploy:** Checks run on every change, with plan, propose, and deploy as separately permissioned steps.
+- **Attribute-Based Access Control:** Access scoped by environment, team, and attributes you define, including blast radius.
+- **Agents Without Cloud Credentials:** Agents hold scoped Massdriver tokens; Massdriver holds the cloud credentials.
+- **Massdriver Architect:** A Claude Code plugin that designs and deploys from the approved catalog.
+- **Versioned Resource Types:** Resource types published as OCI artifacts, with version-ranged connections between bundles.
+- **Release Channels:** Push a module once and roll it across every project and environment.
+- **Live Inventory:** Every resource, deploy, and dependency as queryable data with an owner.
+- **Audit Records:** Per-change record with proposer, approver, plan diff, and policy results.
+- **Preview Environments:** Infrastructure, database, and apps per pull request.
+- **Dynamic Configuration:** Configuration and secrets wired automatically from catalog dependencies at deploy time.
+- **Secrets Management:** Store third-party secrets without running a separate secrets tool.
 - **Automated IAM:** Principle of least privilege by default.
-- **Unified Infrastructure and Application Management:** Consolidated configuration management for infrastructure and applications.
-- **Extendable Orchestration Support:** VMs, serverless, and containers supported out-of-the-box, with support for any workload your IaC tools support.
-- **Infrastructure Provisioning and State Storage:** Manages IaC workflows and IaC state.
-- **API First:** Integrate our GraphQL API into your backends, GitOps process, or UIs, for enhanced workflow automation and interoperability.
-- **Parity and Environment Replication:** Easily replicate infrastructure and applications between application environments, regions, or tenants.
-- **Extendable with IaC:** Extend the platform with OpenTofu, Terraform, and Helm.
-- **Automated Metrics:** Infrastructure diagrams as dashboards.
-- **CI/CD Integration:** Seamlessly integrate infrastructure and application management into your CI/CD system.
+- **Compliance Mappings:** Controls mapped to SOC 2, HIPAA, PCI DSS, NIST AI RMF, ISO/IEC 42001, and EU DORA.
+- **Extendable Orchestration Support:** VMs, serverless, and containers out of the box, plus anything your IaC tools support.
+- **Infrastructure Provisioning and State Storage:** Manages IaC workflows and state.
+- **API First:** GraphQL API for backends, GitOps processes, and custom UIs.
+- **Parity and Environment Replication:** Replicate infrastructure and applications across environments, regions, or tenants.
+- **CI/CD Integration:** Integrates with your existing CI/CD system.
 - **Multi-Cloud Support:** Supports any cloud your IaC tools support.
 - **Production Ready Marketplace:** Secure, compliant reference architectures to get teams started quickly.

@@ -19,7 +19,7 @@ Source: Thoughtworks, Technology Radar Vol 29, [Platform orchestration](https://
 | [Humanitec]({{< relref "humanitec" >}})     | Powers your Internal Developer Platform (IDP)                                                                         |
 | [Kratix]({{< relref "kratix" >}})           | Open-source platform framework for building composable internal developer platforms (IDPs)                            |
 | [KusionStack]({{< relref "kusionstack" >}}) | Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform            |
-| [Massdriver]({{< relref "massdriver" >}})   | Streamlines the Design and Development of Internal Developer Platform (IDP) with Integrated Infrastructure Visibility |
+| [Massdriver]({{< relref "massdriver" >}})   | Platform orchestrator for the Terraform, OpenTofu and Helm your platform team already writes                          |
 
 
 
