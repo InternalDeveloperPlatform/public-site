@@ -24,6 +24,7 @@ There are a number of great DevOps consultancies out there that can help you to 
 | [Expert Thinking]({{< relref "expert-thinking" >}})                 |
 | [Hallatek]({{< relref "hallatek" >}})                               |
 | [InfraCloud Technologies]({{< relref "infracloud-technologies" >}}) |
+| [Kubespectra (infologistix)]({{< relref "kubespectra" >}})          |
 | [LiveWyer]({{< relref "livewyer" >}})                               |
 | [Masterpoint]({{< relref "masterpoint" >}})                         |
 | [NorthCode]({{< relref "northcode" >}})                             |
