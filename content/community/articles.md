@@ -9,6 +9,27 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2026
+- [What is an agentic enterprise?](https://weaveintelligence.io/blog/what-is-an-agentic-enterprise) *Sam Barlien, Researcher @ Weave Intelligence*
+- [The AI platform team](https://weaveintelligence.io/blog/ai-platform-team) *Kaspar von Grünberg, CEO @ Weave Intelligence*
+- [What is an AI software factory?](https://weaveintelligence.io/blog/ai-software-factory) *Kaspar von Grünberg, CEO @ Weave Intelligence*
+- [Harness engineering vs. loop engineering vs. platform engineering](https://weaveintelligence.io/blog/harness-engineering-vs-loop-engineering-vs-platform-engineering) *Kaspar von Grünberg, CEO @ Weave Intelligence*
+- [The inflection point: How platform engineering serves the world](https://weaveintelligence.io/blog/the-inflection-point-how-platform-engineering-serves-the-world) *Sam Barlien, Researcher @ Weave Intelligence*
+- [Platform engineering and the future of software](https://weaveintelligence.io/blog/platform-engineering-and-the-future-of-software) *Luca Galante, Lead Analyst @ Weave Intelligence*
+- [Platform engineering as the foundation for AI](https://weaveintelligence.io/blog/platform-engineering-as-the-foundation-for-ai) *Luca Galante, Lead Analyst @ Weave Intelligence*
+- [AI agents turn one request into about 20. Kubernetes is evolving to handle it.](https://thenewstack.io/kagent-kubernetes-ai-agents/) *Bill Doerrfeld, Editor-in-Chief @ Nordic APIs*
+- [How platform engineering became a discipline](https://weaveintelligence.io/blog/how-platform-engineering-became-a-discipline) *Luca Galante, Lead Analyst @ Weave Intelligence*
+- [Why is the demand for platform engineers exploding?](https://weaveintelligence.io/blog/why-is-the-demand-for-platform-engineers-exploding) *Kaspar von Grünberg, CEO @ Weave Intelligence & Luca Galante, Lead Analyst @ Weave Intelligence*
+- [Why vulnerability management is a platform capability, not a developer responsibility](https://weaveintelligence.io/blog/why-vulnerability-management-is-a-platform-capability-not-a-developer-responsibility) *Sam Barlien, Researcher @ Weave Intelligence*
+- [What is platform engineering?](https://platformengineering.org/blog/what-is-platform-engineering) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [The 4 levels of agentic software development](https://platformengineering.org/blog/the-4-levels-of-agentic-software-development) *Kaspar von Grünberg, CEO @ Weave Intelligence & Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [Introducing Platform Engineering 2.0: An evolution for the AI era](https://platformengineering.org/blog/introducing-platform-engineering-2-0-an-evolution-for-the-ai-era) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
+- [Platform engineering needs to evolve. These 5 forces prove it.](https://platformengineering.org/blog/platform-engineering-needs-to-evolve-these-5-forces-prove-it) *Pankaj Gupta, Senior Director of Private Cloud Solutions @ VMware by Broadcom*
+- [PlatformCon 2026 wrap-up: No AI at scale without platform engineering](https://platformengineering.org/blog/platformcon-2026-wrap-up-no-ai-at-scale-without-platform-engineering) *Sam Barlien, Head of Ecosystem @ Platform Engineering & Florian Lipp, Senior Analyst @ Weave Intelligence*
+- [Why platform engineering will eat the world](https://platformengineering.org/blog/why-platform-engineering-will-eat-the-world) *Kaspar von Grünberg, CEO @ Weave Intelligence*
+- [AI and Platform Engineering](https://platformengineering.org/blog/ai-and-platform-engineering) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [What is a Minimum Viable Platform (MVP)?](https://platformengineering.org/blog/what-is-a-minimum-viable-platform-mvp) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [Agent-first IDP: how big tech and the clouds are preparing platforms for agents](https://platformengineering.org/blog/agent-first-idp-how-big-tech-and-the-clouds-are-preparing-platforms-for-agents) *Eugene Sergueev, Director of Engineering @ Flo Health Inc.*
+- [The agent reliability score: What your AI platform must guarantee before agents go live](https://platformengineering.org/blog/the-agent-reliability-score-what-your-ai-platform-must-guarantee-before-agents-go-live) *Eugene Sergueev, Director of Engineering @ Flo Health Inc.*
 - [The inflection point: How platform engineering serves the world](https://weaveintelligence.io/blog/the-inflection-point-how-platform-engineering-serves-the-world) *Sam Barlien, Researcher @ Weave Intelligence*
 - [Platform engineering and the future of software](https://weaveintelligence.io/blog/platform-engineering-and-the-future-of-software) *Luca Galante, Lead Analyst @ Weave Intelligence*
 - [Platform engineering as the foundation for AI](https://weaveintelligence.io/blog/platform-engineering-as-the-foundation-for-ai) *Luca Galante, Lead Analyst @ Weave Intelligence*
