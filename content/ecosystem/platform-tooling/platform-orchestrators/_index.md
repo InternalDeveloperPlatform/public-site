@@ -20,8 +20,6 @@ Source: Thoughtworks, Technology Radar Vol 29, [Platform orchestration](https://
 | [Kratix]({{< relref "kratix" >}})           | Open-source platform framework for building composable internal developer platforms (IDPs)                            |
 | [KusionStack]({{< relref "kusionstack" >}}) | Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform            |
 | [Massdriver]({{< relref "massdriver" >}})   | Platform orchestrator for the Terraform, OpenTofu and Helm your platform team already writes                          |
-
-
-
+| [OpenChoreo]({{< relref "openchoreo" >}})   | Open-source internal developer platform for Kubernetes |
 
 [def]: https://www.thoughtworks.com/en-de/radar/techniques/platform-orchestration
