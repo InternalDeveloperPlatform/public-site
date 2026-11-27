@@ -9,6 +9,32 @@ weight=30
 _Here we provide a repository of the latest and greatest blog posts and articles all about Internal Developer Platforms (IDP). Wrote an amazing piece and like to have it included? [Submit a pull request!]({{< relref "/#how-to-contribute-to-internal-developer-platform" >}})_
 
 ## 2026
+- [One pull request, two walls: Onboarding teams onto a shared EKS platform](https://platformengineering.org/blog/one-pull-request-two-walls-onboarding-teams-shared-eks-platform) *Vladimir Mikhalev, Docker Captain, CNCF Ambassador, IBM Champion*
+- [Agent harness design is a platform engineering job](https://weaveintelligence.io/blog/agent-harness-design-platform-engineering) *Kaspar von Grünberg, CEO @ Weave Intelligence*
+- [Why only 19% of backend developers say they use Kubernetes](https://platformengineering.org/blog/why-only-19-percent-of-backend-developers-say-they-use-kubernetes) *Tatiana Mikhaleva, Founder & Senior Developer Advocate @ DevOps.Pink*
+- [10 FinOps tools to consider in 2027](https://weaveintelligence.io/blog/10-finops-tools-to-consider-in-2027) *Florian Lipp, Senior Analyst @ Weave Intelligence*
+- [What are AI SRE agents in the age of agentic engineering platforms?](https://platformengineering.org/blog/what-are-ai-sre-agents-agentic-engineering-platforms) *Artem Lajko, Platform Engineer @ iits-consulting*
+- [Announcing new course: AI in Platform Engineering](https://platformengineering.org/blog/announcing-new-course-ai-in-platform-engineering) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [Announcing new course: GitOps for Platform Engineering](https://platformengineering.org/blog/announcing-new-course-gitops-for-platform-engineering) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
+- [What is a data platform engineer?](https://platformengineering.org/blog/what-is-a-data-platform-engineer) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [What is a security platform engineer?](https://platformengineering.org/blog/what-is-a-security-platform-engineer) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [What does a DevEx platform engineer do?](https://platformengineering.org/blog/what-does-a-devex-platform-engineer-do) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [How to become a platform engineer](https://platformengineering.org/blog/how-to-become-a-platform-engineer) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
+- [Why companies fail at Internal Developer Platforms](https://platformengineering.org/blog/why-companies-fail-at-internal-developer-platforms) *Artem Lajko, Platform Engineer @ iits-consulting*
+- [Overwhelmed by scale: How product thinking fixes platform teams](https://platformengineering.org/blog/overwhelmed-by-scale-how-product-thinking-fixes-platform-teams) *Dominik Schmidle, Group Product Manager, Platforms @ Giant Swarm*
+- [The layer of your platform nobody owns](https://platformengineering.org/blog/the-layer-of-your-platform-nobody-owns) *Timea-Erika Papp, Senior Writer @ Sidero*
+- [10 platform engineering events to attend in 2027](https://platformengineering.org/blog/platform-engineering-events-2027) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
+- [10 platform engineering books worth your time in 2026](https://platformengineering.org/blog/10-platform-engineering-books-worth-your-time-in-2026) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
+- [Platform Engineering Kaigi 2026 recap: From concept to practice, finding AI native answers together](https://platformengineering.org/blog/platform-engineering-kaigi-2026-recap-from-concept-to-practice-finding-ai-native-answers-together) *Kaito Ii, Platform Architect @ Hewlett Packard Enterprise*
+- [Agentic development is fragmented; platform engineering isn't](https://platformengineering.org/blog/agentic-development-is-fragmented-platform-engineering-isnt) *Dima Dababneh, Software Engineer Manager @ Solace*
+- [Beyond SHA pinning: Why immutability isn't provenance in GitHub Actions](https://platformengineering.org/blog/beyond-sha-pinning-why-immutability-isnt-provenance-in-github-actions) *Erika Heidi, Staff Developer Relations Engineer @ Chainguard*
+- [How platform engineering 2.0 governs the new digital workforce: The AI agents](https://platformengineering.org/blog/how-platform-engineering-2-0-governs-the-new-digital-workforce-the-ai-agents) *Pankaj Gupta, Senior Director of Private Cloud Solutions @ VMware by Broadcom*
+- [What is an Agentic Platform?](https://weaveintelligence.io/blog/what-is-an-agentic-platform) *Kaspar von Grünberg, CEO @ Weave Intelligence*
+- [Platform engineering tools you NEED to know in 2026](https://platformengineering.org/blog/platform-engineering-tools-2026) *Mallory Haigh, Head of Platform Education and Advocacy @ Platform Engineering Consulting*
+- [Announcing PlatformCon San Francisco](https://weaveintelligence.io/blog/announcing-platformcon-san-francisco) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [Announcing AgenticCon San Francisco](https://weaveintelligence.io/blog/announcing-agenticcon-san-francisco) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
+- [How to justify investment in a platform](https://platformengineering.org/blog/how-to-justify-investment-in-a-platform) *Juliano Marcos Martins, Country Manager @ nullplatform*
+- [Platform teams should think tracing first](https://platformengineering.org/blog/platform-teams-should-think-tracing-first) *Kaspar von Grünberg, CEO @ Weave Intelligence*
 - [What is an agentic enterprise?](https://weaveintelligence.io/blog/what-is-an-agentic-enterprise) *Sam Barlien, Researcher @ Weave Intelligence*
 - [The AI platform team](https://weaveintelligence.io/blog/ai-platform-team) *Kaspar von Grünberg, CEO @ Weave Intelligence*
 - [What is an AI software factory?](https://weaveintelligence.io/blog/ai-software-factory) *Kaspar von Grünberg, CEO @ Weave Intelligence*
@@ -30,9 +56,6 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [What is a Minimum Viable Platform (MVP)?](https://platformengineering.org/blog/what-is-a-minimum-viable-platform-mvp) *Luca Galante, Managing Director & Senior Analyst @ Weave Intelligence*
 - [Agent-first IDP: how big tech and the clouds are preparing platforms for agents](https://platformengineering.org/blog/agent-first-idp-how-big-tech-and-the-clouds-are-preparing-platforms-for-agents) *Eugene Sergueev, Director of Engineering @ Flo Health Inc.*
 - [The agent reliability score: What your AI platform must guarantee before agents go live](https://platformengineering.org/blog/the-agent-reliability-score-what-your-ai-platform-must-guarantee-before-agents-go-live) *Eugene Sergueev, Director of Engineering @ Flo Health Inc.*
-- [The inflection point: How platform engineering serves the world](https://weaveintelligence.io/blog/the-inflection-point-how-platform-engineering-serves-the-world) *Sam Barlien, Researcher @ Weave Intelligence*
-- [Platform engineering and the future of software](https://weaveintelligence.io/blog/platform-engineering-and-the-future-of-software) *Luca Galante, Lead Analyst @ Weave Intelligence*
-- [Platform engineering as the foundation for AI](https://weaveintelligence.io/blog/platform-engineering-as-the-foundation-for-ai) *Luca Galante, Lead Analyst @ Weave Intelligence*
 - [10 FinOps tools platform engineers should evaluate for 2026](https://platformengineering.org/blog/10-finops-tools-platform-engineers-should-evaluate-for-2026) *Ajay Chankramath, CEO @ Platformetrics*
 - [The biggest challenges platform engineering teams are facing in 2026](https://platformengineering.org/blog/the-biggest-challenges-platform-engineering-teams-are-facing-in-2026) *Sam Barlien, Head of Ecosystem @ Platform Engineering*
 - [Platform engineering maturity in 2026: What the data tells us](https://platformengineering.org/blog/platform-engineering-maturity-in-2026) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
@@ -41,9 +64,7 @@ _Here we provide a repository of the latest and greatest blog posts and articles
 - [Policy as code: The platform engineer's guide to automated governance and compliance](https://platformengineering.org/blog/policy-as-code) *Ajay Chankramath, CEO @ Platformetrics & Bryan Oliver, Principal Consultant @ Thoughtworks*
 - [The platform engineering reality check: Is your initiative on track?](https://platformengineering.org/blog/the-platform-engineering-reality-check) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
 - [Five product management principles for internal developer platforms](https://platformengineering.org/blog/five-product-management-principles-for-internal-developer-platforms) *Karolina Semiuk, Education & Partner Programs @ Platform Engineering*
-- [Why platform engineering will eat the world](https://platformengineering.org/blog/why-platform-engineering-will-eat-the-world) *Kaspar von Grünberg & Luca Galante, Lead Analyst @ Weave Intelligence*
 - [Platform engineering interview guide: What you need to know to land your next role](https://platformengineering.org/blog/job-interview-platform-engineering-role) *Mallory Haigh, Principal Platform Therapist @ Platform Engineering*
-- [Why is the demand for platform engineers exploding?](https://weaveintelligence.io/blog/why-is-the-demand-for-platform-engineers-exploding) *Kaspar von Grünberg & Luca Galante, Lead Analyst @ Weave Intelligence*
 - [The four levels of agentic software development in the enterprise](https://weaveintelligence.io/research/the-four-levels-of-agentic-software-development-in-the-enterprise) *Kaspar von Grünberg, Luca Galante, Ajay Chankramath & Mallory Haigh @ Weave Intelligence*
 - [Operationalizing AI coding agents in regulated industries](https://weaveintelligence.io/research/operationalizing-ai-coding-agents-in-regulated-industries) *Sam Barlien, Researcher @ Weave Intelligence*
 
